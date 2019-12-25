@@ -1,0 +1,5261 @@
+﻿0 HEAD
+1 SOUR PAF
+2 NAME Personal Ancestral File
+2 VERS 5.2.18.0
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+4 CONT USA
+1 DEST Other
+1 DATE 18 Dec 2019
+2 TIME 11:34:13
+1 FILE hayden.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME x
+1 ADDR x
+2 CONT x
+2 CONT x
+2 CONT x
+2 CTRY x
+0 @I3@ INDI
+1 NAME Joseph Weldon /Jones/
+2 SURN Jones
+2 GIVN Joseph Weldon
+2 _AKA Weldon
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1908
+2 PLAC Pollock, Angelina County, Texas
+1 DEAT
+2 DATE 6 Dec 1987
+2 PLAC Dayton, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia Park, Dayton, Liberty County, Texas
+1 _UID D29E7491619F3943916C9E08ED241713CFC6
+1 FAMS @F2@
+1 FAMS @F3@
+1 FAMC @F4@
+1 NOTE https://www.findagrave.com/memorial/25393981/joseph-weldon-jones
+2 CONT 
+2 CONT 
+2 CONT First Name: Joseph Middle Name: W Last Name: Jones Name Suffix: Birth Date: 16 August 1908 So
+2 CONC cial Security Number: 450-24-7547 Place of Issuance: Texas Last Residence: Liberty, Texas Zi
+2 CONC p Code of Last Residence: 77535 Death Date: 6 December 1987 Estimated Age at Death: 79
+2 CONT 
+2 CONT verified in cemetery
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I4@ INDI
+1 NAME Gladys Estelle /Alexander/
+2 SURN Alexander
+2 GIVN Gladys Estelle
+1 SEX F
+1 BIRT
+2 DATE 16 Mar 1914
+2 PLAC Pollock, Angelina County, Texas
+1 DEAT
+2 DATE 27 Jan 1978
+2 PLAC Liberty, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia Park, Dayton, Liberty County, Texas
+1 _UID 86381D525D48594283BBD341A7718856B569
+1 FAMS @F2@
+1 NOTE https://www.findagrave.com/memorial/25393976/gladys-estelle-jones
+2 CONT 
+2 CONT 
+2 CONT First Name: Gladys Middle Name: Last Name: Jones Name Suffix: Birth Date: 15 March 1914 Socia
+2 CONC l Security Number: 456-40-4253 Place of Issuance: Texas Last Residence: Liberty, Texas Zip Co
+2 CONC de of Last Residence: 77535 Death Date: January 1978 Estimated Age at Death: 64
+2 CONT 
+2 CONT Lorine showed birth date as 8-16-1914
+2 CONT 
+2 CONT verified in cemetery
+1 CHAN
+2 DATE 23 Jul 2019
+3 TIME 01:00:00
+0 @I9@ INDI
+1 NAME William D Y /Davis/
+2 SURN Davis
+2 GIVN William D Y
+1 SEX M
+1 BIRT
+2 DATE Jan 1836
+2 PLAC Tennessee
+1 DEAT
+2 DATE 4 Dec 1900
+2 PLAC Forrest, Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 2D4511B36AE82841A333AD2504FEA8579A9E
+1 FAMS @F8@
+1 FAMC @F9@
+1 NOTE https://www.findagrave.com/memorial/63028750/william-d._y.-davis
+2 CONT 
+2 CONT Note:
+2 CONT also in Civil War. ====================1860 Angelina co Texas 6 july pg49William D. y 23 F
+2 CONC armer msSarah 18 txJohn Y. 19 tx=================1870 Bell co Texasdavis William 32Sara
+2 CONC h 31 Jesse 7Susan 5Jemima 1Harriet 32Samuel 10===================1880 angelina texasD
+2 CONC avis William d.y tennSarah p. 38 wife tex tenn txJesse w. son texElizabeth 15 dau txGeman
+2 CONC y 10 dau txAlemina 8 dau txLousia 5 txJulia 1 dau tx===================1900 Cherokee c
+2 CONC o Texas307Davis William Jan 1835 mar 30 yrs Miss miss missSarah oct 1841 58 30 yr 8 ch te
+2 CONC x tex texJulie march 1881 19 tex miss tex
+2 CONT 
+2 CONT Davis is on his pension papers for being in the Confederate Army.
+2 CONT Unsure if this is him?TX 1890 Veterans Schedule: DAVIS, WILLIAM D. Angelina Co, Pct 3, page
+2 CONT 
+2 CONT Military Service:Company D, 22nd Texas Infantry, CSA, War for Southern Independence. (Source
+2 CONC : Confederate Graves Registry, Sons of Confederate Veterans, www.scv.org - info provided by D
+2 CONC es #47520387)
+2 CONT 
+2 CONT Note:
+2 CONT also in Civil War. ====================1860 Angelina co Texas 6 july pg49William D. y 23 F
+2 CONC armer msSarah 18 txJohn Y. 19 tx=================1870 Bell co Texasdavis William 32Sara
+2 CONC h 31 Jesse 7Susan 5Jemima 1Harriet 32Samuel 10===================1880 angelina texasD
+2 CONC avis William d.y tennSarah p. 38 wife tex tenn txJesse w. son texElizabeth 15 dau txGeman
+2 CONC y 10 dau txAlemina 8 dau txLousia 5 txJulia 1 dau tx===================1900 Cherokee c
+2 CONC o Texas307Davis William Jan 1835 mar 30 yrs Miss miss missSarah oct 1841 58 30 yr 8 ch te
+2 CONC x tex texJulie march 1881 19 tex miss tex
+2 CONT 
+2 CONT Davis is on his pension papers for being in the Confederate Army.
+2 CONT Unsure if this is him?TX 1890 Veterans Schedule: DAVIS, WILLIAM D. Angelina Co, Pct 3, page
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I10@ INDI
+1 NAME John Franklin /Berry/
+2 SURN Berry
+2 GIVN John Franklin
+1 SEX M
+1 BIRT
+2 DATE 5 Oct 1878
+2 PLAC Texas
+1 DEAT
+2 DATE 1901
+2 PLAC Texas
+1 BURI
+2 PLAC Berry cemetery, Angelina County, Texas
+1 _UID E819A0538B2A3947850D40C4FA543198D6AE
+1 FAMS @F10@
+1 FAMC @F11@
+1 NOTE https://www.findagrave.com/memorial/13724756/john-franklin-berry
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I11@ INDI
+1 NAME Ashburn /Davis/
+2 SURN Davis
+2 GIVN Ashburn
+1 SEX M
+1 BIRT
+2 DATE 1794
+2 PLAC Person, North Carolina
+1 DEAT
+2 DATE 1878
+2 PLAC Anna, Illinois
+1 _UID 699AC15B3D699342ADE2E69CA4B402C3C8AB
+1 FAMS @F9@
+1 FAMS @F12@
+1 FAMC @F13@
+1 NOTE 1830 Hickman Tennessee1846 Poll TaxDavis Ashburn Angelina 1850 Angelina co tx84 84Davi
+2 CONC s Ashburn 44 Blacksmith n.c.Hetta 41 tnGeorge A. 20 farmer tnLevi 16 laborer tnWilliam 1
+2 CONC 3 tnNancy a. 12 msJohn 7 txSusan 4 txFrancis B. 6/12 male txFrancis Brown 24 clerk in st
+2 CONC ore alaMartha Davis 20 ala======================1860 angelian co texas647 620Ashburn Dav
+2 CONC is 65 blacksmith tenHester 45 tnSusan 16 txFrancis 12 f says female now so take yur pic tx
+2 CONC Jemina 8 tx
+2 CONT 
+2 CONT Occupation: blacksmith BET 1850 AND 1860
+2 CONT 
+2 CONT Title: Texas Land Title AbstractsName: FootnoteName: ShortFootnoteName: BibliographyPage
+2 CONC : File 1720, certificate 5. Patents 459 & 460, Volume 29.
+2 CONT 
+2 CONT Ancestry says died in Illinois.  others show Texas
+1 CHAN
+2 DATE 28 Jan 2019
+3 TIME 00:00:00
+0 @I12@ INDI
+1 NAME Ephriam P /Anderson/
+2 SURN Anderson
+2 GIVN Ephriam P
+1 SEX M
+1 BIRT
+2 DATE 1836
+2 PLAC Mississippi
+1 DEAT
+2 DATE 1870
+2 PLAC Angelina County, Texas
+1 _UID FACD274555A61348A9A357185A128EEC2A8F
+1 FAMS @F14@
+1 FAMC @F15@
+1 NOTE Census: 5 JUL 1860 Homer, Angelina Co TX Note:
+2 CONT Age 24, "Ephriam", farmer. Value of estate $200. Born MS.Living with them, his sister, Emil
+2 CONC y ANDERSON, age 20. Born MS. She islisted directly following "Mirah".
+2 CONT 
+2 CONT Ephrain Anderson
+2 CONT company D
+2 CONT 22 Texas Infantry (Hubbard"s Texas Inf)
+2 CONT Rank Private
+2 CONT Confederate
+2 CONT think he died civil war
+2 CONT 
+2 CONT Census: 5 JUL 1860 Homer, Angelina Co TX Note:
+2 CONT Age 24, "Ephriam", farmer. Value of estate $200. Born MS.Living with them, his sister, Emil
+2 CONC y ANDERSON, age 20. Born MS. She islisted directly following "Mirah".
+1 CHAN
+2 DATE 13 Nov 2018
+3 TIME 00:00:00
+0 @I13@ INDI
+1 NAME William L /Anderson/
+2 SURN Anderson
+2 GIVN William L
+2 NICK Bill
+1 SEX M
+1 BIRT
+2 DATE 9 Dec 1867
+2 PLAC Texas
+1 DEAT
+2 DATE 17 Jan 1936
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Rocky Hill cemetery, Angelina County, Texas
+1 _UID 432096A47DD8C74DB15F1AD38732FD682127
+1 FAMS @F16@
+1 FAMC @F14@
+1 NOTE https://www.findagrave.com/memorial/50199966/william-l.-anderson
+2 CONT 
+2 CONT 
+2 CONT VALUE: Angelina Co TX, page 109 (47), family 366/356 1 Census: 15 SEP 1870 Pennington, Angeli
+2 CONC na Co, TX Note: Cannot read or write, but attended school within the year.
+2 CONT 
+2 CONT Note: Listed in half-sister's obit from Jan 1934.
+2 CONT 
+2 CONT birth also shows 1858 in Ancestry
+2 CONT 
+2 CONT Note The Year they have on his stone i think is wrong , belive it was 1856 or 1857 not 1867H
+2 CONC is Parents are Ephriam P.Anderson & Nancy Elmirah Davis Anderson
+1 CHAN
+2 DATE 13 Nov 2018
+3 TIME 00:00:00
+0 @I14@ INDI
+1 NAME Eliza Jane /Anderson/
+2 SURN Anderson
+2 GIVN Eliza Jane
+2 _AKA Lisa Jane Anderson
+1 SEX F
+1 BIRT
+2 DATE 11 Nov 1859
+2 PLAC Mississippi
+1 DEAT
+2 DATE 5 Mar 1890
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID E36197CF70821447A8C754F1BF3268C9CD4A
+1 FAMS @F17@
+1 FAMC @F14@
+1 NOTE https://www.findagrave.com/memorial/120336421/lisa-jane-brookshire
+2 CONT 
+2 CONT 
+2 CONT Lisa Jane Anderson was born on 11 Nov 1859 in Mississippi and died on 5 Mar 1890. Jane marrie
+2 CONC d John Mannering W. Brookshire on 31 Jul 1875 in Angelina County, Texas.Children of Jane An
+2 CONC derson and John M. W. Brookshire were:i. Thomas W. Brookshire b. on 30 Sep 1876 in Angelin
+2 CONC a County, Texas and died on 22 Apr 1928 in Angelina County, Texas. Thomas married 1)Nancy Azl
+2 CONC ee Sims on 20 Mar 1898 in Angelina County, Texas. Nancy was born on 20 Dec 1881 in Angelina C
+2 CONC ounty, Texas and died on 25 Feb 1972 in Angelina County, Texas; married 2)Maggie O'Dell McCoy
+2 CONC , daughter of William Daniel McCoy, Sr. and Ardell P. Joyner/Joiner, on 21 May 1902 in Angeli
+2 CONC na County, Texas. Maggie was born in Nov 2879 in Angelina County, Texas and died on 2 Mar 193
+2 CONC 6 in Angelina County, Texas. ii. William Monroe Brookshire was born in Feb 1878 in Angelin
+2 CONC a County, Texas.iii. Martha Lou Ella Brookshire was born in 1880 in Angelina County, Texas a
+2 CONC nd died in 2950 in Lufkin, Angelina County, Texas. Martha married Charles Albert Reynolds so
+2 CONC n of Oliver Perry Reynolds and Eliza Jane Nerren, on 2 Nov 1896 in Angelina County, Texas.I
+2 CONC V Worley Gerome Brookshire was born on 16 Aug 1883 in Angelina County, Texas and died on 38 M
+2 CONC ar 1961 in Nacogdoches, Texas. Worley married Gertrude Otie Tubbe on 16 Apr 1920 in Angelin
+2 CONC a County, Texas.V. John Madison Brookshire was born on 27 Jun 1886 in Angelina County, Texa
+2 CONC s and died on 20 Oct 2936 in Angelina County, Texas. John married Cassie O'Rell McCoy, daught
+2 CONC er of William Daniel McCoy and Ardell P. Joyner, on 21 Jul 1902 in Angelina County, Texas.
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I15@ INDI
+1 NAME Hester /Hetta/
+2 SURN Hetta
+2 GIVN Hester
+2 _AKA Hetta
+1 SEX F
+1 BIRT
+2 DATE 1814
+2 PLAC Tennessee
+1 DEAT
+2 DATE AFT 1850
+2 PLAC Texas
+1 _UID 7A1324C7B8FBE74396669F54F66EE1CB5421
+1 FAMS @F9@
+1 NOTE birth date also shows about 1809 and 1815
+2 CONT ancestry.com says 1814
+1 CHAN
+2 DATE 28 Jan 2019
+3 TIME 00:00:00
+0 @I17@ INDI
+1 NAME Albert Alvin /Jones/
+2 SURN Jones
+2 GIVN Albert Alvin
+2 _AKA Albert Alvin Jones
+1 SEX M
+1 BIRT
+2 DATE 9 Aug 1884
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 29 May 1966
+2 PLAC Dayton, Liberty County, Texas
+1 BURI
+2 PLAC Greenville Cemetery, Kinifick, Liberty County, Texas
+1 _UID B254E7AEA916324C8CAC9BAE9DA58D537BEE
+1 FAMS @F4@
+1 FAMS @F19@
+1 FAMC @F20@
+1 NOTE https://www.findagrave.com/memorial/60912766/albert-alvin-jones
+2 CONT 
+2 CONT used Mrs. J.B. O'Quinn as someone who would know him on draft card he used 8-9-1884 on draf
+2 CONC t card
+2 CONT 
+2 CONT birth date shows 8-9-1883 on death certificate
+2 CONT 
+2 CONT was a farmer in 1942 in Ewing, Angelina County, Texas
+2 CONT 
+2 CONT social security 458-36-4223
+2 CONT 
+2 CONT verified in cemetery
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I18@ INDI
+1 NAME Lillian Margarette /Selman/
+2 SURN Selman
+2 GIVN Lillian Margarette
+2 _AKA Lillian Margaret Sellman
+1 SEX F
+1 BIRT
+2 DATE 26 Feb 1886
+2 PLAC Texas
+1 DEAT
+2 DATE 18 Dec 1968
+2 PLAC Liberty, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia Park Cemetery, Dayton, Liberty County, Texas
+1 _UID FA8FED09D9DDC54FB6B9501A3F599F49A23F
+1 FAMS @F4@
+1 NOTE 461-86-8459
+2 CONT 
+2 CONT https://www.findagrave.com/memorial/25393978/lillian-margarette-jones
+2 CONT 
+2 CONT verified in cemetery
+2 CONT ancestry has her as Mary Lillian
+2 CONT 
+2 CONT 
+2 CONT 1940 census she was divorced and head of house hold
+2 CONT Lilliam 55
+2 CONT H L    28
+2 CONT Louie  19
+2 CONT 
+2 CONT 461-86-8459
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I21@ INDI
+1 NAME Hade Leland /Jones/
+2 SURN Jones
+2 GIVN Hade Leland
+1 SEX M
+1 BIRT
+2 DATE 17 Oct 1910
+2 PLAC Manning, Angelina County, Texas
+1 DEAT
+2 DATE 26 Nov 1971
+2 PLAC Liberty, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia Park, Dayton, Liberty County, Texas
+1 _UID 24884BD4E0AF4D40A087AF6BBF445A058AC0
+1 FAMS @F25@
+1 FAMC @F4@
+1 NOTE was divorced when he died.
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I30@ INDI
+1 NAME Hayden Lane /Jones/
+2 SURN Jones
+2 GIVN Hayden Lane
+1 SEX M
+1 BIRT
+2 DATE 2 Jan 1864
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 14 Sep 1933
+2 PLAC Hardin County, Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID D1B213C53AEA2D49BF3D93ED77FDE0E1A6CC
+1 FAMS @F20@
+1 FAMS @F36@
+1 FAMC @F37@
+1 NOTE https://www.findagrave.com/memorial/63589103/hayden-lane-jones
+2 CONT 
+2 CONT on the 1880 census, he may have showed up in the house of John Massingill as a laborer, age 1
+2 CONC 6
+2 CONT 
+2 CONT Age 5 in 1870.Age 16 in 1880. Stated father born TN, nothing put for mother.
+2 CONT 
+2 CONT Census: 14 SEP 1870 Pennington, Angelina Co, TX Note:
+2 CONT Name spelled "Haden". Lived next door to the MASSINGILL family thathe would later be with i
+2 CONC n 1880.
+2 CONT _TMPLT: FIELD: Name: Page 1 Census: 19 JUN 1880 Angelina Co, TX Note: Living w/John MASSINGIL
+2 CONC L family as a laborer.
+2 CONT 
+2 CONT     1880 angelina co Texas    his mother and father were both dead
+2 CONT     House of John Massingill
+2 CONT     ===================
+2 CONT     1900 angelina co texas
+2 CONT     Jones H.r. jan 1864 36 mar 17 yrs
+2 CONT     Mary m. dec 1867 10 ch 6 liv
+2 CONT     Alvin A. son aug 1884 15
+2 CONT     B. E. V. dau june 1888 11
+2 CONT     Della dau june 1891 8
+2 CONT     john son sept 1893 6
+2 CONT     Clementine feb 1896 4
+2 CONT     O. d. dau March 1897 2
+2 CONT     Page Pursley srepson aug 1885 14  should be Pearl Page-Mary's kid
+2 CONT     Jones G. W. brother jan 1874 26
+2 CONT     ============================
+2 CONT     1910 Angelin co texas
+2 CONT     Jones hayden L. 46 m2 20 yrs
+2 CONT     Mary m. 50 mar2 20 yrs
+2 CONT     Della L. 18
+2 CONT     John A. 16
+2 CONT     Clementine 14
+2 CONT     odie 12
+2 CONT     eddie 9
+2 CONT     Page Pearl step son is Pearl Page-Mary's kid from marriage to Paul Page.  name is Pearl P
+2 CONC age
+2 CONT     ===============
+2 CONT     death cert says father is John Jones & Mother Davis.  He died in Hardin County, Texas
+2 CONT 
+2 CONT Change Date: 20 Jan 2010 at 16:42:30
+2 CONT 
+2 CONT live - Flora L Jones has attached a picture of Hayden L Jones to her Ancestry file.  Pay.
+2 CONT 
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=63589103
+2 CONT 
+2 CONT death cerificate shows Davis as mother.
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I31@ INDI
+1 NAME Clementine Cleshia /Berry/
+2 SURN Berry
+2 GIVN Clementine Cleshia
+2 NICK Buttons
+2 _AKA Clembie or Clementine Clishia Berry
+1 SEX F
+1 BIRT
+2 DATE 28 Sep 1862
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE ABT 1889
+2 PLAC Angelina County, Texas
+1 _UID AE478A6C4895AC4394B27CA966DFCBE3154C
+1 FAMS @F20@
+1 FAMC @F38@
+1 NOTE 
+2 CONT 
+2 CONT 
+2 CONT Note: Age 17 in 1880 census. Census: 24 AUG 1870 Pennington, Angelina, TX Note: Clembie Berry
+2 CONC , age 7, born TX. _TMPLT: FIELD: Name: Page VALUE: Angelina Co TX, page 57 (149). Family/dwel
+2 CONC ling 85. 1 Census: 25 JUN 1880 Angelina Co, TX Note: Could not read or write.
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I34@ INDI
+1 NAME Frankie Emily /Tunnell/
+2 SURN Tunnell
+2 GIVN Frankie Emily
+1 SEX F
+1 BIRT
+2 DATE 10 Mar 1913
+2 PLAC Texas
+1 DEAT
+2 DATE 1 Jul 1990
+2 PLAC Hillister, Tyler County, Texas
+1 BURI
+2 PLAC Beech Creek Baptist cemetery, Spurger, Tyler County, Texas
+1 _UID 603540A24105944A9324BE540740307550D7
+1 FAMS @F41@
+1 FAMC @F42@
+1 NOTE https://www.findagrave.com/memorial/104319224/frankie-e_-english
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I35@ INDI
+1 NAME Jonas S /English/
+2 SURN English
+2 GIVN Jonas S
+1 SEX M
+1 BIRT
+2 DATE 11 Apr 1906
+2 PLAC Texas
+1 DEAT
+2 DATE 17 Feb 2002
+2 PLAC Hillister, Tyler County, Texas
+1 _UID 68964434DDD5064189B6B037AC7071A9CBAE
+1 FAMS @F41@
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I37@ INDI
+1 NAME John Franklin /Jones/
+2 SURN Jones
+2 GIVN John Franklin
+2 _AKA john william jones
+1 SEX M
+1 BIRT
+2 DATE 18 Oct 1818
+2 PLAC Franklin County, Tennessee
+1 DEAT
+2 DATE 1864
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC McKindree Cemetery, Angelina County, Texas
+1 _UID 35C3FD27DA78DD4A8286D5FD3E14B3980C05
+1 FAMS @F37@
+1 FAMS @F44@
+1 FAMC @F45@
+1 NOTE https://www.findagrave.com/memorial/49950566/john-franklin-jones
+2 CONT 
+2 CONT Amanda C Harvey also shows to be the mother of Hayden L Jones
+2 CONT service: 3rd Brigade TST service Home guard (Angelina County, under Capt. H.A.B. Berry or thi
+2 CONC s may be H.A.P. according to the 1850 census)  Harry Amzi Philander Berry is buried in Acton
+2 CONC , TX
+2 CONT 
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=44696579  for HAP Berry
+2 CONT 
+2 CONT Texas Ranger Roster shows HAB Berry (1862 - Company C, Beat No. 3, Angelin County, 3rd Brigad
+2 CONC e, TST)
+2 CONT 
+2 CONT Marriage date also shows 5-25-1846
+2 CONT 
+2 CONT Age 42 in 1860. Stated born AL.Age 52 in 1870. Born AL.Age 62 in 1880. Stated born TN. Lef
+2 CONC t blank where his parents wereborn.
+2 CONT Occupation: farmer BET 1850 AND 1880 _SDATE: 1 JUL 1850 Angelina Co, TX Census: 18 SEP 1850 A
+2 CONC ngelina Co, TX
+2 CONT 
+2 CONT Census: 24 JUN 1880 Angelina Co, TX Note: He could not write.
+2 CONT 
+2 CONT the following MAY BE IN ERROR.  This may be another John F Jones.
+2 CONT * 13 Regt. Tx. Cav. CSA (possibly Burnett's)  shows to be Company F at texansinthecivilwar.co
+2 CONC m
+2 CONT * John Franklin Jones married Sara Brookshire Adams(?-1850) in 1842 (as per info from membe
+2 CONC r John Clay Harris #47322896 who himself questions her name & dates because they always see
+2 CONC m a bit clouded and vary according to resource & researchers)
+2 CONT 
+2 CONT * as per marriage record found on the familyseach.org site:
+2 CONT John F. Jones married Sally "Sallie" Ann Davis, 28 May 1846, Nacogdoches, Texas
+2 CONT 
+2 CONT Book from clayton libJones John F. [see also Jonathan] born : 1818 al/tn?spouse 1 sara
+2 CONC h 2 amanda c. Harveyservicw: 3rd Brigade TSTcomments: Not draftedsoures History of Angelin
+2 CONC a County
+2 CONT 1850 1860 1870 1880 census==================================================Jones Jonatha
+2 CONC n [ se also John F.]born 1818 al /gaspouse Amanda harveyservice Home guard===============
+2 CONC ===========Nacogdoches gate way to TexasJones John F. married Sally Ann Davis 28 May 1846 t
+2 CONC x list 1840 1845 1847 census Head right #370 ols cert #328 issued 31 dec 1839 in Sabibe co.=
+2 CONC ====================================pg 50 Angelina co texas 1860 homer 6 july390 380John F
+2 CONC . Jones 42 alaSarah 25 ten   should be 28James F? 18 txHenry J 15 txWilliam 11 txMargare
+2 CONC t 8 txElizabeth 6 txOliver 4 tx===============53 Angelina co Texas 14 sept 187060 60 Jo
+2 CONC nes John 52 alamrs Amandie 31 alaBettie 16 txKatie 9 txOliver 13 txHaden 5 txTennie 10.
+2 CONC 12 tx================================1880 angelina co Texas sub 8 pg 39 ed 8 ed 24 june33
+2 CONC 2 Jones John 52 tn   should be 62Amandy c. 40 wife alaTennessee 10 dau txGeorge W. 5 son t
+2 CONC xAmasy 2 son txLafayette 3/12 son tx************************************************
+2 CONT nothing in 1890, 1900, 1910 census for family members
+2 CONT also on 3rd wife listed as unkown he did not have a 3rd wife unless it was a Brookshire sh
+2 CONC e would of been !st wife.
+2 CONT 
+2 CONT 
+2 CONT 
+2 CONT Civil War Pension Application #07751 Angelina County, TX***********************************
+2 CONC *********ANGELINA County Texas - land certificate(http://ftp.rootsweb.com/pub/usgenweb/tx/a
+2 CONC ngelina/land/abstracts.txt)Survey - Person or Concern bearing the land certificate at tim
+2 CONC e survey filed.Block - Block number.Grantee - Person or Concern to whom the land was actual
+2 CONC ly awarded.Leag - League Flag. L = 4,428 acres, B = League + Labor. Labor = 177 acres.Secti
+2 CONC on - Section NumberAbs - Number of the Abstract on file at county courthouse and at theTexa
+2 CONC s General land Office in Austin.Survey: JOHN F JONES Grantee: J.F. JONES Section: 199 Abs: 3
+2 CONC 82*****************************************************1850 Census: Beat B, Angelina Co., T
+2 CONC X; Film #M432_908; pg#72; Line 5-8John F Jones Age: 30 b:1819 Alabama - MaleSarah A Jones A
+2 CONC ge: 18 b:1831 Tennessee - FemaleJames P Jones Age: 9 b:1840 Texas - MaleJohn H Jones Age
+2 CONC : 5 b:1844 Texas - MaleWilliam A Jones Age: 2 b:1847 Texas - Male*************************
+2 CONC ******************************1860 Census: District 2, Angelina, Texas; Film#: M653_1287; Pg
+2 CONC #110; Line 12-19John F. Jones - Age: 42 Born: 1818 AL - MaleSarah Jones Age: 28 Born:1831
+2 CONC , TN - FemaleJames F Jones Age: 18 Born:1841 Texas - MaleHenry J Jones Age: 15 Born:1844 Te
+2 CONC xas - MaleWilliam Jones Age: 11 Born:1848 Texas - MaleMargaret Jones Age: 8 Born:1851 Texa
+2 CONC s - FemaleElizabeth Jones Age: 6 Born:1853 Texas - FemaleOliver Jones Age: 4 Born:1855 Texa
+2 CONC s - Male*******************************************************1870 Census: Angelina, Tex
+2 CONC as; Film#: M593_1573; Pg#147; Line 24-30John Jones Age: 52 b:1817 AlabamaMrs. Amandie Jone
+2 CONC s Age: 31 b:1838 AlabamaBettie Jones Age: 16 b:1853 TexasKatie Jones Age: 9 b:1860 TexasOl
+2 CONC iver Jones Age: 13 b:1856 TexasHaden Jones Age: 5 b:1864 TexasLennie Jones Age: 10/12 b:186
+2 CONC 9 Texas**********************************************************1880 Census Place: Subdi
+2 CONC strict 8, Precinct 1, Angelina, TexasSource: FHL Film 1255289 National Archives Film T9-128
+2 CONC 9 Page 232CRelation Sex Marr Race Age BirthplaceJohn JONES Self M M W 52 TNOcc: Farmer Fa
+2 CONC : --- Mo: ---Amandy C. JONES Wife F M W 40 ALOcc: Keeps House Fa: KY Mo: ALTennasee JONE
+2 CONC S Dau F S W 10 TXFa: TN Mo: ALGeorge W. JONES Son M S W 5 TXFa: TN Mo: ALAmasy J. JONES S
+2 CONC on M S W 2 TXFa: TN Mo: ALLafayette T. JONES Son M S W 3M TXFa: TN Mo: AL***************
+2 CONC ***************************************Notes from Theresa Vanosdol (theresavanosdol@hotmail.
+2 CONC com]Another book from clayton lib in Houston tx.Jones Henry Private co. d 7th Texas calvery
+2 CONC source histoty of angelina co.______________________Jones John f [see also Jonathan]Bor
+2 CONC n 1818 al/Tn ?spouse 1 sarah 2 amanda c. Harveyservice 3rd Brigade TSTcomments. not drafte
+2 CONC d******************************************************Interesting ! He is listed as dyin
+2 CONC g in 1864, but he was in the 1880 Census! (Could this poss. be 1884?)Angelina Co., TX - Ceme
+2 CONC teries - McKINDREE CEMETERY
+2 CONT 
+2 CONT Joshua qualified for Third Class Headright: Issued to those who arrived between October 1, 18
+2 CONC 37 and January 1, 1840. Heads of families received 640 acres, while single men received 320 a
+2 CONC cres. Recipients were required to live in Texas for three years, perform the duties of citize
+2 CONC nship and pay the designated fees.  John Franklin also qualified.
+2 CONT 
+2 CONT Looking for John F. Jones in Angelina County Texas. One of his wives in the 1850 Census of An
+2 CONC gelina County was Sally Ann Davis. They married May 28, 1846 in Nacogdoches County, Texas. Ch
+2 CONC ildren listed with them in the 1850 census are: James, John, and William. In 1860 census of A
+2 CONC ngelina County children are: James, Henry, William, Margaret, Elizabeth, and Oliver. In the 1
+2 CONC 870 census of Angelina County he is listed married to Amandie Jones. Their children: Bettie
+2 CONC , Katie, Oliver, Haden and Lennie. Help!
+2 CONT 
+2 CONT Amanda C Harvey also shows to be the mother of Hayden L Jones
+2 CONT service: 3rd Brigade TST service Home guard (Angelina County, under Capt. H.A.B. Berry or thi
+2 CONC s may be H.A.P. according to the 1850 census)  Harry Amzi Philander Berry is buried in Acton
+2 CONC , TX
+2 CONT 
+2 CONT John F Jones headright grant
+2 CONT 
+2 CONT Old Certificate #328 (whole no. 337)  issued December 31, 1839 in Sabine County, 2nd (L.C.)
+2 CONC , 640 acres, issued July 7, 1845, witnesses  Josua D Jones and Henry Jacobs
+2 CONT 
+2 CONT Joshua D Jones, Old Certificate #327(whole no. 336) issued December 31, 1839 in Sabine County
+2 CONC , 2nd (L.C.) 640 acres, issued July 7, 1845, witnesses:  John F Jones and Henry Jacobs.
+2 CONT 
+2 CONT Age 30 in 1850. Stated born ALAge 42 in 1860. Stated born AL.Age 52 in 1870. Born AL.Age 6
+2 CONC 2 in 1880. Stated born TN. Left blank where his parents wereborn.
+2 CONT Occupation: farmer BET 1850 AND 1880 _SDATE: 1 JUL 1850 Angelina Co, TX Census: 18 SEP 1850 A
+2 CONC ngelina Co, TX
+2 CONT 
+2 CONT * 13 Regt. Tx. Cav. CSA (possibly Burnett's)  shows to be Company F at texansinthecivilwar.co
+2 CONC m
+2 CONT * John Franklin Jones married Sara Brookshire Adams(?-1850) in 1842 (as per info from membe
+2 CONC r John Clay Harris #47322896 who himself questions her name & dates because they always see
+2 CONC m a bit clouded and vary according to resource & researchers)
+2 CONT 
+2 CONT (note, further DOCUMENTED research/input is needed on his wife/wives names & dates as all inf
+2 CONC o does not compute at this time)
+2 CONT **************
+2 CONT 
+2 CONT Book from clayton libJones John F. [see also Jonathan] born : 1818 al/tn?spouse 1 sara
+2 CONC h 2 amanda c. Harveyservicw: 3rd Brigade TSTcomments: Not draftedsoures History of Abgelin
+2 CONC a co. 1850 1860 1870 1880 census==================================================Jones Jon
+2 CONC athan [ se also John F.]born 1818 al /gaspouse Amanda harveyservice Home guard===========
+2 CONC ===============Nacogdoches gate way to TexasJones John F. married Sally Ann Davis 28 May 18
+2 CONC 46 tx list 1840 1845 1847 census Head right #370 ols cert #328 issued 31 dec 1839 in Sabine c
+2 CONC o.=====================================1850 Angelina Co Texas81 81 John F. Jones 30 m Farm
+2 CONC er alaSarah A. 18 TennJames P. 9 Tx   Sara's kidJohn H. 5 Tx    Sara's kidWilliam a. 2 T
+2 CONC x  Sara's kid====================================pg 50 Angelina co texas 1860 homer 6 july3
+2 CONC 90 380John F. Jones 42 alaSarah 25 ten   should be 28James F? 18 txHenry J 15 txWillia
+2 CONC m 11 txMargaret 8 txElizabeth 6 txOliver 4 tx===============53 Angelina co Texas 14 sep
+2 CONC t 187060 60 Jones John 52 alamrs Amandie 31 alaBettie 16 txKatie 9 txOliver 13 txHade
+2 CONC n 5 txTennie 10.12 tx================================1880 angelina co Texas sub 8 pg 39 e
+2 CONC d 8 ed 24 june332 Jones John 52 tnAmandy c. 40 wife alaTennessee 10 dau txGeorge W. 5 so
+2 CONC n txAmasy 2 son txLafayette 3/12 son tx************************************************al
+2 CONC so on 3rd wife listed as unkown he didnot have a 3rd wife unless it was a Brookshire she woul
+2 CONC d of been !st wife.
+2 CONT 
+2 CONT the tombstone that shows him to have died in 1864 is either wrong or it is for the wrong Joh
+2 CONC n F Jones.
+2 CONT 
+2 CONT Amanda C Harvey also shows to be the mother of Hayden L Jones
+2 CONT service: 3rd Brigade TST service Home guard (Angelina County, under Capt. H.A.B. Berry or thi
+2 CONC s may be H.A.P. according to the 1850 census)  Harry Amzi Philander Berry is buried in Acton
+2 CONC , TX
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=44696579  for HAP Berry
+2 CONT Texas Ranger Roster shows HAB Berry (1862 - Company C, Beat No. 3, Angelin County, 3rd Brigad
+2 CONC e, TST)
+2 CONT 
+2 CONT Book from clayton libJones John F. [see also Jonathan] born : 1818 al/tn?spouse 1 sara
+2 CONC h 2 amanda c. Harveyservicw: 3rd Brigade TSTcomments: Not draftedsoures History of Abgelin
+2 CONC a co. 1850 1860 1870 1880 census==================================================Jones Jon
+2 CONC athan [ se also John F.]born 1818 al /gaspouse Amanda harveyservice Home guard===========
+2 CONC ===============Nacogdoches gate way to TexasJones John F. married Sally Ann Davis 28 May 18
+2 CONC 46 tx list 1840 1845 1847 census Head right #370 ols cert #328 issued 31 dec 1839 in Sabibe c
+2 CONC o.=====================================1850 Angelina Co Texas81 81 John F. Jones 30 m Farm
+2 CONC er alaSarah A. 18 TennJames P. 9 Tx   Sara's kidJohn H. 5 Tx    Sara's kidWilliam a. 2 T
+2 CONC x  Sara's kid====================================pg 50 Angelina co texas 1860 homer 6 july3
+2 CONC 90 380John F. Jones 42 alaSarah 25 ten   should be 28James F? 18 txHenry J 15 txWillia
+2 CONC m 11 txMargaret 8 txElizabeth 6 txOliver 4 tx===============53 Angelina co Texas 14 sep
+2 CONC t 187060 60 Jones John 52 alamrs Amandie 31 alaBettie 16 txKatie 9 txOliver 13 txHade
+2 CONC n 5 txTennie 10.12 tx================================1880 angelina co Texas sub 8 pg 39 e
+2 CONC d 8 ed 24 june332 Jones John 52 tnAmandy c. 40 wife alaTennessee 10 dau txGeorge W. 5 so
+2 CONC n txAmasy 2 son txLafayette 3/12 son tx************************************************al
+2 CONC so on 3rd wife listed as unkown he didnot have a 3rd wife unless it was a Brookshire she woul
+2 CONC d of been !st wife.
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I38@ INDI
+1 NAME Sarah Ann /Davis/
+2 SURN Davis
+2 GIVN Sarah Ann
+2 NICK Sallie Ann Davis or Sally Ann Davis
+1 SEX F
+1 BIRT
+2 DATE 1832
+2 PLAC Tennessee
+1 DEAT
+2 DATE 1870
+2 PLAC Angelina County, Texas
+1 _UID 3B7801E82C93A148A4119E2466CD20778576
+1 FAMS @F37@
+1 FAMC @F9@
+1 NOTE death also reported about 1870
+2 CONT 
+2 CONT As per marriage record found on the familyseach.org site, County Court Records - FHL microfil
+2 CONC m # 0025309; John F. Jones married Sally "Sallie" Ann Davis, 28 May 1846, Nacogdoches, Texas
+2 CONT 
+2 CONT Comment by Ron Gragg (#48323200):"Per the Angelina County, Texas Census's for 18 September 1
+2 CONC 850 and 6 July 1860 John's wife's name was Sarah. According to Texas marriage information hi
+2 CONC s wife's name was Sally Ann Davis; married on 28 May 1846, in Nacogdoches County, Texas. Th
+2 CONC e conclusion may be that her name was Sarah "Sally" Ann Davis?Also, records indicate that S
+2 CONC ally passed away sometime in 1870, in Angelina, Texas, United States
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I39@ INDI
+1 NAME Joshua D /Jones/
+2 SURN Jones
+2 GIVN Joshua D
+1 SEX M
+1 BIRT
+2 DATE 1785
+2 PLAC Tennessee
+1 DEAT
+2 DATE 12 Apr 1847
+2 PLAC Angelina County, Texas
+1 _UID 0D6BBD595F527D45B2AC8A3D67D35410C4B7
+1 FAMS @F45@
+1 NOTE 
+2 CONT 
+2 CONT death date must be wrong.  He was dead by 12-25-1846
+2 CONT His will is recorded in Angelina Co., Tx. Dec. 25, 1846
+2 CONT 
+2 CONT "Deed of Partition of Estate of Joshua D. Jones, Dec'd", dated 25 Dec
+2 CONT 1846, Angelina Co, TX.
+2 CONT 
+2 CONT Pg. 536-537 Angelina Deed Records Book A(pp.20, 21) 25 Dec. 1846. Deed of partition of estat
+2 CONC e of JOSHUA D.JONES, dec'd, Mrs. Sarah P. Jones, wife of Joshua D. Jones, 160 acresout of h
+2 CONC eadright of John F. Jones, certificate dated 31 Dec. 1839, whichadjoins John Massongill an
+2 CONC d Richad Parmalee deadright;
+2 CONT Mrs. Martha Kuydendoll, daughter of Joshua D. Jones and wife of James H. Kuydendoll,160 acre
+2 CONC s from south end of J. Jones headright whicl lays between Georgeand henry Massongill's headr
+2 CONC ight surveys;
+2 CONT Mrs. Nancy Ann Gardenhire, daughter of J. D. Jones and wife of William Gardenshire, 160 acre
+2 CONC s outof Joshua D. Jones headright; Mrs. Elizabeth Massongill, daugher ofJoshua D. Jones an
+2 CONC d wife of Isaac Massongill, 160 acres out of John F.Jones headright between Mrs.Sarah D. Jon
+2 CONC es' land and John Massongill,and R. Parmalee headright; James M. Jones, son of J. D. Jones
+2 CONC , dec'd,480 acres out of Joshua D. Jones headright being remainder of tractawarded to Mrs
+2 CONC . Nancy Ann Gardenhire, and mechanical tools, and 160acres from John F. Jones headright on n
+2 CONC orth end between George and HenryMassongill.Signed by: Sarah P. Jones (X), James H. Kuykend
+2 CONC oll (X), Martha M.Kuykendoll (X), Isaac Massongill (X),, William Garedenhire (X), NancyA. G
+2 CONC ardenhire (X), Elizabeth Massongill (X), James M. Jones (X), John F.Jones (X), Wit: John D
+2 CONC . Gann, James W. Briddes (X),Recorded 12 April 1847
+2 CONT 
+2 CONT "Deed of Partition of Estate of Joshua D. Jones, Dec'd", dated 25 Dec1846, Angelina Co, TX.
+2 CONT 
+2 CONT Nacogdoches Gateway to TexasJones Joshua D. 1845 Txa list Headright #371 Old cert #327 issue
+2 CONC d 31 dec 1839 in Sabine cosome info from Carlin Pittman
+2 CONT 
+2 CONT 1830 Census: Wayne County, TNTranscribed by NARA Microfilm Publication M19, Roll # 183 (Fift
+2 CONC h Census of the United States, 1830). Originally published in "Wayne County, Tennessee Censu
+2 CONC s Records Volume I: 1820, 1830 & 1840", The Byler Press, 1974Page 286 - Joshua D. Jones 002
+2 CONC 0001-/021001Male: 0 (under 5 years); 0 (5 to 10); 2 (10 to 15); 0 (15 to 20); 0 (20 to 30)
+2 CONC ; 0 (30 to 40); 1 (40 to 50)Female: 0 (under 5 years); 2 (5 to 10); 1 (10 to 15); 0 (15 to 2
+2 CONC 0); 0 (20 to 30); 1(30 to 40)*****************************************************ANGELIN
+2 CONC A County Texas - land certificate(http://ftp.rootsweb.com/pub/usgenweb/tx/angelina/land/abst
+2 CONC racts.txt)Survey - Person or Concern bearing the land certificate at time survey filed.Blo
+2 CONC ck - Block number.Grantee - Person or Concern to whom the land was actually awarded.Lea
+2 CONC g - League Flag. L = 4,428 acres, B = League + Labor. Labor = 177 acres.Section - Section Nu
+2 CONC mberAbs - Number of the Abstract on file at county courthouse and at theTexas General lan
+2 CONC d Office in Austin.Survey: JOSHUA D JONES Grantee: J.D. JONES Abs: 373*********************
+2 CONC ******************************************
+2 CONT 
+2 CONT Joshua qualified for Third Class Headright: Issued to those who arrived between October 1, 18
+2 CONC 37 and January 1, 1840. Heads of families received 640 acres, while single men received 320 a
+2 CONC cres. Recipients were required to live in Texas for three years, perform the duties of citize
+2 CONC nship and pay the designated fees.  John Franklin also qualified.
+2 CONT 
+2 CONT Appears to have been in Wayne County, TN in 1830  0020001-/021001-
+2 CONT 2 white males 10-15
+2 CONT 1 white male 40-50
+2 CONT 2 white females 5-10
+2 CONT 1 white female 10-15
+2 CONT 1 white female 30-40
+2 CONT 
+2 CONT He was NOT in Wayne County, TN in 1820
+2 CONT 
+2 CONT John F Jones headright grant
+2 CONT 
+2 CONT Old Certificate #328 (whole no. 337)  issued December 31, 1839 in Sabine County, 2nd (L.C.)
+2 CONC , 640 acres, issued July 7, 1845, witnesses  Josua D Jones and Henry Jacobs
+2 CONT 
+2 CONT Joshua D Jones, Old Certificate #327(whole no. 336) issued December 31, 1839 in Sabine County
+2 CONC , 2nd (L.C.) 640 acres, issued July 7, 1845, witnesses:  John F Jones and Henry Jacobs.
+2 CONT 
+2 CONT Pg. 536-537 Angelina Deed Records Book A(pp.20, 21) 25 Dec. 1846. Deed of partition of estat
+2 CONC e of JOSHUA D.JONES, dec'd, Mrs. Sarah P. Jones, wife of Joshua D. Jones, 160 acresout of h
+2 CONC eadright of John F. Jones, certificate dated 31 Dec. 1839, whichadjoins John Massongill an
+2 CONC d Richad Parmalee deadright; Mrs. MarthaKuydendoll, daughter of Joshua D. Jones and wife o
+2 CONC f James H. Kuydendoll,160 acres from south end of J. Jones headright whicl lays between Geor
+2 CONC geand henry Massongill's headright surveys; Mrs. Nancy Ann Gardenhire,daughter of J. D. Jon
+2 CONC es and wife of William Gardenshire, 160 acres outof Joshua D. Jones headright; Mrs. Elizabet
+2 CONC h Massongill, daugher ofJoshua D. Jones and wife of Isaac Massongill, 160 acres out of Joh
+2 CONC n F.Jones headright between Mrs.Sarah D. Jones' land and John Massongill,and R. Parmalee he
+2 CONC adright; James M. Jones, son of J. D. Jones, dec'd,480 acres out of Joshua D. Jones headrigh
+2 CONC t being remainder of tractawarded to Mrs. Nancy Ann Gardenhire, and mechanical tools, and 16
+2 CONC 0acres from John F. Jones headright on north end between George and HenryMassongill.Signe
+2 CONC d by: Sarah P. Jones (X), James H. Kuykendoll (X), Martha M.Kuykendoll (X), Isaac Massongil
+2 CONC l (X),, William Garedenhire (X), NancyA. Gardenhire (X), Elizabeth Massongill (X), James M
+2 CONC . Jones (X), John F.Jones (X), Wit: John D. Gann, James W. Briddes (X),Recorded 12 April 18
+2 CONC 47
+1 CHAN
+2 DATE 10 Oct 2019
+3 TIME 01:00:00
+0 @I40@ INDI
+1 NAME Sarah P /Stiles/
+2 SURN Stiles
+2 GIVN Sarah P
+1 SEX F
+1 BIRT
+2 DATE 1800
+2 PLAC Tennessee
+1 DEAT
+2 DATE 1847
+2 PLAC Angelina County, Texas
+1 _UID 2B159CCE47BE5B43B0E7B5E7F63D64FF1638
+1 FAMS @F45@
+1 CHAN
+2 DATE 6 Jul 2019
+3 TIME 01:00:00
+0 @I41@ INDI
+1 NAME Ira /Jones/
+2 SURN Jones
+2 GIVN Ira
+1 SEX F
+1 BIRT
+2 DATE 21 Jun 1888
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 30 Aug 1952
+2 PLAC Spurger, Tyler County, Texas
+1 BURI
+2 PLAC Beech Creek Baptist Cemetery, Spurger, Tyler, Texas
+1 _UID 52C8E87C59D90B43938AF40AB4F1A2EA4A35
+1 FAMS @F42@
+1 FAMS @F46@
+1 FAMC @F20@
+1 NOTE birth date also shows 7-21-1888
+2 CONT findagrave says June is correct.
+2 CONT 
+2 CONT Texas says death is 8-30-1952
+2 CONT 
+2 CONT 
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=prothro&GSfn=ira&GSbyrel=all&GSdyrel=al
+2 CONC l&GSob=n&GRid=34928142&df=all&
+2 CONT 
+2 CONT birth date also shows 6-21-1888
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I42@ INDI
+1 NAME Mary Catherine Missouri /Strahan/
+2 SURN Strahan
+2 GIVN Mary Catherine Missouri
+2 _AKA Mary M Strohon
+1 SEX F
+1 BIRT
+2 DATE 6 Dec 1857
+2 PLAC Nacogdoches County, Texas
+1 DEAT
+2 DATE 17 Jan 1934
+2 PLAC Port Arthur, Jefferson County, Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID B36A8EAFBCAAB74E8DA5DBFE8E2F49E9BF52
+1 FAMS @F36@
+1 NOTE https://www.findagrave.com/memorial/63583384/mary-missouri-jones
+2 CONT 
+2 CONT findagrave shows Mary M Strohon
+2 CONT 
+2 CONT birth date reported as 1857, 1867 and 1859
+2 CONT 1900 census says she was born in 1867
+2 CONT 1910 census says she is 50 he is 46
+2 CONT 
+2 CONT Birth: 6 DEC 1857 in Family farm-Pattonia, Angelina River, Nacogdoches County, Texas
+1 CHAN
+2 DATE 27 May 2019
+3 TIME 01:00:00
+0 @I43@ INDI
+1 NAME Della Lea /Jones/
+2 SURN Jones
+2 GIVN Della Lea
+2 _AKA Delta
+1 SEX F
+1 BIRT
+2 DATE 20 Jun 1891
+2 PLAC Hardin County, Texas
+1 DEAT
+2 DATE 31 Jul 1920
+2 PLAC Port Arthur, Jefferson, Texas
+1 _UID 296675F64BC2F840AB0C2B8FD01321883CF4
+1 FAMS @F47@
+1 FAMC @F36@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I44@ INDI
+1 NAME John Allen /Jones/
+2 SURN Jones
+2 GIVN John Allen
+1 SEX M
+1 BIRT
+2 DATE 27 Sep 1893
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE Mar 1947
+2 PLAC Port Arthur, Texas
+1 BURI
+2 PLAC Forest Lawn Cemetery, Beaumont, Texas
+1 _UID 99D6817C093EBF4D98E335C32C9675268F39
+1 FAMC @F36@
+1 NOTE https://www.findagrave.com/memorial/78278059/john-allen-jones
+1 CHAN
+2 DATE 15 Mar 2019
+3 TIME 01:00:00
+0 @I45@ INDI
+1 NAME Clementine Missouri /Jones/
+2 SURN Jones
+2 GIVN Clementine Missouri
+1 SEX F
+1 BIRT
+2 DATE 16 Feb 1896
+2 PLAC Hardin County, Texas
+1 DEAT
+2 DATE 19 Aug 1987
+2 PLAC Port Arthur, Jefferson, Texas
+1 _UID D32A5442541AE746A4C6EFF8D4F77E380087
+1 FAMS @F48@
+1 FAMS @F49@
+1 FAMC @F36@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I46@ INDI
+1 NAME Hayden Edward /Jones/ Sr
+2 SURN Jones
+2 GIVN Hayden Edward
+2 NSFX Sr
+2 _AKA Eddie /Jones/
+1 SEX M
+1 BIRT
+2 DATE 14 Nov 1900
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 31 Jul 1970
+2 PLAC Tyler County, Texas
+1 BURI
+2 PLAC Magnolia cemetery, Woodville, Tyler County, Texas
+1 _UID 9D729F37A2C2014DB883FA227897DA673E43
+1 FAMS @F50@
+1 FAMC @F36@
+1 NOTE https://www.findagrave.com/memorial/45455421/hayden-edward-jones
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I47@ INDI
+1 NAME Ellen Nevada /Jones/
+2 SURN Jones
+2 GIVN Ellen Nevada
+2 NICK LaVada or Laveda
+2 _AKA Nevada Ellen /Jones/  and Ellen Leveda Jones
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1867
+2 PLAC Texas
+1 DEAT
+2 DATE 26 Jan 1947
+2 PLAC Lufkin, Angelina County, Texas
+1 BURI
+2 PLAC Rocky Hill cemetery, Angelina County, Texas
+1 _UID B6235A268C5F064AB440A43EA3C29F55C395
+1 FAMS @F16@
+1 FAMC @F51@
+1 NOTE https://www.findagrave.com/memorial/50200126/ellen-leveda-anderson
+2 CONT 
+2 CONT Census: 21 JUN 1880 Angelina Co TX Note: Age 13, "Nevada", at school. TX TX GA
+2 CONT 
+2 CONT On the Marriage Lic she is listed as Miss Nevada Jones. on the 1880 census she is listed as W
+2 CONC illiam Jones & Mahlay daughter. but on the death cert her son louie put her dad as Mr. Huggin
+2 CONC s & Mother Mahlay Harris. im going with Jones until someone disproves this. Tess============
+2 CONC =1880 Texas Angelina Prect/sub 8 ed 1 edate 21 June277Jones William wm 32 self tx Ten alaM
+2 CONC ahaley wf 35 wife ga ga gaNevada wf 13 dau txHaydin wm 11 son txParker wm 8 son txPenopl
+2 CONC e wf 6 dau txMalinda wf 5 dau txRobert wm 3 son txoscar wm 10/12 son tx
+2 CONT 
+2 CONT 
+2 CONT 
+2 CONT On the Marriage Lic she is listed as Miss Nevada Jones. on the 1880 census she is listed as W
+2 CONC illiam Jones & Mahlay daughter. but on the death cert her son louie put her dad as Mr. Huggin
+2 CONC s & Mother Mahlay Harris. im going with Jones until someone disproves this. Tess============
+2 CONC =1880 Texas Angelina Prect/sub 8 ed 1 edate 21 June277Jones William wm 32 self tx Ten alaM
+2 CONC ahaley wf 35 wife ga ga gaNevada wf 13 dau txHaydin wm 11 son txParker wm 8 son txPenopl
+2 CONC e wf 6 dau txMalinda wf 5 dau txRobert wm 3 son txoscar wm 10/12 son tx
+1 CHAN
+2 DATE 27 May 2019
+3 TIME 01:00:00
+0 @I48@ INDI
+1 NAME Blueford Allen /Tunnell/
+2 SURN Tunnell
+2 GIVN Blueford Allen
+2 _AKA Blueforn Allen Tunnell
+1 SEX M
+1 BIRT
+2 DATE 23 Apr 1888
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 14 Jun 1921
+2 PLAC Jacksonville, Cherokee County, Texas
+1 BURI
+2 PLAC Afton Grove-Vinson cem, Cherokee, Texas
+1 _UID 16FD5AE688213246B495C4A2A3F2F9D2839D
+1 FAMS @F42@
+1 NOTE https://www.findagrave.com/memorial/93418962/b_-a_-tunnell
+2 CONT 
+2 CONT 
+2 CONT death also shows 7-14-1921
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I49@ INDI
+1 NAME Hazel Lorene /Tunnell/
+2 SURN Tunnell
+2 GIVN Hazel Lorene
+1 SEX F
+1 BIRT
+2 DATE 13 Apr 1918
+2 PLAC Deweyville, Newton County, Texas
+1 DEAT
+2 DATE 8 Mar 1991
+2 PLAC Woodville, Tyler County, Texas
+1 BURI
+2 PLAC Beech Creek Cemetery, Spurger, Texas
+1 _UID 2E42A2AB06E6D34B97D508F437F996463B0C
+1 FAMS @F52@
+1 FAMC @F42@
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I50@ INDI
+1 NAME Jim Bob /Perkins/
+2 SURN Perkins
+2 GIVN Jim Bob
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1914
+2 PLAC Liberty Hill, Bienville Parish, Louisiana
+1 DEAT
+2 DATE 1 Jul 2001
+2 PLAC Woodville, Tyler County, Texas
+1 BURI
+2 PLAC Beech Creek Cemetery, Spurger, Texas
+1 _UID BB167C8C526E364A937A0C9477A1C84FF5DE
+1 FAMS @F52@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I51@ INDI
+1 NAME William Pinkney /Berry/
+2 SURN Berry
+2 GIVN William Pinkney
+2 NICK Bill
+2 _AKA William Pinkney ? Berry
+1 SEX M
+1 BIRT
+2 DATE 15 Dec 1817
+2 PLAC Franklin County, Tennessee
+1 DEAT
+2 DATE 1870
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry Cemetery, Moffitt, Angelina County, Texas
+1 _UID 8A3CB18B7F0CA14A8FCB5028FF1B9F16198B
+1 FAMS @F38@
+1 FAMS @F53@
+1 FAMS @F11@
+1 NOTE 
+2 CONT https://www.findagrave.com/memorial/61936719/william-pinkney-berry
+2 CONT 
+2 CONT in July 1860 his wife was living with his parents.
+2 CONT 
+2 CONT marriage location may have been either Limestone, Alabama or Franklin, TN
+2 CONT 
+2 CONT marriage also shows 1826 in Alabama (age 9)
+2 CONT 
+2 CONT http://findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=61936719
+2 CONT 
+2 CONT in July 1860 his wife was living with his parents.
+1 CHAN
+2 DATE 30 Nov 2018
+3 TIME 00:00:00
+0 @I62@ INDI
+1 NAME Nancy Elmirah /Davis/
+2 SURN Davis
+2 GIVN Nancy Elmirah
+2 _AKA Nancy E Anderson and Nancy A Davis
+1 SEX F
+1 BIRT
+2 DATE 1838
+2 PLAC Mississippi
+1 DEAT
+2 DATE 1878
+2 PLAC Angelina County, Texas
+1 _UID 517F74F3C579D2449621FF9DCC247188C7DF
+1 FAMS @F53@
+1 FAMS @F14@
+1 FAMC @F9@
+1 NOTE 
+2 CONT 
+2 CONT 1860 angelina co texas Ephriam 24 missMirah 21 miss emily 20 missWilliam 3 miss Eliz
+2 CONC a j Miss
+2 CONT 
+2 CONT The "A" in Nancy A Davis probably came from marriage to Ephriam Anderson
+2 CONT 
+2 CONT     Marriage says Ephrame P. Anderson Miss Nancy Davis
+2 CONT     Jonesville John Sessions J. P.
+2 CONT 
+2 CONT Change Date: 19 Mar 2010 at 17:32:41
+2 CONT 
+2 CONT birth date also shows 1820 at ancestry.com and being born in Texas
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I63@ INDI
+1 NAME Nancy Susanna /Berry/
+2 SURN Berry
+2 GIVN Nancy Susanna
+1 SEX F
+1 BIRT
+2 DATE 11 Apr 1874
+2 PLAC Texas
+1 DEAT
+2 DATE 13 Jan 1934
+2 PLAC Rusk, Texas
+1 BURI
+2 PLAC Berry Cemetery, Angelina County, Texas
+1 _UID 5523941FB40DAA419302078FB77DD23840BE
+1 FAMS @F64@
+1 FAMC @F53@
+1 NOTE https://www.findagrave.com/memorial/13819533/nancy-susanna-parish
+2 CONT 
+2 CONT 
+2 CONT Oakley- Metcalf Funneral Records Book I July 1933 to 1936Page 9Mrs. Nancy JonesWhite; bor
+2 CONC n in Texas. Funeral 14 January 1934; Resident of Moffettcommunity; died at residence; funera
+2 CONC l service and burial, Berry Cem;Dr Alexander, physician; Died 13 Jan 1934; Housewife; born 1
+2 CONC 1 April1874, age 59 yrs. W. P. Berry, father, born in Alabama.From "Lufkin Daily News" Mon
+2 CONC day 15 Jan 1934. Survivors: one sister,Mrs Sallie Baird; Three brothers, Andy Berry, Bun Ber
+2 CONC ry, BillAnderson; Three sons, Henry, Buddy, and Lewis Parrish; deceased wasborn and reare
+2 CONC d in Angelina County. Member of Baptist Church for fortyyears.
+2 CONT Burial: 14 JAN 1934 Berry Cemetery, Angelina Co, TX
+1 CHAN
+2 DATE 30 May 2019
+3 TIME 01:00:00
+0 @I65@ INDI
+1 NAME Susannah /Davis/
+2 SURN Davis
+2 GIVN Susannah
+2 _AKA Susan Davis or Susanna Davis
+1 SEX F
+1 BIRT
+2 DATE 1845
+2 PLAC Texas
+1 DEAT
+2 DATE 1882
+2 PLAC Angelina County, Texas
+1 _UID 942BBCF8350E624CB5CD54AC4ADFA6893E6C
+1 FAMS @F11@
+1 FAMC @F9@
+1 NOTE 
+2 CONT 
+2 CONT birth date also shows 1846
+2 CONT birth place also shows Tennessee per Ancestry
+1 CHAN
+2 DATE 28 Jan 2019
+3 TIME 00:00:00
+0 @I66@ INDI
+1 NAME Andrew Jackson /Berry/
+2 SURN Berry
+2 GIVN Andrew Jackson
+2 NICK Andy
+1 SEX M
+1 BIRT
+2 DATE 11 Feb 1882
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 24 Sep 1992
+2 PLAC Rusk County, Texas
+1 BURI
+2 PLAC Berry Cemetery, Angelina County, Texas
+1 _UID 3E3BE7F235A5DD49829F81A77FC6FF846389
+1 FAMS @F65@
+1 FAMC @F11@
+1 NOTE https://www.findagrave.com/memorial/13819551/andrew-jackson-berry
+2 CONT 
+2 CONT 
+2 CONT Census: 13 JUN 1900 Angelina Co, TX Note: Age 18. Lived with his brother, John F. Berry.
+2 CONT 
+2 CONT Occupation: farmer 6 FEB 1920 Angelina Co, TX Census: 6 FEB 1920 Angelina Co, TX
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I75@ INDI
+1 NAME Margaret Ann /Jones/
+2 SURN Jones
+2 GIVN Margaret Ann
+1 SEX F
+1 BIRT
+2 DATE 1851
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 1904
+2 PLAC Angelina County, Texas
+1 _UID 1EE8F9B5C6869441B67C838B54DCCEDCEF9B
+1 FAMS @F74@
+1 FAMC @F37@
+1 NOTE birth date also shows Nov 1850
+2 CONT 
+2 CONT Angelina County, Texas - Military: Confederate Pension ApplicationsBrookshire, J. W. 00058 A
+2 CONC ngelinaBrookshire, Margaret Ann 10813 Angelina Brookshire, J. W.00058
+2 CONT 
+2 CONT Lived next door to Will W. Brookshire, Jul 1874, TX TN TX
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I76@ INDI
+1 NAME Oliver L /Jones/
+2 SURN Jones
+2 GIVN Oliver L
+1 SEX M
+1 BIRT
+2 DATE 14 Aug 1856
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 26 Feb 1899
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID B28C2CC4A9833E4E99B5B8F818BB1F805699
+1 FAMS @F75@
+1 FAMC @F37@
+1 NOTE https://www.findagrave.com/memorial/92363656/oliver-l.-jones
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I77@ INDI
+1 NAME Sara A /Brookshire/
+2 SURN Brookshire
+2 GIVN Sara A
+2 _AKA Sara Brookshire Adams
+1 SEX F
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Texas
+1 DEAT
+2 DATE BEF 1846
+2 PLAC Angelina County, Texas
+1 _UID 9EDC204F12D3BC409B3187ABA3F95D25E60E
+1 FAMS @F44@
+1 NOTE appears to have died about 1845/1846
+2 CONT 
+2 CONT Comment by member John Clay Harris #47322896, who himself questions her name & dates becaus
+2 CONC e they always seem a bit clouded and vary according to resource & researchers: John Frankli
+2 CONC n Jones married Sara Brookshire Adams(?-1850) in 1842.
+2 CONT 
+2 CONT everyone in the USA with the name Brookshire, Brookshier, Brooksher and Brookshear are relate
+2 CONC d and came from a single immigrant named James Brookshaw. There was a John Brookshaw ca. 177
+2 CONC 1 in Ga. as a Colonial Soldier. Apparently that family retained the name Brookshaw. There wa
+2 CONC s one other Brookshaw named Isaac that arrived in Philadelphia in 1683 who died there withou
+2 CONC t issue or marriage.
+1 CHAN
+2 DATE 22 Jun 2018
+3 TIME 01:00:00
+0 @I78@ INDI
+1 NAME William Perry /Jones/
+2 SURN Jones
+2 GIVN William Perry
+1 SEX M
+1 BIRT
+2 DATE 14 Apr 1844
+2 PLAC Bluefield Fort, Nacogdoches, Texas
+1 DEAT
+2 DATE 22 Jul 1929
+2 PLAC Chickasha, Grady County, Oklahoma
+1 BURI
+2 PLAC Rosehill Cemetery, Chickasha, Grady County, Oklahoma
+1 _UID 270252B0D543ED4BB8835C4A7696E798E7AB
+1 FAMS @F51@
+1 FAMS @F76@
+1 FAMC @F44@
+1 NOTE https://www.findagrave.com/memorial/59005354/william-perry-jones
+2 CONT 
+2 CONT Census: 21 JUN 1880 Angelina Co, TX Note: Age 32, "William". Farmer. TX TN AL _TMPLT: FIELD
+2 CONC : Name: Page VALUE: ED 8, SD 1, page 229 A. Family 277 3 Census: 5 JUN 1900 Indian Territory
+2 CONC , Creek Nation, Twp 14, Range 13 E Note: Apr 1848, 52. "William" Married 31 years. TX TN TN F
+2 CONC armer. _TMPLT: FIELD: Name: Page VALUE: Indian Terr, Creek Nation. ED 58, Twp 14. Family 38/3
+2 CONC 8 4 Census: 25 APR 1910 Tuttle Twp, Grady Co, OK
+2 CONT 
+2 CONT birth also shows 1844 and 1848.  tombstone says 1844
+2 CONT 
+2 CONT Inscription:
+2 CONT 
+2 CONT CO F 13 TEXAS VOLS
+2 CONT CONFEDERATE STATES ARMY
+2 CONT 
+2 CONT mother is reported mainly as Sarah Ann Davis although he was still married to "Brookshire" a
+2 CONC t the time of 1844 reported birth
+2 CONT 
+2 CONT it appears that he died in Angelina County and was buried in Grady County, OK
+2 CONT 
+2 CONT William Perry JONES,son of John Franklin Jones and Sara Brookshire Adams(?-1850),was born Apr
+2 CONC il 14,1844 in Bluefort, Nacogdoches County, Texas. He married Mahaly Martha Harris on Februar
+2 CONC y 25, 1870 in Waco,McLealand,Texas. He died July 22, 1929 in Angelina County, Texas.His wif
+2 CONC e Mahaly Martha Harris was the daughter of Sterns Harris (1819-1860) and Sabra (unknown) Harr
+2 CONC is (1824-aft 1860)of Macon Georgia.Martha was born June 13, 1845 in Macon,Georgia.She died Ja
+2 CONC nuary 02, 1915 in Grady County, Oklahoma.
+2 CONT 
+2 CONT Children of William Perry JONES and Mahaly Martha HARRIS were:
+2 CONT 
+2 CONT 1-Ellen Nevada Jones b.12 Jan 1867
+2 CONT 
+2 CONT 2-George Hayden JONES, b. December 27, 1870
+2 CONT 
+2 CONT 3-John Henry JONES, b. August 16, 1872
+2 CONT 
+2 CONT 4-Penelopy JONES, b. January 12, 1874
+2 CONT 
+2 CONT 5-Malinda Mildred JONES, b. May 15, 1876
+2 CONT 
+2 CONT 6-Robert Melvin JONES, b. January 15, 1878
+2 CONT 
+2 CONT 7-William Oscar JONES, b. September 05, 1879
+2 CONT 
+2 CONT 8-Frances Ann JONES, b. December 23, 1880
+2 CONT 
+2 CONT 9-Ora Elizabeth JONES, b. November 05, 1882
+2 CONT 
+2 CONT 10-Sarah Margaret JONES, b. September 24, 1884
+2 CONT 
+2 CONT 11-James Edgar JONES
+2 CONT 
+2 CONT 
+2 CONT birth date is reported as 4-14-1844 but should be about 1848 according to the 1850 and 1860 c
+2 CONC ensus.
+2 CONT 
+2 CONT he claims he had only one brother. so if sarah was his mother which i think she was by the da
+2 CONC tes then he had more than one brother maybe at the time he claim this that is all he had livi
+2 CONC ng. Tess1880 Jones William 32 tx ten alaMahaley 35 wifeNevada 13 dauHaydin 11 sonParke
+2 CONC r 8 sonpenolply 6 dauMalind dauRobert sonOscar 10/12 Sept son
+2 CONT 
+2 CONT 1900 Indian terr. Creek nationed 5838 38 Jones William P. april 1848 52 tx tn tnMahaly M
+2 CONC . wife june 1845 54 ga ga gaOscar son july 1880 19 tx tx gaona dau 1883 16 tx tx gaJimmi
+2 CONC e son 188 11 tx tx ganicloas n boarder june 1844 55 mshere she says how much cherokee she i
+2 CONC s and her dad is cherokee mom white==============================================1910Grad
+2 CONC y Oklahoma tuttle twp ed 108 sheet 15 b74 75 Jones William P. 63 marr 1 marr 40 yr tx ten t
+2 CONC enMartha M. 64 marr 1 Marr 40 yr 11 ch 10 living ga ga gaWillard Burns ? hird hand 26=====
+2 CONC ================================1920 Grady Oklahoma Chickshaw ed 173 sheet 24 a4 6Jones W
+2 CONC . P. 76 Frances wife 62Jones Robert Grand son 18 single
+2 CONT 
+2 CONT he claims he had only one brother. so if sarah was his mother which i think she was by the da
+2 CONC tes then he had more than one brother maybe at the time he claim this that is all he had livi
+2 CONC ng.
+2 CONT 
+2 CONT marriage shows 2-25 and 2-27
+2 CONT 
+2 CONT source: Marriage License Book 1,page 152 marriage license states it was issued 25 Feb 1870 an
+2 CONC d executed on 27 Feb 1870.Executed by: J.J. Riddle. Appears in McLennan Co., TX
+2 CONT 
+2 CONT Listed on his son, Robert Melvin Jones' birth certificate.Notes from Elsie L. Seltzer: (Se
+2 CONC e Article from Chickasha Daily.. dated: Sunday, April 21, 1929)He enlisted in the Confederat
+2 CONC e Army when he turned 17. He was in Company I of the12th Tennesse Calvary Regiment under Jos
+2 CONC eph E. Johnson, stationed in Virgina. Since, there were several men with the name Bill, the
+2 CONC y called him "Texas Bill." He fought at fron the first battle of Bull Run, 21 Jul 1861 at Man
+2 CONC assa Junction, Virginia.The next battle he fought in was the Battle of New Oreleans, on Apr
+2 CONC il 24 & 25 of 1862.No one knew what happen to Bill until May of 1864, when Bills regiment me
+2 CONC t GeneralShermon when he entered Georgia. His regiment fought a series of defensive battlesa
+2 CONC s they retreated to Atlanta. By July 17th, the Union Army is 8 miles from Atlanta.July 20t
+2 CONC h thru the 22nd the battle for Atlanta is fought and many died. He is woundewhen a riffle bu
+2 CONC llet tares into his thigh. An old woman found him on the battlefield andcared for him in he
+2 CONC r home. In October, he crossed the Mississippi River and joinedWalkers Division, Company F o
+2 CONC f the 13th Regiment, where he remained until the endof the war. In the winter of 1864 his co
+2 CONC mpany was sent to Galveston to guard teh Harbor.On April 9, 1865, General Lee surrendered t
+2 CONC o General Grant at Appomattox Court House. By the end of May the confederate forces west of t
+2 CONC he Mississippi surrendered. He was discharged and returned home where he remained for abou
+2 CONC t 2 1/2 years. (It was most likely that during this time was when he married his first wife.)
+2 CONC States that he started the Ku Klux Kan in TX after the war, to keep order until a sheriff w
+2 CONC as elected and then he quit.In 1867, he joined the 16th Kansas-Nebraska Calvary Regiment o
+2 CONC f the US Army. The regiment was under the command of Capt. LaBoon and he was stationed in Cof
+2 CONC feyville, KS. Then, the regiment was sent to Fort Dodge, KS were they came under the comman
+2 CONC d of General George Custer. They fought the Indians in OK and KS. It was 1868 and Black Kettl
+2 CONC es' band of Cheyenne were in the winter camp on the Washita River when the calvary attacked a
+2 CONC t dawn killing Black Kettle and his wife along with most of the village. Bill was discharge
+2 CONC d in 1869 at Fort Talla. He returned home and married Martha Harris. (No one really knows wha
+2 CONC t happened to the first wife.)Later he served as a peace officer in Texas fo a time and i
+2 CONC n 1888 he and Martha moved to OK. There he became sheriff at Omulgee, OK for seven years. I
+2 CONC n 1908, they moved to a farm in Minco, OK and in 1911 they moved to Chickasha, OK***********
+2 CONC *****************************1850 Census: Beat B, Angelina Co., TX; Film #M432_908; pg#72; L
+2 CONC ine 5-8JONES 0072-81-81****************************************1860 Census: District 2, An
+2 CONC gelina, Texas; Film#: M653_1287; Pg#110; Line 12-19Jones, William 0110b 390 380
+2 CONT 
+2 CONT he shows to be 11 years old in 1860*****************************************1880 Census Pla
+2 CONC ce: Precinct 1, Angelina, Texas; Source: FHL Film 1255289 National Archives Film T9-1289 Pag
+2 CONC e 229ARelation Sex Marr Race Age BirthplaceWilliam JONES Self M M W 32 TXOcc: Farmer Fa: T
+2 CONC N Mo: ALMahaley JONES Wife F M W 35 GAOcc: Keeps House Fa: --- Mo: ---Nevada JONES Da
+2 CONC u F S W 13 TXOcc: At School Fa: TX Mo: GAHayden JONES Son M S W 10 TXOcc: At School Fa: T
+2 CONC X Mo: GAJohn JONES Son M S W 8 TXFa: TX Mo: GAPaneissa JONES Dau F S W 6 TXFa: TX Mo: GAM
+2 CONC alinda JONES Dau F S W 5 TXFa: TX Mo: GARobert JONES Son M S W 3 TXFa: TX Mo: GAOscar JON
+2 CONC ES Son M S W 10M TXFa: TX Mo: GA******************************************Rosehill Cemeter
+2 CONC y - Chickasha, Grady County, OklahomaJONES, Wm. P, ? - Jul 1929 (burial 23 Jul) (Block 1, Lo
+2 CONC t 22http://files.usgwarchives.org/ok/grady/cemeteries/rose08.txt***************************
+2 CONC **************Notes from Theresa VanOsdol <theresavanosdol@hotmail.com>:MUSTER ROLL OF2
+2 CONC d COMPANY D, 1st CONFEDERATEREGIMENT INFANTRYARMY OF TENNESSEEC. S. A.CATOOSA AND WALKE
+2 CONC R COUNTIES, GEORGIAJones, William P.- private May 1, 1862. Discharged, furnishedsubstitut
+2 CONC e, December 10, 1862.*********************************************
+2 CONT 
+2 CONT 
+2 CONT 
+2 CONT CO F 13 TEXAS VOLS
+2 CONT CONFEDERATE STATES ARMY
+2 CONT 
+2 CONT mother is reported mainly as Sarah Ann Davis although he was still married to "Brookshire" a
+2 CONC t the time of 1844 reported birth
+1 CHAN
+2 DATE 6 Jul 2019
+3 TIME 01:00:00
+0 @I79@ INDI
+1 NAME John Henry /Jones/
+2 SURN Jones
+2 GIVN John Henry
+1 SEX M
+1 BIRT
+2 DATE 8 Aug 1846
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 7 Apr 1929
+2 PLAC Gypsy, Harrison, West Virginia
+1 BURI
+2 PLAC Masonic cemetery, Harrison County, West Virginia
+1 _UID 2D6AFFAA7E2C83488EE87974429B7783EF38
+1 FAMS @F77@
+1 FAMC @F44@
+1 NOTE https://www.findagrave.com/memorial/176835682/john-henry-jones
+2 CONT 
+2 CONT Event: Confederate Soldier Private - Co D, 7th Texas Cavalry
+2 CONT 
+2 CONT 1880 Angelina1880 Census Place: Subdistrict 8, Precinct 1, Angelina, Texas; Source: FHL Fil
+2 CONC m 1255289 National Archives Film T9-1289; Page 232DRelation Sex Marr Race Age BirthplaceHen
+2 CONC ry JONES Self M M W 34 TXOcc: Farmer Fa: TN Mo: TNMargaret JONES Wife F M W 16 TXOcc: Keep
+2 CONC s House Fa: --- Mo: ---
+2 CONT Book from Clayton libJones J. Henryborn 1846 txspoue Margret Reynolds m 26 October 1876s
+2 CONC ervice Priviate , co D, 7th Texas Calverysources History angelina co marriage 1846 - 189
+2 CONC 9 , 1880 census
+2 CONT 
+2 CONT Ancestry says birth about 1845, also show 1846
+2 CONT 
+2 CONT John Jones was born in August 1846, in Angelina, Texas, United States; he passed away on Apri
+2 CONC l 7, 1929, in Gypsy, Harrison, West Virginia, United States. His parents were John F. Jones <
+2 CONC /wiki/Jones-25473> and Sally Davis </wiki/Davis-23703>[1][2][3]
+2 CONT According to 1900 United States Federal Census for Township 5 Choctaw Nation Indian Territory
+2 CONC , John Henry Jones' wife was "Laura", she was born in 1867, and was 33 years old at the tim
+2 CONC e of the census. Further, she was born in Texas, as whas her father, but her mother was bor
+2 CONC n in Alabama. Her and John were married for 3 years, as of the time of the 1900 census, and o
+2 CONC f the five children living at home (at the time) only "John L. 6 mos old" was a product of th
+2 CONC eir marrage.
+2 CONT 18 September 1850 ~ US Federal Census for: Beat B, Angelina County, Texas, USA
+2 CONT Name: John F Jones
+2 CONT Age: 30
+2 CONT Birth Year: abt 1820
+2 CONT Birthplace: Alabama
+2 CONT Home in 1850: Beat B, Angelina, Texas
+2 CONT Gender: Male
+2 CONT Family Number: 81
+2 CONT John F Jones 30
+2 CONT Sarah A Jones 18
+2 CONT James P Jones 9
+2 CONT John H Jones 5
+2 CONT William A Jones 2[4]
+2 CONT 6 July 1860 ~ US Federal Census for: District 2, Angelina County, Texas, USA
+2 CONT Name: John F Jones
+2 CONT Age in 1860: 42
+2 CONT Birth Year: abt 1818
+2 CONT Birthplace: Alabama
+2 CONT Home in 1860: District 2, Angelina, Texas
+2 CONT Gender: Male
+2 CONT Post Office: Homer
+2 CONT John F Jones 42
+2 CONT Sarah Jones 28
+2 CONT James F Jones 18
+2 CONT Henry J Jones [John H. Jones] 15
+2 CONT William Jones 11
+2 CONT Margaret Jones 8
+2 CONT Elizabeth Jones 6
+2 CONT Oliver Jones 4[5]
+2 CONT 1900 United States Federal Census for: Township 5 Choctaw Nation Indian Territory 22 June 19
+2 CONC 00
+2 CONT John H Jones, 53
+2 CONT Nancy G Jones, 51
+2 CONT John W Jones, 21
+2 CONT Cleveland Jones, 12
+2 CONT Maggie Jones, 6
+2 CONT West Virginia, Deaths Index, 1853-1973
+2 CONT Name: John Henry Jones
+2 CONT Birth Date: 8 Aug 1847
+2 CONT Birth Place: Alabama
+2 CONT Death Date: 7 Apr 1929
+2 CONT Death Place: Gypsy, Harrison Co., West Virginia
+2 CONT Burial Date: 8 Apr 1929
+2 CONT Burial Place: Shinnston, West Virginia
+2 CONT Death Age: 81 years 7 months 29 days
+2 CONT Occupation: Ret. C. Miner
+2 CONT Race: White
+2 CONT Marital Status: Single
+2 CONT Gender: Male
+2 CONT Father Name: John Jones
+2 CONT Father Birth Place: Alabama
+2 CONT 
+2 CONT 
+2 CONT John Henry Jones was born in August 1846, in Alabama. His parents were John F. Jones and Sall
+2 CONC y Davis. John Married Nancy G. Patterson, and after she passed, he married Margaret C Reynold
+2 CONC s on 26 Oct 1876, in Angelina, Texas. John passed away on April 7, 1929, in Gypsy, Harrison
+2 CONC , West Virginia, United States.
+2 CONT 
+2 CONT The children of John Henry Jones and Nancy G. Patterson were:
+2 CONT 
+2 CONT Laura May (Jones) Wood
+2 CONT Elizabeth Riller (Jones) Hulvey
+2 CONT Grover Cleveland Jones
+2 CONT 
+2 CONT Obituary:
+2 CONT 
+2 CONT "John H. Jones, 82, died at 7 o'clock yesterday morning at the home of his son John Jones Jr.
+2 CONC , of infirmities due to old age.
+2 CONT Another son, Cleveland Jones, lives in Oklahoma. There are two daughters, Mrs. Elizabeth Hulv
+2 CONC ey, who also lives in Oklahoma, and Mrs. Anna Pitney, of Gypsy.
+2 CONT Funeral Services were held this afternoon at 4 o'clock at the home. Interment was made at th
+2 CONC e Masonic Cemetery at Shinnston, with the Harmer Undertakers in charge.
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I80@ INDI
+1 NAME James P /Jones/
+2 SURN Jones
+2 GIVN James P
+1 SEX M
+1 BIRT
+2 DATE 12 Jan 1842
+2 PLAC Texas
+1 DEAT
+2 DATE 18 Feb 1902
+2 PLAC Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 25B80CA83F6DA84FAE81DB8F9850F88734ED
+1 FAMS @F78@
+1 FAMC @F44@
+1 NOTE https://www.findagrave.com/memorial/120470752/james-p-jones
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I81@ INDI
+1 NAME James Middleton /Jones/
+2 SURN Jones
+2 GIVN James Middleton
+1 SEX M
+1 BIRT
+2 DATE 1819
+2 PLAC Tennessee
+1 DEAT
+2 DATE 1900
+2 PLAC Texas
+1 _UID 127BB492400D3243A292CFD85731A9B8598E
+1 FAMS @F79@
+1 FAMC @F45@
+1 NOTE 1860 Angelina co Texas homer 9 july pg 53409 409James M. Jones 44 TennMary a. 25 missJosh
+2 CONC ua 8 txSarah 6 txJames 3 txGeorge 1 tx========================1870 Angelina co Texasp
+2 CONC g 17 123house 6 Jones Marie 34 MissJoshua 17 texasLizzie 16 texasRilie 12 texMarie 7 t
+2 CONC exMelinda 4 texemiline 8/12=====================1880 angelina co TexasMary Jones 44 ms a
+2 CONC l ncSarah 22 txJames 20Jane 16Jesana 12Emiline 9Amandia 8
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I82@ INDI
+1 NAME Martha Malinda /Jones/
+2 SURN Jones
+2 GIVN Martha Malinda
+2 _AKA Martha Matilda /Jones/
+1 SEX F
+1 BIRT
+2 DATE 12 Dec 1821
+2 PLAC Franklin, Tennessee
+1 DEAT
+2 DATE 8 Jun 1896
+2 PLAC Dark Canyon, Eddy County, New Mexico
+1 BURI
+2 PLAC X Bar Ranch, Mt Eddy County, New Mexico
+1 _UID 4C9DF5FF9E4AB94CB5DE4AAD6F41E23A201C
+1 FAMS @F80@
+1 FAMC @F45@
+1 NOTE https://www.findagrave.com/memorial/62822002/martha-malinda-kuykendall
+2 CONT 
+2 CONT 
+2 CONT birth date also shows 12-12-1824 and 12-1
+2 CONT 
+2 CONT birth date also shows 12-12-1824
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I83@ INDI
+1 NAME Elizabeth /Jones/
+2 SURN Jones
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1826
+2 PLAC Lincoln County, Tennessee
+1 DEAT
+2 DATE 25 Nov 1878
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Gann cemetery Lower, Hamilton County, Texas
+1 _UID A39A4584905B77438AA5063775CC3ABE50CE
+1 FAMS @F81@
+1 FAMC @F45@
+1 NOTE https://www.findagrave.com/memorial/17972228/elizabeth-massingill
+2 CONT 
+2 CONT death place also shows Hamilton, Texas
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I84@ INDI
+1 NAME Ellender Rebecca /Brookshire/
+2 SURN Brookshire
+2 GIVN Ellender Rebecca
+2 NICK Ellen
+2 _AKA Ellenor
+1 SEX F
+1 BIRT
+2 DATE 2 Feb 1840
+2 PLAC Giles County, Tennessee
+1 DEAT
+2 DATE 15 Aug 1928
+2 PLAC Lufkin, Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID FD853CDDC9A03C40AB232C19B4F3C8555760
+1 FAMS @F78@
+1 FAMC @F82@
+1 NOTE https://www.findagrave.com/memorial/13820408/rebecca-elenor-berry
+2 CONT 
+2 CONT 
+2 CONT Birth: BET 1839 AND 1841 _SDATE: 1 JUL 1839 in TN Census: 11 NOV 1850 Giles Co TN Note: Nam
+2 CONC e given "Ellender R." Age 11. _TMPLT: FIELD: Name: Page VALUE: Giles Co TN, Dist 4, page 39
+2 CONC 0 A. Family 105. 1 Census: 6 JUL 1860 Angelina Co, TX Note:
+2 CONT Name given "Ellen R. BERRY", age 24.She & children living w/her father. Edward "Ned" had di
+2 CONC ed by thattime which is why she's back in her father's household. Both childrenlisted under
+2 CONC neath her are BERRY children, NOT Brookshires!
+2 CONT 
+2 CONT Birth: BET 1839 AND 1841 _SDATE: 1 JUL 1839 in TN Census: 11 NOV 1850 Giles Co TN Note: Nam
+2 CONC e given "Ellender R." Age 11. _TMPLT: FIELD: Name: Page VALUE: Giles Co TN, Dist 4, page 39
+2 CONC 0 A. Family 105. 1 Census: 6 JUL 1860 Angelina Co, TX Note:
+2 CONT Name given "Ellen R. BERRY", age 24.She & children living w/her father. Edward "Ned" had di
+2 CONC ed by thattime which is why she's back in her father's household. Both childrenlisted under
+2 CONC neath her are BERRY children, NOT Brookshires!
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I85@ INDI
+1 NAME Mahaly Martha /Harris/
+2 SURN Harris
+2 GIVN Mahaly Martha
+2 _AKA Mahala Martha Harris
+1 SEX F
+1 BIRT
+2 DATE 13 Jan 1845
+2 PLAC Macon, Georgia
+1 DEAT
+2 DATE 2 Jan 1915
+2 PLAC Chicasha, Grady County, Oklahome
+1 BURI
+2 PLAC Rose Hll Cemetery, Chickasha, Grady County, Oklahoma
+1 _UID 2C3E06ED8AD57242ACD7FD1EE1B4A278BD45
+1 FAMS @F51@
+1 NOTE https://www.findagrave.com/memorial/59037463/mahaly-martha-jones
+2 CONT 
+2 CONT 
+2 CONT Census: 5 JUN 1900 Indian Territory, Creek Nation, Twp 14, Range 13 E Note: Age 54, Jun 1845
+2 CONC . "Mahaly M." GA GA GA. 11 children, 10 living. _TMPLT: FIELD: Name: Page VALUE: Indian Terr
+2 CONC , Creek Nation. ED 58, Twp 14. Family 38/38 3 Census: 25 APR 1910 Tuttle Twp, Grady Co, OK No
+2 CONC te:
+2 CONT Age 64, "Martha M." Indian. Married 1 time, 40 years. 11 children,10 living. GA GA GA.Unde
+2 CONC r special inquiries relating to Indians, she states she is 1/32Cherokee Indian.
+2 CONT 
+2 CONT Note from Mike Lusk, Feb 2007:It has been awhile. Looking at the 1910 OK census, it did not
+2 CONC e thatMahala was Cherokee Indian and William Perry Jones was white. Itshowed that Mahala'
+2 CONC s father was Indian and her mother was white. Thefraction shown for Mahala was one thirty se
+2 CONC cond and her father was 31thirty seconds. At first glance I figured that should make Mahal
+2 CONC a aone half. I called the Cherokee Nation in OK and the individual inthe heritage center ag
+2 CONC reed that she should be one half Cherokee.
+2 CONT 
+2 CONT Copy of marriage license states it was issued 25 Feb 1870 and executed on 27 Feb 1870.
+2 CONT Executed by: J.J. Riddle. Appears in McLennan Co., TX Marriage License Book 1, page 152
+2 CONT (copy signed by Clerk of the County Court: Frank Denny on 9 Feb 1972.
+2 CONT 
+2 CONT parents also reported to be Sterns Harris (1819-1860) and Sabra Harris (1824-after 1860)
+2 CONT 
+2 CONT birth place also shows Lumpkin County, Georgia
+2 CONT 
+2 CONT Married: 27 FEB 1870 in Waco, McLennan Co., TX 7 8 Note:
+2 CONT Copy of marriage license states it was issued 25 Feb 1870 and executed on 27 Feb 1870.Execut
+2 CONC ed by: J.J. Riddle. Appears in McLennan Co., TX Marriage License Book 1, page 152(copy signe
+2 CONC d by Clerk of the County Court: Frank Denny on 9 Feb 1972.Notes from Theresa VanOsdol:Also
+2 CONC , see Marriage Recod Vol. 1- Mclennan Co., TX pg. 54
+2 CONT 
+2 CONT 
+2 CONT 
+2 CONT Census: 5 JUN 1900 Indian Territory, Creek Nation, Twp 14, Range 13 E Note: Age 54, Jun 1845
+2 CONC . "Mahaly M." GA GA GA. 11 children, 10 living. _TMPLT: FIELD: Name: Page VALUE: Indian Terr
+2 CONC , Creek Nation. ED 58, Twp 14. Family 38/38 3 Census: 25 APR 1910 Tuttle Twp, Grady Co, OK No
+2 CONC te:
+2 CONT Age 64, "Martha M." Indian. Married 1 time, 40 years. 11 children,10 living. GA GA GA.Unde
+2 CONC r special inquiries relating to Indians, she states she is 1/32Cherokee Indian.
+1 CHAN
+2 DATE 26 Feb 2019
+3 TIME 00:00:00
+0 @I86@ INDI
+1 NAME Margaret C /Reynolds/
+2 SURN Reynolds
+2 GIVN Margaret C
+1 SEX F
+1 BIRT
+2 DATE 1864
+2 PLAC Texas
+1 DEAT
+2 DATE AFT 1880
+2 PLAC Texas
+1 _UID 0B2100EE6A31D3449ED0F472EB4B6F7FC4E6
+1 FAMS @F77@
+1 NOTE Angelina co tx pg 40 1880Jones Henry 34 tx ten tenMargaret 16 wifenote they have her as Re
+2 CONC ynolds But Under them is Runnels Oliver 50 txSealy 23 wife txElizabeth 11 daua 8 dauH 6 d
+2 CONC auCharles son
+2 CONT 
+2 CONT his name is also oliver Runnels in placesReynold Oliver p. Pen # 09971 angelina co. Texas==
+2 CONC ==============================1860 angelina co texasReynolds Oliver 30 MississippiElleno
+2 CONC r 26 mississwashington 4 txsamuel 1 tx======================1880 angelinaoliver p. runne
+2 CONC ls 50Sealy a. 23 wifeElizabeth 11 dauAmasa 8 sonCharles 4 sonGreen price step son 5Rose
+2 CONC y price sdau 3Thomas price
+1 CHAN
+2 DATE 15 Mar 2019
+3 TIME 01:00:00
+0 @I87@ INDI
+1 NAME Jesse Wright /Brookshire/
+2 SURN Brookshire
+2 GIVN Jesse Wright
+2 _AKA Pvt Jones
+1 SEX M
+1 BIRT
+2 DATE 5 Apr 1833
+2 PLAC Tennessee
+1 DEAT
+2 DATE 15 Dec 1904
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry Cemetery, Moffitt, Angelina County, Texas
+1 _UID B8E4F36C7152C745937EA96C45F0CFD6CA1B
+1 FAMS @F74@
+1 FAMS @F83@
+1 FAMC @F82@
+1 NOTE https://www.findagrave.com/memorial/8154251/jesse-wright-brookshire
+2 CONT 
+2 CONT I have seen that some researchers have him married to Ellen R. Berryin abt 1856. HOWEVER!! T
+2 CONC he Ellen R. Berry that you can see in 1860Angelina Co, living in Manning (sic) Brookshire'
+2 CONC s household and listedbelow Jesse MUST be Mannering's DAUGHTER, Ellen(der) Rebecca who m.Ed
+2 CONC ward C. BERRY. Edward had died by 1860 which is why Ellen was backin her father's house wit
+2 CONC h her 2 BERRY children and listed as holdingproperty...The kids aren't Brookshires, they ar
+2 CONC e Berrys - CHECK IT OUTAND GIVE ME PROOFS IF I'M WRONG....
+2 CONT 
+2 CONT Angelina County, Texas - Military: Confederate Pension ApplicationsBrookshire, J. W. 00058 A
+2 CONC ngelinaBrookshire, Margaret Ann 10813 Angelina Brookshire, J. W.
+2 CONT 
+2 CONT Lived next door to Will W. Brookshire, Jul 1874, TX TN TX
+1 CHAN
+2 DATE 6 Apr 2019
+3 TIME 01:00:00
+0 @I238@ INDI
+1 NAME George A /Davis/
+2 SURN Davis
+2 GIVN George A
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Tennessee
+1 DEAT
+2 DATE ABT 1876
+2 PLAC Texas
+1 _UID 6E84CCD9DA88474A9508265281AD21F0DED4
+1 FAMS @F189@
+1 FAMC @F9@
+1 NOTE 1860 pg 47 angelina co texas july 5367 367Davis George 36Martah 35Melissa 6sarah 3Tenne
+2 CONC ssee 1========================Company Muster roll g a davis 37 for May june 1862joined f
+2 CONC or duty may 10 1861homerby j. M. Jonesconfedrate d 22 Texa============================pr
+2 CONC ivate Davis George co d 22 texas Inf Hubbards's texas infinfo from Linda
+2 CONT 
+2 CONT death probably in Angelina County, Texas
+2 CONT 
+2 CONT Note:
+2 CONT Age 36, "George". Born MS. Farmer. Value of estate $300. Livednext door to his sister, Nanc
+2 CONC y Elmirah Davis Anderson.
+2 CONT 
+2 CONT Note:
+2 CONT Age 36, "George". Born MS. Farmer. Value of estate $300. Livednext door to his sister, Nanc
+2 CONC y Elmirah Davis Anderson.
+1 CHAN
+2 DATE 28 Jan 2019
+3 TIME 00:00:00
+0 @I243@ INDI
+1 NAME Francis B /Davis/
+2 SURN Davis
+2 GIVN Francis B
+1 SEX U
+1 BIRT
+2 DATE 1850
+2 PLAC Texas
+1 _UID 25851088D739B44DA614482EC27DCC750305
+1 FAMC @F9@
+1 NOTE reported on various censuses as both maile and female
+1 CHAN
+2 DATE 28 Jan 2019
+3 TIME 00:00:00
+0 @I253@ INDI
+1 NAME Jesse William /Davis/
+2 SURN Davis
+2 GIVN Jesse William
+1 SEX M
+1 BIRT
+2 DATE 4 May 1861
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 16 Oct 1932
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Knight cemetery, Lufkin, Angelina County, Texas
+1 _UID 25817B2802F0B745A1B08FC2CE20599CBC7E
+1 FAMS @F197@
+1 FAMC @F8@
+1 NOTE https://www.findagrave.com/memorial/117267998/jesse-william-davis
+2 CONT 
+2 CONT 
+2 CONT Census: 26 JUN 1880 Angelina Co TX Note: Jessee Davis, 18, works on farm. TX
+1 CHAN
+2 DATE 21 Feb 2019
+3 TIME 00:00:00
+0 @I254@ INDI
+1 NAME Felonia Katherine /Goodwin/
+2 SURN Goodwin
+2 GIVN Felonia Katherine
+1 SEX F
+1 BIRT
+2 DATE 22 Mar 1864
+2 PLAC Haynesville, Claiborne Parish, Louisiana
+1 DEAT
+2 DATE 12 Mar 1925
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Knight cemetery, Lufkin, Angelina County, Texas
+1 _UID 2A696F0FC02F714F869254E974D3BBE3FA27
+1 FAMS @F197@
+1 NOTE https://www.findagrave.com/memorial/117268371/felonia-catherine-davis
+1 CHAN
+2 DATE 21 Feb 2019
+3 TIME 00:00:00
+0 @I255@ INDI
+1 NAME Sarah Jane /Cole/
+2 SURN Cole
+2 GIVN Sarah Jane
+1 SEX F
+1 BIRT
+2 DATE 1 Oct 1840
+2 PLAC Nacogdoches County, Texas
+1 DEAT
+2 DATE 1905
+2 PLAC Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 5B21810CEEDD3743A69AF564EC2C2812391F
+1 FAMS @F8@
+1 FAMC @F198@
+1 NOTE https://www.findagrave.com/memorial/63028823/sarah-jane-davis
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I256@ INDI
+1 NAME Jemima Ann Victory /Davis/
+2 SURN Davis
+2 GIVN Jemima Ann Victory
+1 SEX F
+1 BIRT
+2 DATE 14 Jul 1865
+2 PLAC Bell County, Texas
+1 DEAT
+2 DATE 15 Feb 1951
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Freeman cemetery, Angelina County, Texas
+1 _UID D27A4AB9FE97AA449677E572656ED6F5D42C
+1 FAMS @F199@
+1 FAMC @F8@
+1 NOTE https://www.findagrave.com/memorial/180060254/jemima-freeman
+1 CHAN
+2 DATE 24 Aug 2018
+3 TIME 01:00:00
+0 @I257@ INDI
+1 NAME Elmina /Davis/
+2 SURN Davis
+2 GIVN Elmina
+1 SEX F
+1 BIRT
+2 DATE 17 Nov 1871
+2 PLAC North Carolina
+1 DEAT
+2 DATE 13 Dec 1944
+2 PLAC Wells, Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 249D482F5CDD394BA3EF8C3DD3FB55BE3131
+1 FAMS @F200@
+1 FAMC @F8@
+1 NOTE https://www.findagrave.com/memorial/6383855/elmina-cartwright
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I258@ INDI
+1 NAME Louisa Paralee /Davis/
+2 SURN Davis
+2 GIVN Louisa Paralee
+1 SEX F
+1 BIRT
+2 DATE 14 Aug 1875
+2 PLAC Texas
+1 DEAT
+2 DATE 1964
+2 PLAC Crockett, Houston County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 211BF2CF99CA59499162BF6931D6E121262F
+1 FAMS @F201@
+1 FAMC @F8@
+1 NOTE https://www.findagrave.com/memorial/6383819/lou-bates
+1 CHAN
+2 DATE 10 Nov 2018
+3 TIME 00:00:00
+0 @I259@ INDI
+1 NAME Julia Ann /Davis/
+2 SURN Davis
+2 GIVN Julia Ann
+1 SEX F
+1 BIRT
+2 DATE 19 Mar 1879
+2 PLAC Rocky Hill, Angelina County, Texas
+1 DEAT
+2 DATE 30 Aug 1963
+2 PLAC Forest, Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 6518B9EE07D6CD4FAC2D1C82D8B8BACEACD2
+1 FAMS @F202@
+1 FAMC @F8@
+1 NOTE https://www.findagrave.com/memorial/6527182/julia-ann-latham
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I261@ INDI
+1 NAME John A /Freeman/
+2 SURN Freeman
+2 GIVN John A
+1 SEX M
+1 BIRT
+2 DATE 1861
+2 PLAC Texas
+1 DEAT
+2 DATE 1915
+2 PLAC Texas
+1 BURI
+2 PLAC Freeman cemetery, Angelina County, Texas
+1 _UID EB1CF5A2A804E3479203CA376487128990A3
+1 FAMS @F199@
+1 NOTE https://www.findagrave.com/memorial/49434149/john-freeman
+1 CHAN
+2 DATE 24 Aug 2018
+3 TIME 01:00:00
+0 @I262@ INDI
+1 NAME Armond /Cartwright/
+2 SURN Cartwright
+2 GIVN Armond
+1 SEX M
+1 BIRT
+2 DATE Jan 1849
+2 PLAC North Carolina
+1 DEAT
+2 DATE 26 Dec 1921
+2 PLAC Forest, Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 7C75AE47B1136049AFF3B624FD5BC2503916
+1 FAMS @F200@
+1 NOTE https://www.findagrave.com/memorial/6383852/armond-cartwright
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I263@ INDI
+1 NAME Enoch Henry /Latham/
+2 SURN Latham
+2 GIVN Enoch Henry
+1 SEX M
+1 BIRT
+2 DATE 11 Oct 1852
+2 PLAC Forest, Cherokee County, Texas
+1 DEAT
+2 DATE 22 Oct 1916
+2 PLAC Barsola Community, Cherokee County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID B017FA8511DA90429595C6E4E2AF2421ADB3
+1 FAMS @F202@
+1 NOTE https://www.findagrave.com/memorial/87099170/enoch-h-latham
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I264@ INDI
+1 NAME George Hayden /Jones/
+2 SURN Jones
+2 GIVN George Hayden
+2 _AKA George Haydin
+1 SEX M
+1 BIRT
+2 DATE 27 Dec 1870
+2 PLAC Texas
+1 _UID 72F9275877AEA544ACE81756101EA5D09CD9
+1 FAMC @F51@
+1 NOTE 12-27-1870 possible birth
+2 CONT 
+2 CONT Note: 1880 Census: June 1880 Census, AngelinaCo., TX 229 pg 33, Dist. 1, Sub. #8
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I265@ INDI
+1 NAME John Henry /Jones/
+2 SURN Jones
+2 GIVN John Henry
+2 _AKA John Henry Parker
+1 SEX M
+1 BIRT
+2 DATE 16 Aug 1872
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE 2 Jul 1956
+2 PLAC Norman, Cleveland County, Oklahoma
+1 BURI
+2 PLAC Resthaven Gardens, Oklahome City, Cleveland County, Oklahoma
+1 _UID 766070468AA3BB45B815CA830FBA15EC9D00
+1 FAMS @F204@
+1 FAMS @F205@
+1 FAMS @F206@
+1 FAMC @F51@
+1 NOTE 
+2 CONT https://www.findagrave.com/memorial/63285359/john-henry-jones
+2 CONT 
+2 CONT 1880 Census: June 1880 Census, AngelinaCo., TX 229 pg 33, Dist. 1, Sub. #8227 Jones, Willia
+2 CONC m - white male - 37 - Farmer - born TX FA - TN MO - ALMahalay - white female - 35 - keepin
+2 CONC g house - born GANevada - w/f - 13 daughter - born TXHaydin - w/m - 11 son - "Parker - w/
+2 CONC m - 8 son - "Penlope - w/f - 6 daughter - "Malinda - w/f - 5 daughter - "Robert - w/
+2 CONC m - 3 son - "Oscar - w/m - 10/12 mon son "Listed as "Parker" on 1880 Census
+2 CONT 
+2 CONT :
+2 CONT 1900 Arlington Town Tarrant Texassheet 20 a ed 0110 House 374John p. Jones July 1869 arkCa
+2 CONC rrie jun 1874 arkNeva J genevieLoucie=====================1910 Ellis Oklahoma35 35Jone
+2 CONC s Henry 36 M2 36 texas us usCarry 34 m2 6 ch 6 liv Ill Ill pennPaul 10 okRobert 8 okEdwi
+2 CONC n 5 okeunice dau 3Clerence son 1Dora dau 15Chepman?? Katy 14 Stepdaughter.==============
+2 CONC ==========Pontoctoc Oklahoma 1920John P. Jones 1869 txcarrie 1879 arkGenevieve 1896 tx 2
+2 CONC 4 yrs oldLucillie 1900 txPaul 1901 tx==================1930 Roger Mills Oklahoma Henry 5
+2 CONC 8 texascarrie 56 illson 14 okla
+2 CONT 
+2 CONT :
+2 CONT 1900 Arlington Town Tarrant Texassheet 20 a ed 0110 House 374John p. Jones July 1869 arkCa
+2 CONC rrie jun 1874 arkNeva J genevieLoucie=====================1910 Ellis Oklahoma35 35Jone
+2 CONC s Henry 36 M2 36 texas us usCarry 34 m2 6 ch 6 liv Ill Ill pennPaul 10 okRobert 8 okEdwi
+2 CONC n 5 okeunice dau 3Clerence son 1Dora dau 15Chepman?? Katy 14 Stepdaughter.==============
+2 CONC ==========Pontoctoc Oklahoma 1920John P. Jones 1869 txcarrie 1879 arkGenevieve 1896 tx 2
+2 CONC 4 yrs oldLucillie 1900 txPaul 1901 tx==================1930 Roger Mills Oklahoma Henry 5
+2 CONC 8 texascarrie 56 illson 14 okla
+2 CONT 
+2 CONT 
+2 CONT John Henry's first wife is believed to be Agnes (maiden name unknown) with whom he fathered A
+2 CONC lford b. August 1891 and Nora b. Jan. 1894. Agnes is believed to have held an Indian Roll Num
+2 CONC ber as did Alford and Nora.
+2 CONT 
+2 CONT William Paul Jones b. Nov. 2, 1898 most likely was also Agnes' child.
+2 CONT 
+2 CONT John Henry married Carrie Booker Nov. 27, 1899. They became parents to 7 additional children
+2 CONC . Carrie had been previously married and came to the union with her daughter Katie Chapman/Cl
+2 CONC apman.
+1 CHAN
+2 DATE 12 Mar 2019
+3 TIME 01:00:00
+0 @I266@ INDI
+1 NAME Penelopy /Jones/
+2 SURN Jones
+2 GIVN Penelopy
+2 NICK Neppie
+2 _AKA Paneipa /Jones/
+1 SEX F
+1 BIRT
+2 DATE 12 Jan 1874
+2 PLAC Texas
+1 DEAT
+2 DATE 21 Feb 1937
+2 PLAC Chickasha, Grady County, Oklahoma
+1 BURI
+2 PLAC Rosehill Cemetery. Chickasha, Grady County, Oklahoma
+1 _UID DBCAE2C6D322D14297A72F0C2034B3F4C9DB
+1 FAMS @F207@
+1 FAMC @F51@
+1 NOTE https://www.findagrave.com/memorial/64567669/penelopy-j-lusk
+1 CHAN
+2 DATE 21 Mar 2019
+3 TIME 01:00:00
+0 @I267@ INDI
+1 NAME Robert Melvin /Jones/
+2 SURN Jones
+2 GIVN Robert Melvin
+1 SEX M
+1 BIRT
+2 DATE 15 Jan 1878
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE 21 May 1967
+2 PLAC Stockton San Joaquin County, California
+1 BURI
+2 PLAC Highland View Memorial Park, San Joaquin, Ca
+1 _UID 861D2C3D6C82CB4A88F1F41E70E88AFC786F
+1 FAMS @F208@
+1 FAMC @F51@
+1 NOTE 1910 Ellis co oklahoma================1920 Ellis oklahoma================1930 Roger Mill
+2 CONC s oklahoma
+1 CHAN
+2 DATE 8 Apr 2018
+3 TIME 01:00:00
+0 @I268@ INDI
+1 NAME William Oscar /Jones/
+2 SURN Jones
+2 GIVN William Oscar
+2 _AKA J Oscar Jones
+1 SEX M
+1 BIRT
+2 DATE 5 Sep 1879
+2 PLAC Texas
+1 DEAT
+2 DATE 29 Nov 1943
+2 PLAC Sand Springs, Oklahoma
+1 _UID 168496ABB841464FB94AB7C766A9A40BA8CE
+1 FAMS @F209@
+1 FAMC @F51@
+1 NOTE 1910 Ellis OklahomaJones O. w. 30 marr 1 9 yrs texasBertha M. 26 5 ch 4 liv arkIda b. 8 ok
+2 CONC Ellen M. 7 ok Earl 4 okAgnes O. 1 6/12 ok============================1920 Ellis Oklahoma
+2 CONC Jones Oscar w. 47Bertha m 35Ellen m 16Earl c. 13Roy m 8Ruth M 4Mable f 3==============
+2 CONC =======1930 Rogers Mills.Jones O. W. 50Bertha 47Mabel 13Opal 8bobbie 6
+2 CONT 
+2 CONT Note: 1880 Census: June 1880 Census, Angelina Co., TX 229 pg 33, Dist. 1, Sub. #8; Listed a
+2 CONC s Oscar.
+1 CHAN
+2 DATE 24 Jun 2018
+3 TIME 01:00:00
+0 @I269@ INDI
+1 NAME James Edgar /Jones/
+2 SURN Jones
+2 GIVN James Edgar
+2 NICK Coach
+1 SEX M
+1 BIRT
+2 DATE 23 Jul 1887
+2 PLAC Waco, McLennan County, Texas
+1 DEAT
+2 DATE 4 Jul 1967
+2 PLAC Albuquerque, Bernalillo County, New Mexcio
+1 BURI
+2 PLAC Sunset Memorial Park, Albuquerque, Bernalillo County, Nm
+1 _UID 7F49D7F9BFD00A40BDCC47288F20BC9B6FC3
+1 FAMS @F210@
+1 FAMS @F211@
+1 FAMC @F51@
+1 NOTE https://www.findagrave.com/memorial/54742681/james-edgar-jones
+2 CONT 
+2 CONT 1910 Newkirk Kay co Oklahomaed 64 sheet 15 b 7155James e. Jones 22 Texas Texas gaJulia C
+2 CONC . 22 mo Mo Mo Race Indian =================1920 NewKirk Kay OklahomaJ. e. Jones Julia E
+2 CONC . 30Cornelia 7Ellinor 1====================1930 Bernlillo New MexcioJame e. Jones es
+2 CONC t b 1889Nelia 37Cornelia 16Elinor 10thelmon 9 dau
+2 CONT 
+2 CONT Religion: Methodist Medical Information: Contributory Causes: Anemia Arterioselenosis Note:
+2 CONT Buried: Grave 6. Sec. 176. Block 18 Area 15 "Coach"Cemetery is located at Menaul Blvd. and E
+2 CONC dith Blvd. N.E. Albequerque, Bernalillo Co., NM.
+2 CONT 
+2 CONT Sports coach at the Albuquerque Indian School from 1925 to 1940father ofCornelia E. Jone
+2 CONC s Robinson (1914- )Elinor E. Jones (1919-1993)
+2 CONT 
+2 CONT 
+2 CONT 
+2 CONT One/Fourth North Carolina Cherokee Native American Indian
+2 CONT 
+2 CONT Sports coach at the Albuquerque Indian School from 1925 to 1940
+2 CONT 
+2 CONT Father of:
+2 CONT Cornelia E. Jones Robinson (1914- )
+2 CONT Elinor E. Jones (1919-1993)
+1 CHAN
+2 DATE 10 Apr 2019
+3 TIME 01:00:00
+0 @I270@ INDI
+1 NAME Martha /Anderson/
+2 SURN Anderson
+2 GIVN Martha
+1 SEX F
+1 BIRT
+2 DATE ABT 1825
+2 PLAC Mississippi
+1 DEAT
+2 DATE 1876
+2 PLAC Texas
+1 _UID DABFCEC136EE5B43A1C9017B1C5F62833055
+1 FAMS @F189@
+1 FAMC @F15@
+1 NOTE Census: 5 JUL 1860 Homer P.O., Angelina Co, TX Note:
+2 CONT Age 35, "Martha". Born MS.Children listed:Mary, 10, TXMelissa, 6, TXSarah, 3, TXTenness
+2 CONC ee, 1, TX
+2 CONT 
+2 CONT Census: 5 JUL 1860 Homer P.O., Angelina Co, TX Note:
+2 CONT Age 35, "Martha". Born MS.Children listed:Mary, 10, TXMelissa, 6, TXSarah, 3, TXTenness
+2 CONC ee, 1, TX
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I271@ INDI
+1 NAME Henderson H /Brookshire/
+2 SURN Brookshire
+2 GIVN Henderson H
+2 NICK Henry
+1 SEX M
+1 BIRT
+2 DATE 17 Sep 1869
+2 PLAC Texas
+1 DEAT
+2 DATE 27 Mar 1912
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID E131FDAC6FD53D458231E935668BEC507FF2
+1 FAMS @F212@
+1 FAMC @F74@
+1 NOTE https://www.findagrave.com/memorial/52463009/henderson-h-brookshire
+2 CONT 
+2 CONT Angelina CountyA. W. [Wright] Brookshire male - M J [Martha Jane] Richardson 20 Aug 1874
+2 CONC B E [Becca Ellen] Brookshire female - E C [Ed] Berry 20 Jul 1857Edna Brookshire - T B Nerre
+2 CONC n 19 Dec 1897Exor Brookshire - W J Massingill 22 Sep 1892F L Brookshire female - W W Hubbar
+2 CONC d 19 Feb 1891Henderson Brookshire - Mary E Johnson 27 Apr 1892J C Brookshire male - Margare
+2 CONC t Cheatham 7 Sep 1892J D Brookshire male - J A Clark 6 Mar 1892J M Brookshire - Florentin
+2 CONC e Brazil 12 Jan 1890J M Brookshire male - V M Parish 13 Aug 1890J P Brookshire male - Amand
+2 CONC a C Massengill 20 Jan 1874J W Brookshire - Margaret M Jones 28 May 1868James Franklin Brook
+2 CONC shire - L. Massingeill 9 Jul 1868Jno. M Brookshire - L C Anderson 21 Jul 1875Louisa Brooksh
+2 CONC ire - John R York 7 Nov 1883Martha Brookshire - Charlie Reynolds 5 Nov 1896Monroe Brookshir
+2 CONC e - Mary Traweek 22 Jan 1896Mrs. J. M Brookshire - Thomas Havard 8 May 1894Mrs. Sarah Brook
+2 CONC shire - W S Parish 29 Jul 1897P J Brookshire male - F A Brazil 13 Nov 1887S M Brookshire fe
+2 CONC male - Robert Waltman 19 Feb 1874Sallie Brookshire - F M Cheatham 13 May 1896W J Brookshir
+2 CONC e male - I E Veitch 19 Sep 1892
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I272@ INDI
+1 NAME John Wright Mannering /Brookshire/
+2 SURN Brookshire
+2 GIVN John Wright Mannering
+1 SEX M
+1 BIRT
+2 DATE 19 Mar 1857
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 29 Jun 1933
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 903D913AF9778049BC799476A2284337547F
+1 FAMS @F17@
+1 FAMC @F83@
+1 NOTE https://www.findagrave.com/memorial/61938062/john-wright_mannering-brookshire
+2 CONT 
+2 CONT death cert say dad is Dock Brookshire Mom Susen Robinson informant Mrs Louis Melton of Hemphi
+2 CONC ll Texas*******************************************1870 in his dad house Jesse Brookshire*
+2 CONC *****************************************1880 Angelina co Texas pg 38 25 june329 Brookshe
+2 CONC r John 23Jane 20 Thomas 3 sonMonroe 2 son
+2 CONT 
+2 CONT This guy is a mystery. *IF* he is the son of Jesse Wright Brookshireand Susan Robinson, an
+2 CONC d his birth is correct, why is he not with Jessein 1860?One theory I have is that perhap
+2 CONC s he IS the same person as John M.BERRY (son of Ellen(der) Rebecca Brookshire Berry) who wa
+2 CONC s born in1857 and maybe Jesse adopted him? I have found no proofs for themarriage of his su
+2 CONC pposed mother, Susan Robinson, and Jesse Brookshire,and John M Berry doesn't turn up anywher
+2 CONC e after 1860.
+2 CONT Birth: MAR 1857 _SDATE: 15 MAR 1857 in TX Census: 5 SEP 1870 Angelina Co, TX Note:
+2 CONT Age 12, "John". With Jesse Brookshire. I always assumed he wasJesse's son but maybe not?????
+2 CONC ?? He's certainly not Margaret JonesBrookshire's son, he is too old and Jesse & Margaret wer
+2 CONC en't marriedthen.
+2 CONT 
+2 CONT Census: 18 APR 1930 Angelina Co, TX Note:
+2 CONT Age 73, "John W." Age 19 at first marriage. TX MS MS. Listed asfather-in-law to Tommie Hubba
+2 CONC rt (dau Grace's husb)
+2 CONT 
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=61938062
+2 CONT 
+2 CONT Death certificate shows middle initial to be "M". Died from injuries sustained in auto accid
+2 CONC ent.Parents listed as Jessie Wright "Dock" Brookshire & Susan Robinson Brookshire.Informant
+2 CONC : Mrs. Louis Melton, Hemphill, TX
+2 CONT 
+2 CONT This guy is a mystery. *IF* he is the son of Jesse Wright Brookshireand Susan Robinson, an
+2 CONC d his birth is correct, why is he not with Jessein 1860?One theory I have is that perhap
+2 CONC s he IS the same person as John M.BERRY (son of Ellen(der) Rebecca Brookshire Berry) who wa
+2 CONC s born in1857 and maybe Jesse adopted him? I have found no proofs for themarriage of his su
+2 CONC pposed mother, Susan Robinson, and Jesse Brookshire,and John M Berry doesn't turn up anywher
+2 CONC e after 1860.
+2 CONT Birth: MAR 1857 _SDATE: 15 MAR 1857 in TX Census: 5 SEP 1870 Angelina Co, TX Note:
+2 CONT Age 12, "John". With Jesse Brookshire. I always assumed he wasJesse's son but maybe not?????
+2 CONC ?? He's certainly not Margaret JonesBrookshire's son, he is too old and Jesse & Margaret wer
+2 CONC en't marriedthen.
+2 CONT 
+2 CONT Census: 18 APR 1930 Angelina Co, TX Note:
+2 CONT Age 73, "John W." Age 19 at first marriage. TX MS MS. Listed asfather-in-law to Tommie Hubba
+2 CONC rt (dau Grace's husb)
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I273@ INDI
+1 NAME Mary Jane /Cochran/
+2 SURN Cochran
+2 GIVN Mary Jane
+1 SEX F
+1 BIRT
+2 DATE 1859
+2 PLAC Alabama
+1 DEAT
+2 DATE 1907
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 6CDD8C94A334A643A03637564B34A935E957
+1 FAMS @F75@
+1 NOTE https://www.findagrave.com/memorial/92365009/mary-jane-jones
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I274@ INDI
+1 NAME Richard E /Parish/
+2 SURN Parish
+2 GIVN Richard E
+1 SEX M
+1 BIRT
+2 DATE 27 Oct 1868
+2 PLAC Texas
+1 DEAT
+2 DATE 8 Jun 1903
+2 PLAC Lufkin, Angelina County, Texas
+1 BURI
+2 PLAC Berry cemetery, Angelina County, Texas
+1 _UID B4EA98138C44DA47BEAA42E312E42413F49C
+1 FAMS @F64@
+1 NOTE https://www.findagrave.com/memorial/62276454/richard-e.-parish
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I275@ INDI
+1 NAME Eva /Berry/
+2 SURN Berry
+2 GIVN Eva
+1 SEX F
+1 BIRT
+2 DATE 27 Jan 1882
+2 PLAC Texas
+1 DEAT
+2 DATE 20 Jul 1968
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Berry Cemetery, Angelina County, Texas
+1 _UID 62ECB5995FB66F45BBB90BA589D794DF5CBA
+1 FAMS @F10@
+1 NOTE Note: She was John Franklin Berry's neice!! 3
+2 CONT 
+2 CONT https://www.findagrave.com/memorial/13819992/eva-wilkerson
+2 CONT 
+2 CONT Note: She was his neice!! 3
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I277@ INDI
+1 NAME Martha Charlotte /Wilkerson/
+2 SURN Wilkerson
+2 GIVN Martha Charlotte
+2 NICK Lottie
+1 SEX F
+1 BIRT
+2 DATE 2 Jan 1883
+2 PLAC Texas
+1 DEAT
+2 DATE 3 Nov 1973
+2 PLAC Lufkin, Angelina County, Texas
+1 BURI
+2 PLAC Berry Cemetery, Angelina County, Texas
+1 _UID 4EFD4470149DD043ABFD6A11ACED295F0781
+1 FAMS @F65@
+1 NOTE https://www.findagrave.com/memorial/14320698/martha-charlotte-berry
+2 CONT 
+2 CONT 
+2 CONT "Lottie" Wilkerson Berry married Andrew Jackson Berry on 22 Dec 1901 in Angelina County, Texa
+2 CONC s (Source: Angelina County, Texas Marriages, 1898-1910, p. 18)
+1 CHAN
+2 DATE 9 Jul 2018
+3 TIME 01:00:00
+0 @I286@ INDI
+1 NAME James Henry /Kuykendall/
+2 SURN Kuykendall
+2 GIVN James Henry
+2 _AKA James Hampton /Kuykendall/
+1 SEX M
+1 BIRT
+2 DATE 30 Nov 1818
+2 PLAC Franklin County, Tennessee
+1 DEAT
+2 DATE 15 Aug 1889
+2 PLAC Carlsbad, Eddy County, New Mexico
+1 BURI
+2 PLAC X Bar Ranch, Mt Eddy County, New Mexico
+1 _UID B8F4673066A3E74D8FC2B612033CBFD76EDB
+1 FAMS @F80@
+1 NOTE https://www.findagrave.com/memorial/62821653/james-henry-kuykendall
+2 CONT 
+2 CONT 
+2 CONT death also shows 8-5-1889
+2 CONT Dark Canyon Cemetery is an abandoned cemetery about 25 mi West of Carlsbad, NM
+2 CONT 
+2 CONT ID: I96 Name: James h. KUYKENDALL Surname: Kuykendall Given Name: James h. Sex: M Birth: 30 N
+2 CONC ov 1818 in Franklin co. Tennessee Death: 15 Aug 1889 _UID: 98914B5DEB1E144DAD4E5B200BD02C37EF
+2 CONC 14 Note:   Gate way to Texas James Hampton b 30 nov 1818 nFranklin co Tenn died 15 aug 1889 b
+2 CONC urried thayer cem eddy new mexcio son of abraham H. and Mary Lindley Kuykendall  Maried Marth
+2 CONC a Jones 5 sept 1844 belive to be daughter of Joshua Jones seved in the army of republic membe
+2 CONC r of 6th concgress of republic 1841 1842 republic of texas pension musterd in to service 24 o
+2 CONC f jun 1846 member of santa fe expedition Tax list 1840 1845 =================================
+2 CONC ================ 65 Tx Angelina Homer dist 1 13 of july 1860  496 485 James H. Kuykendall 4
+2 CONC 4 farmer Tenn Martha 38 tenn Abraham 14 tx sarah 12 tx Johnl 10 tx Joshua 8 tx simon 6 tx Mar
+2 CONC tha 4 tx Samuel 2 tx
+2 CONT 
+2 CONT Red,Every now and then an old blind hog will find an acorn. When I saw the AI Kuykendall bi
+2 CONC t about New Mexico it rang a bell. Many years ago I wrote a bio. on Benjamin Stracener Kuyken
+2 CONC dall from Comanche, Texas, who in later years moved with his whole family to outside of Carls
+2 CONC bad, NM. Ben's father & mother & some siblings stayed in the area (New Mexico) and he, Ben, m
+2 CONC oved on out to Ariz. where he later died in 1937.A.I. Kuykendall is the eldest child of Jam
+2 CONC es H. & Martha M. Jones Kuykendall. James H. K. was the son of Abraham and Mary Lindley Kuyke
+2 CONC ndall. Abraham was the son of Matthew & Nancy Johnson Kukendall.Father James H. K. would mo
+2 CONC ve originally to Rusk Co. Texas.A.I Kuykendall married Elizabeth Y. (Big) Baggett, b. ca. 18
+2 CONC 52-d. 4 April 1923 at Slaton, Lubbock Co., Texas. Family wrote a story of an Indian raid on t
+2 CONC he Baggett home in 1862 when Big was 10 years old. Big was shot in the raid, recovered, marri
+2 CONC ed AIK and they had 9 children.Children were:1. Elizabeth2. John3. Jim4. Ora5. Emma Luc
+2 CONC ile6. Joe7. Artie8. Mark Twain9. WillJames H. Kuykendall and his wife are both buried i
+2 CONC n an abandoned cemetery at Dark Canyon, NM about 25 miles west of Carlsbad, NM not far from t
+2 CONC he entrance to Carlsbad Caverns.Marshall E. KuykendallDriftwood, Texas--------------------
+2 CONC ------------------------------------------------------ -------------------James H. Kuykendal
+2 CONC l b. Nov. 30, 1718 in Tennessee:son of: Rev. Abraham H. Kuykendall & Mary Haden Lindley,gra
+2 CONC ndson of: Matthew Kuykendall & Nancy Johnson.
+2 CONT 
+2 CONT James was the son of Reverend Abraham Kuykendall and Mary Haden Lindley Kuykendall.
+2 CONT 
+2 CONT James married Martha Malinda Jones, daughter of Joshua and Sarah Stiles Jones, on September 6
+2 CONC , 1844 in Nacogdoches Co., Texas.
+2 CONT 
+2 CONT James and Martha were the parents of
+2 CONT 
+2 CONT 1.Abraham Isaac Kuykendall, b.July 10, 1845. Abraham married Elizabeth 'Bid' Baggett.
+2 CONT 
+2 CONT 2.Sarah Jane Kuykendall, b.January 24, 1847, d.July 3, 1906.
+2 CONT Sarah Jane is interred at Rocky Arroyo Cemetery, Eddy Co., New Mexico.
+2 CONT 
+2 CONT 3.Joshua Daniel Kuykendall, b.October 4. 1849, d.September 29, 1935.
+2 CONT 
+2 CONT 4.Benjamin Stracener Kuykendall, b.April 26 1851, d.February 7, 1937. Ben married 1.Mary Elle
+2 CONC n McCulloch. Mary Ellen died August 19, 1888, she is interred at Tecumseh Cemetery, Clyde, Ca
+2 CONC llahan Co., Texas. Ben married 2.Laura Jane Coffey.
+2 CONT Ben and Laura are interred at Skull Valley Cemetery, Skull Valley, Yavapai Co., Arizona.
+2 CONT 
+2 CONT 5.Simon Anderson Kuykendall, b.February 10, 1853. Simon married Celia Nall.
+2 CONT *************************************
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I287@ INDI
+1 NAME Isaac /Massingill/
+2 SURN Massingill
+2 GIVN Isaac
+2 NICK Ike
+1 SEX M
+1 BIRT
+2 DATE 1 Feb 1825
+2 PLAC Greene County, Tennessee
+1 DEAT
+2 DATE 26 Dec 1901
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Gann cemetery Lower, Hamilton County, Texas
+1 _UID 5626A940C8FC3F459AF8021B5AC2B6A2D016
+1 FAMS @F81@
+1 NOTE https://www.findagrave.com/memorial/17972219/isaac-massingill
+2 CONT 
+2 CONT death place shows Nacogdoches on Ancestry
+2 CONT 
+2 CONT 11 kids
+2 CONT 
+2 CONT 1850 census Angelina County, Texas
+2 CONT Isaac MASSINGILL 27 male farmer 300 Tennessee
+2 CONT Elizabeth 25 female Tennessee
+2 CONT Joshua G. 5 male Texas
+2 CONT Page M. 2 male Texas
+2 CONT Mary E. 1/12 female Texas
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I288@ INDI
+1 NAME Mary Ann /Sparks/
+2 SURN Sparks
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 1835
+2 PLAC Mississippi
+1 DEAT
+2 DATE AFT 1872
+2 PLAC Texas
+1 _UID A760244805CE1C4FA6B49F0E8ACD9E5805E4
+1 FAMS @F79@
+1 NOTE Note: not sure abt last name
+1 CHAN
+2 DATE 22 Jun 2018
+3 TIME 01:00:00
+0 @I305@ INDI
+1 NAME Viola /Jones/
+2 SURN Jones
+2 GIVN Viola
+1 SEX F
+1 BIRT
+2 DATE 1 Nov 1878
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 15 Feb 1967
+2 PLAC Groves, Jefferson County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 7DE1E0AE6A24234A9731414BC7CD137F61C5
+1 FAMC @F75@
+1 NOTE https://www.findagrave.com/memorial/52424496/viola-goodson
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I309@ INDI
+1 NAME Leonia Pearl /O'Quinn/
+2 SURN O'Quinn
+2 GIVN Leonia Pearl
+1 SEX F
+1 BIRT
+2 DATE 16 May 1914
+2 PLAC Rocky Hill, Texas
+1 DEAT
+2 DATE 18 Jun 2003
+2 PLAC Dayton, Liberty County, Texas
+1 BURI
+2 PLAC Greenville Cemetery, Kenefick, Liberty County, Texas
+1 _UID 85741FB4FD408B4686B0B143F61B9258FF8C
+1 FAMS @F19@
+1 NOTE https://www.findagrave.com/memorial/60912937/leonia-pearl-jones
+2 CONT 
+2 CONT had college education but never worked.  had crossed eyes
+2 CONT 
+2 CONT Birth: 	May 16, 1914
+2 CONT Death: 	Jun. 18, 2003
+2 CONT 451-92-0101
+2 CONT 
+2 CONT Leonia P. Jones, 89, of Dayton, died Wednesday, June 18, 2003, at the Crockett Care Center i
+2 CONC n Crockett. Graveside services will be held at 1 Pm, Friday, June 20, 2003 at the Greenvill
+2 CONC e Cemetery in Kenefick with Rev. Wayne Hardin officiating. Visitation will be held from 10 A
+2 CONC m to Noon, Friday at the funeral home. Services are under the direction of Sterling Funeral H
+2 CONC ome in Dayton. Leonia was born May 16, 1914 in Rocky Hill, to parents; Jesse and Minnie Jones
+2 CONC , a resident of Dayton for 51 years and has resided in the Crockett area for the past three y
+2 CONC ears. She was a graduate of the Rocky Hill High School, attended Angelina Co. College and obt
+2 CONC ained her teacher's certificate, homemaker, member of the First Baptist Church, and enjoyed f
+2 CONC lower gardening and reading. Mrs. Jones was preceded in death by her parents, husband: Alber
+2 CONC t A. Jones, sons: Larry w. Jones, Jessie B. Jones, and Willie Don Jones, Daughter-in-law: Min
+2 CONC ga Jones, and son-in-law: Joe Knight. She is survived by her daughters: Mini Worley of Dayton
+2 CONC , sue Knight of Crockett, and Dee Canon and husband Eugene of Montgomery, sons: George Jone
+2 CONC s and wife Linda of Dayton and Roy Jones of Cuero, 20 grandchildren, 33 great-grandchildren
+2 CONC , and numerous friends.
+2 CONT 
+2 CONT verified in cemetery
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I575@ INDI
+1 NAME Jessie B /Jones/
+2 SURN Jones
+2 GIVN Jessie B
+1 SEX M
+1 BIRT
+2 DATE 21 Feb 1932
+2 PLAC Huntington, Angelina County, Texas
+1 DEAT
+2 DATE 2 Apr 1950
+2 PLAC Baytown Ship Channel
+1 BURI
+2 PLAC Greenville Cemetery, Kinifick, Liberty County, Texas
+1 _UID 6F347BE72213BB43B9032B7FBD410AB3595B
+1 FAMC @F19@
+1 NOTE https://www.findagrave.com/memorial/60912819/jessie-b-jones
+2 CONT 
+2 CONT 
+2 CONT Jesse was a deck hand on a tug boat that worked the Baytown Ship Channel.
+2 CONT 
+2 CONT On the night that he drowned, Weldon and Jim Chapman and Lucy were at a drive in movie near t
+2 CONC he same ship channel.
+2 CONT 
+2 CONT never married  death may not have been an accident
+2 CONT 
+2 CONT 
+2 CONT death certif says born 1932 not 1935  tombstone says 1935 because he lied about age in orde
+2 CONC r to go to work on a barge in the Houston Ship Channel.
+2 CONT 
+2 CONT He is supposed to have slipped and fell off the barge.
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I591@ INDI
+1 NAME Lula Eugene /Majors/
+2 SURN Majors
+2 GIVN Lula Eugene
+2 NICK Jean
+1 SEX F
+1 BIRT
+2 DATE 16 Dec 1929
+2 PLAC Tarkington Prairie, Texas
+1 DEAT
+2 DATE 2 Feb 2011
+2 PLAC Baptist Hospital, Beaumont, Texas
+1 BURI
+2 PLAC Guedry Cemetery, Batson, Texas
+1 _UID EEC1973F4143104BB3FA18B12C0C91690CA6
+1 FAMS @F25@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I605@ INDI
+1 NAME Caldonia Sarah /Underwood/
+2 SURN Underwood
+2 GIVN Caldonia Sarah
+1 SEX F
+1 BIRT
+2 DATE 1854
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 17 Dec 1873
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Gann cemetery Lower, Hamilton County, Texas
+1 _UID 8C33065A9DF2FB45B8C26469D472151CACFF
+1 FAMS @F400@
+1 NOTE https://www.findagrave.com/memorial/120633861/caldonia-sarah-massingill
+2 CONT 
+2 CONT Daughter of George Washington Underwood and Narcissa Brazeal Underwood. A twin of Lewis Raymo
+2 CONC nd Underwood, born in 1854 in Angelina co., Texas.
+2 CONT Married Page Meredith Massingill on Dec 1872.
+2 CONT Children: Sarah and George Wesley "Wess" Massingill
+2 CONT Died after childbirth of her son.
+1 CHAN
+2 DATE 19 Feb 2019
+3 TIME 00:00:00
+0 @I607@ INDI
+1 NAME Rachel /Matlock/
+2 SURN Matlock
+2 GIVN Rachel
+1 SEX F
+1 BIRT
+2 DATE 21 Sep 1804
+2 PLAC Nashville, Tennessee
+1 DEAT
+2 DATE 23 Jul 1897
+2 PLAC Eagle Creek, Tennessee
+1 _UID A485035F464C394599EED56BE37C9D4FAD23
+1 FAMS @F12@
+1 NOTE death place also shows Benton, Tennessee
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I608@ INDI
+1 NAME Ashburn /Davis/ Jr
+2 SURN Davis
+2 GIVN Ashburn
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE ABT 1823
+2 PLAC Tennessee
+1 DEAT
+2 DATE BEF 1828
+2 PLAC Tennessee
+1 _UID 84C6119E2A5EAB48A77B9E89B013E8A00865
+1 FAMC @F12@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I610@ INDI
+1 NAME Cassie Orell /Jones/
+2 SURN Jones
+2 GIVN Cassie Orell
+1 SEX F
+1 BIRT
+2 DATE 10 Oct 1888
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 20 Aug 1968
+2 PLAC Beaumont, Jefferson County, Texas
+1 BURI
+2 PLAC Zavalla cemetery, Angelina County, Texas
+1 _UID 81213031C69FB54D952CDDE362F1BCF8F244
+1 FAMS @F401@
+1 FAMC @F75@
+1 NOTE https://www.findagrave.com/memorial/32306835/cassie-orell-miles
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I611@ INDI
+1 NAME Erna Rothchild /Miles/ Sr
+2 SURN Miles
+2 GIVN Erna Rothchild
+2 NSFX Sr
+1 SEX M
+1 BIRT
+2 DATE 27 Jan 1889
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 22 Oct 1965
+2 PLAC Rusk, Cherokee County, Texas
+1 BURI
+2 PLAC Zavalla cemetery, Angelina County, Texas
+1 _UID 72F8AD8D6BA74D4CBAFDE890C903F2C905FB
+1 FAMS @F401@
+1 NOTE https://www.findagrave.com/memorial/32306804/erna-rothchild-miles
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I612@ INDI
+1 NAME Clara Nell /Herring/
+2 SURN Herring
+2 GIVN Clara Nell
+1 SEX F
+1 BIRT
+2 DATE 28 Mar 1915
+2 PLAC Harris County, Texas
+1 DEAT
+2 DATE 24 Dec 1992
+2 PLAC Dayton, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia cemetery, Dayton, Liberty County, Texas
+1 _UID 15688D0913B01F4A968B16035548EFDADFCB
+1 FAMS @F3@
+1 NOTE https://www.findagrave.com/memorial/25394155/clara-nell-mcwhirter
+2 CONT 
+2 CONT Clara Nell McWhirter in 1940 census
+2 CONT age 25  lived in South Dayton, TX
+2 CONT L G McWhirter was age 50
+2 CONT Ellen Ruth McWhirter age 4
+1 CHAN
+2 DATE 30 Oct 2018
+3 TIME 01:00:00
+0 @I613@ INDI
+1 NAME Johnnie Louise /Jones/
+2 SURN Jones
+2 GIVN Johnnie Louise
+2 NICK Lucy
+1 SEX F
+1 BIRT
+2 DATE 7 Oct 1912
+2 PLAC Pollock, Angelina County, Texas
+1 DEAT
+2 DATE 10 Apr 1994
+2 PLAC Dayton, Liberty County, Texas
+1 BURI
+2 PLAC Magnolia Park cemetery, Dayton, Liberty County, Texas
+1 _UID 035DC57BB20B7740A79803110BF2B10D2297
+1 FAMS @F402@
+1 FAMS @F403@
+1 FAMC @F4@
+1 NOTE https://www.findagrave.com/memorial/25404727/johnnie-louise-weaver
+1 CHAN
+2 DATE 29 Oct 2018
+3 TIME 01:00:00
+0 @I614@ INDI
+1 NAME William Anthony /Weaver/
+2 SURN Weaver
+2 GIVN William Anthony
+2 NICK Willie
+1 SEX M
+1 BIRT
+2 DATE 4 Dec 1921
+2 PLAC Texas
+1 DEAT
+2 DATE 14 Apr 1998
+2 PLAC Texas
+1 BURI
+2 PLAC Magnolia cemetery, Dayton, Liberty County, Texas
+1 _UID 22B067C6931ADB4C8E609C9627F6E7BAB108
+1 FAMS @F402@
+1 NOTE https://www.findagrave.com/memorial/25404728/william-anthony-weaver
+1 CHAN
+2 DATE 29 Oct 2018
+3 TIME 01:00:00
+0 @I615@ INDI
+1 NAME Louie Hudson /Jones/
+2 SURN Jones
+2 GIVN Louie Hudson
+1 SEX M
+1 BIRT
+2 DATE 22 Jul 1921
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 13 Nov 1991
+2 PLAC Emory, Rains County, Texas
+1 BURI
+2 PLAC Restlawn, Dallas, Dallas, Texas
+1 _UID 2FC43DF6416BFB438820C1A1B4C20B5BF660
+1 FAMS @F404@
+1 FAMC @F4@
+1 NOTE PFC Army
+2 CONT 
+2 CONT enlisted 9-26-1942
+2 CONT Enlistment for the duration of the War or other emergency, plus six months, subject to the di
+2 CONC scretion of the President or otherwise according to law
+2 CONT 
+2 CONT His parents were Albert Alvin and Lillian Jones. He married Syble Jack Stewart. They had tw
+2 CONC o children: Lou Cheryl born in Hunt Co, TX and Jacky Mark born in Dallas Co, TX.
+1 CHAN
+2 DATE 3 Sep 2018
+3 TIME 01:00:00
+0 @I616@ INDI
+1 NAME Radie Inez /Tunnell/
+2 SURN Tunnell
+2 GIVN Radie Inez
+1 SEX F
+1 BIRT
+2 DATE 15 Oct 1912
+2 PLAC Texas
+1 DEAT
+2 DATE 27 Jan 1984
+2 PLAC Woodville, Tyler County, Texas
+1 _UID F38BEAF487363941923C13DFD70AD56B743E
+1 FAMS @F405@
+1 FAMC @F42@
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I618@ INDI
+1 NAME Mary Sue /Jones/
+2 SURN Jones
+2 GIVN Mary Sue
+1 SEX F
+1 BIRT
+2 DATE 20 Mar 1940
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 26 Mar 2013
+2 PLAC Crockett, Texas
+1 BURI
+2 PLAC Cremated
+1 _UID 6FA5FB34855F9A41A82026F062D053FC61E5
+1 FAMS @F407@
+1 FAMC @F19@
+1 NOTE https://www.findagrave.com/memorial/147172884/mary-sue-knight
+2 CONT 
+2 CONT 
+2 CONT divorced Joseph 2-5-1978  but he seems to have lived in Crockett, TX either with her or nea
+2 CONC r her until he died.
+2 CONT 
+2 CONT TRINITY -- A service for friends and family of Mary Sue Knight, 73, will be held from 1-4 p.m
+2 CONC . Saturday, April 20, 2013, at 292 Private Road 5000, in Crockett.
+2 CONT 
+2 CONT Mrs. Knight died Tuesday, March 26, in Crockett. She was born March 20, 1940, in Kenafee an
+2 CONC d was a retired finance officer. Mrs. Knight worked for Industrial State Bank of Houston fo
+2 CONC r more than 30 years. After retiring, she moved to Crockett 21 years ago. She loved to garde
+2 CONC n and grow vegetables to share with friends and family. She also enjoyed working in her flowe
+2 CONC rbeds and growing beautiful roses.
+2 CONT 
+2 CONT Mrs. Knight was preceded in death by her husband, Joseph O'Ferro Knight, and her siblings, Va
+2 CONC llie D. Jones, Jessie B. Jones, Winnie Don Jones and Larry Wayne Jones. Survivors include a d
+2 CONC aughter, Ramona Gay Haltom; a sister, Mimmie Lee Worley; a brother, Roy Eugene Jones; grandch
+2 CONC ildren, Christina Sue Ackley and husband Mac and Christopher James Haltom and fiancé Victori
+2 CONC a Roesch; great-grandchildren, Christine Paige Ackley, Cameron Grace Ackley and Dani Marie Ac
+2 CONC kley; and a number of other relatives. Waller-Thornton Funeral Home of Trinity directed the a
+2 CONC rrangements.
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I619@ INDI
+1 NAME George Lane /Jones/ Sr.
+2 SURN Jones
+2 GIVN George Lane
+2 NSFX Sr.
+1 SEX M
+1 BIRT
+2 DATE 31 Mar 1938
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 12 Feb 2009
+2 PLAC Texas
+1 BURI
+2 PLAC Palms Memorial Park, Dayton, Liberty County, Texas
+1 _UID 160837A09776384985ABDCBFAE663A7A1671
+1 FAMC @F19@
+1 NOTE https://www.findagrave.com/memorial/69000626/george-lane-jones
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I620@ INDI
+1 NAME Joseph O'Farrell /Knight/
+2 SURN Knight
+2 GIVN Joseph O'Farrell
+1 SEX M
+1 BIRT
+2 DATE 22 Jan 1937
+2 PLAC Texas
+1 DEAT
+2 DATE 6 Mar 2003
+2 PLAC Texas
+1 BURI
+2 PLAC Forest Park cemetery, Houston, Harris County, Texas
+1 _UID 5440B2D8BFEC084BB71FE42C560BE5EB33B2
+1 FAMS @F407@
+1 NOTE https://www.findagrave.com/memorial/7295816/joseph-o'farrell-knight
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I621@ INDI
+1 NAME John /Davey/
+2 SURN Davey
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1766
+2 PLAC Fayetteville, Orange, North Carolina
+1 DEAT
+2 DATE 1829
+2 PLAC Tennessee
+1 _UID 8BC4BE3AE77A8C4B8A028A838658256782A9
+1 FAMS @F13@
+1 FAMC @F408@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I622@ INDI
+1 NAME Elizabeth /Winstead/
+2 SURN Winstead
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1772
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1847
+2 PLAC Madison Cty, North Carolina
+1 _UID 38A06DA6D4702D438F7B1E4CEF16051C394A
+1 FAMS @F13@
+1 FAMC @F409@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I623@ INDI
+1 NAME Gabriel /Davey/
+2 SURN Davey
+2 GIVN Gabriel
+1 SEX M
+1 BIRT
+2 DATE 1725
+2 PLAC Virginia
+1 DEAT
+2 DATE 1797
+2 PLAC North Carolina
+1 _UID C1A3D9913DBFE240B201EF45A176ADCD6494
+1 FAMS @F408@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I624@ INDI
+1 NAME Elizabeth /Bumpass/
+2 SURN Bumpass
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1741
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1797
+2 PLAC Caswell, North Carolina
+1 _UID 9BF258DEB1A463449C03D396B2DE932C1617
+1 FAMS @F408@
+1 FAMC @F410@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I625@ INDI
+1 NAME Robert /Bumpass/
+2 SURN Bumpass
+2 GIVN Robert
+1 SEX M
+1 BIRT
+2 DATE 1698
+2 PLAC Amerlia, Virginia
+1 DEAT
+2 DATE 1797
+2 PLAC Tar River, North Carolina
+1 _UID 9A6F0ACE0F68CB4399BF1A8411B0E9151B04
+1 FAMS @F410@
+1 FAMC @F411@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I626@ INDI
+1 NAME Samuel /Bumpas/
+2 SURN Bumpas
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 30 Apr 1676
+2 PLAC Plymouth County, Massachusetts
+1 DEAT
+2 DATE 18 Apr 1770
+2 PLAC Plymouth County, Massachusetts
+1 _UID 49FA66EEDF564A4C89E00360584DDF9C4E91
+1 FAMS @F411@
+1 FAMS @F412@
+1 FAMC @F413@
+1 NOTE death date reported as 1677 is wrong
+2 CONT had 3 kids with Mary Gabriel
+1 CHAN
+2 DATE 28 Dec 2016
+3 TIME 00:00:00
+0 @I627@ INDI
+1 NAME Mary /Gabriel/
+2 SURN Gabriel
+2 GIVN Mary
+1 SEX F
+1 BIRT
+2 DATE 1696
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1707
+2 PLAC Massachusetts
+1 _UID E9FE6E48FD44BD428B9B19ABF925B8882567
+1 FAMS @F412@
+1 CHAN
+2 DATE 18 Feb 2019
+3 TIME 00:00:00
+0 @I628@ INDI
+1 NAME John /Bumpas/
+2 SURN Bumpas
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1636
+2 PLAC Massachusetts
+1 DEAT
+2 DATE 1716
+2 PLAC Plymouth, Massachusetts
+1 _UID 6D9DF83B485F20499670D8B140BDFEAA81FA
+1 FAMS @F413@
+1 FAMC @F414@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I629@ INDI
+1 NAME Sarah /Hunter/
+2 SURN Hunter
+2 GIVN Sarah
+1 SEX F
+1 BIRT
+2 DATE 1641
+2 PLAC Massachusetts
+1 DEAT
+2 DATE AFT 1676
+2 PLAC Rochester, Massachusetts
+1 _UID 86A1148BC1838E4784536EB4DCCD2205A84B
+1 FAMS @F413@
+1 FAMC @F415@
+1 NOTE death reported as 1750 is wrong at ancestry.com
+1 CHAN
+2 DATE 12 Jan 2019
+3 TIME 00:00:00
+0 @I630@ INDI
+1 NAME Edward /Bompasse/
+2 SURN Bompasse
+2 GIVN Edward
+1 SEX M
+1 BIRT
+2 DATE 1604
+2 PLAC Leyden
+1 DEAT
+2 DATE 1683
+2 PLAC Marshfield, Plymouth, Massachusetts
+1 _UID 6B7A0349EBCD4742A8D4A48BA912274A49AD
+1 FAMS @F414@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I631@ INDI
+1 NAME Hannah /Annable/
+2 SURN Annable
+2 GIVN Hannah
+1 SEX F
+1 BIRT
+2 DATE 1600
+2 PLAC Marshfield, Massachusetts
+1 DEAT
+2 DATE 12 Feb 1694
+2 PLAC Marshfield, Plymouth, Massachusetts
+1 _UID 0568B1D5A83BF245A0763897F3478E1DD788
+1 FAMS @F414@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I632@ INDI
+1 NAME William /Hunter/
+2 SURN Hunter
+2 GIVN William
+1 SEX M
+1 BIRT
+2 DATE 1657
+2 PLAC Barnstable Village, Massachusetts Bay
+1 DEAT
+2 DATE 1728
+2 PLAC Maryland
+1 _UID 82A8F1BA5589F142B461BF7614AEC2F2A612
+1 FAMS @F415@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I633@ INDI
+1 NAME Rebecca /Besse/
+2 SURN Besse
+2 GIVN Rebecca
+1 SEX F
+1 BIRT
+2 DATE 1656
+2 PLAC Sandwich, Barnstable County, Massachusetts
+1 DEAT
+2 DATE 1746
+2 PLAC Maryland
+1 _UID 403A37DF266DD743934E5AB0A9A60ABB3C9E
+1 FAMS @F415@
+1 FAMC @F416@
+1 CHAN
+2 DATE 1 Dec 2018
+3 TIME 00:00:00
+0 @I634@ INDI
+1 NAME Anthony /Besse/
+2 SURN Besse
+2 GIVN Anthony
+1 SEX M
+1 BIRT
+2 DATE 1609
+2 PLAC Middlesex, England
+1 DEAT
+2 DATE 1657
+2 PLAC Sandwich, Barnstable County, Massachusetts
+1 _UID 14E12C9DA6705D40BF5CB4BF37A781F65482
+1 FAMS @F416@
+1 CHAN
+2 DATE 1 Dec 2018
+3 TIME 00:00:00
+0 @I635@ INDI
+1 NAME Cottance /Winstead/
+2 SURN Winstead
+2 GIVN Cottance
+1 SEX M
+1 BIRT
+2 DATE 1775
+2 PLAC Northumberland, Virginia
+1 DEAT
+2 DATE 1806
+2 PLAC Person, North Carolina
+1 _UID 0804D5973FEA2749BD7DF4EC79ED9A9AC546
+1 FAMS @F409@
+1 FAMC @F417@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I636@ INDI
+1 NAME Katherine /Hall/
+2 SURN Hall
+2 GIVN Katherine
+1 SEX F
+1 BIRT
+2 DATE 1755
+2 PLAC St Stephens Parish, Northumberland, Virginia
+1 DEAT
+2 DATE 1820
+2 PLAC Virginia
+1 _UID DAF9E716E3E24A47B8265D91060F381F5E55
+1 FAMS @F409@
+1 FAMS @F418@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I637@ INDI
+1 NAME Charles Brown /Winstead/
+2 SURN Winstead
+2 GIVN Charles Brown
+1 SEX M
+1 BIRT
+2 DATE 1775
+2 PLAC North Carolina
+1 DEAT
+2 DATE 1835
+2 PLAC Virginia
+1 _UID 9768FBD1F23B054580832FC0319125082397
+1 FAMS @F418@
+1 FAMC @F417@
+1 CHAN
+2 DATE 21 Sep 2018
+3 TIME 01:00:00
+0 @I638@ INDI
+1 NAME Samuel /Winstead/
+2 SURN Winstead
+2 GIVN Samuel
+1 SEX M
+1 BIRT
+2 DATE 10 Jul 1723
+2 PLAC Northumberland County, Virginia
+1 DEAT
+2 DATE 27 Jun 1808
+2 PLAC Person County, North Carolina
+1 _UID 1691BD9B5E3FEF4FA600AD68E4CBFD5293D1
+1 FAMS @F417@
+1 CHAN
+2 DATE 21 Sep 2018
+3 TIME 01:00:00
+0 @I639@ INDI
+1 NAME Elizabeth /Jones/
+2 SURN Jones
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1726
+2 PLAC Virginia, Northumberland
+1 DEAT
+2 DATE 1813
+2 PLAC North Carolina
+1 _UID DA1D387D1E42B4498605E51A298A35920D04
+1 FAMS @F417@
+1 FAMS @F419@
+1 FAMC @F420@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I640@ INDI
+1 NAME Johnson /Jones/
+2 SURN Jones
+2 GIVN Johnson
+1 SEX M
+1 BIRT
+2 DATE 1697
+2 PLAC Northumberland County, Virginia
+1 DEAT
+2 DATE 1734
+2 PLAC Northumberland County, Virginia
+1 _UID 6B843ED675E8A5419A018A5ED7624F44952A
+1 FAMS @F420@
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I641@ INDI
+1 NAME Elizabeth /Brown/
+2 SURN Brown
+2 GIVN Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 1697
+2 PLAC Virginia
+1 DEAT
+2 DATE 1746
+2 PLAC Virginia
+1 _UID 05A8C366B9F0894DABDA88AF6768D7C9803F
+1 FAMS @F420@
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I642@ INDI
+1 NAME John /Winstead/
+2 SURN Winstead
+2 GIVN John
+1 SEX M
+1 BIRT
+2 DATE 1720
+2 PLAC Virginia
+1 DEAT
+2 DATE 1761
+2 PLAC Northumberland, Virginia
+1 _UID B5C62D04A18F9F4AB573A714CD6ED42CE382
+1 FAMS @F419@
+1 FAMC @F421@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I817@ INDI
+1 NAME William Benton /Jordan/
+2 SURN Jordan
+2 GIVN William Benton
+1 SEX M
+1 BIRT
+2 DATE 23 Aug 1898
+2 PLAC Texas
+1 DEAT
+2 DATE 29 Apr 1989
+2 PLAC Tyler County, Texas
+1 _UID 27659F90BDC5D44CAA2AF370E1E0D199BF5B
+1 FAMS @F405@
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I900@ INDI
+1 NAME Carrie /Booker/
+2 SURN Booker
+2 GIVN Carrie
+1 SEX F
+1 BIRT
+2 DATE Feb 1874
+2 PLAC Arkansas
+1 DEAT
+2 DATE Sep 1936
+2 PLAC Oklahoma
+1 BURI
+2 PLAC Clearsprings Mashak cemetery, Okc, Ok
+1 _UID 052667E3D6FCA14E83E1139477BD56693454
+1 FAMS @F204@
+1 NOTE birth shows Feb and Jun 1874.  tombstone says Feb
+2 CONT 
+2 CONT http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=31576024
+1 CHAN
+2 DATE 4 Jan 2019
+3 TIME 00:00:00
+0 @I901@ INDI
+1 NAME Alpheus Morgan /Lusk/
+2 SURN Lusk
+2 GIVN Alpheus Morgan
+1 SEX M
+1 BIRT
+2 DATE 12 Jun 1862
+2 PLAC Lumpkin County Georgia
+1 DEAT
+2 DATE 5 Jun 1924
+2 PLAC Chickasha, Grady County, Oklahoma
+1 BURI
+2 PLAC Rosehill Cemetery. Chickasha, Grady County, Oklahoma
+1 _UID 75F2E316A786EE4F8A167B5D532A9D167266
+1 FAMS @F207@
+1 NOTE https://www.findagrave.com/memorial/142740704/alpheus-m-lusk
+1 CHAN
+2 DATE 21 Mar 2019
+3 TIME 01:00:00
+0 @I902@ INDI
+1 NAME Fannie Mae /Montague/
+2 SURN Montague
+2 GIVN Fannie Mae
+1 SEX F
+1 BIRT
+2 DATE 4 Nov 1886
+2 PLAC Cotton Plant, Arkansas
+1 DEAT
+2 DATE 26 Dec 1961
+2 PLAC Long Beach, Los Angeles County, California
+1 _UID F3F8A92031F93242A439DF3B863918EC0CCA
+1 FAMS @F208@
+1 NOTE On her daughter Elsie's birth certificate her last name is spelled:"Monticue". Some also spe
+2 CONC ll it "Montague".
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I903@ INDI
+1 NAME Bertha Mae /Brant/
+2 SURN Brant
+2 GIVN Bertha Mae
+1 SEX F
+1 BIRT
+2 DATE 13 May 1883
+2 PLAC Cotton Plant, Monroe County, Arkansas
+1 DEAT
+2 DATE 26 Sep 1932
+2 PLAC Oklahoma
+1 BURI
+2 PLAC Elk City, Oklahoma
+1 _UID 6C901CF3E38363408656A0E8C0E2812BC617
+1 FAMS @F209@
+1 CHAN
+2 DATE 24 Jun 2018
+3 TIME 01:00:00
+0 @I904@ INDI
+1 NAME Francis Ann /Jones/
+2 SURN Jones
+2 GIVN Francis Ann
+2 NICK Fanny
+2 _AKA Francis Allen /Jones/
+1 SEX F
+1 BIRT
+2 DATE 23 Dec 1881
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE 27 Sep 1967
+2 PLAC Agra, Oklahoma
+1 BURI
+2 PLAC Mashak Cemetery, Oklahoma County, Oklahoma
+1 _UID 179D703C09B1B847BB35752151F60F23189A
+1 FAMS @F558@
+1 FAMC @F51@
+1 NOTE https://www.findagrave.com/memorial/31576009/fannie-isabell
+2 CONT 
+2 CONT 
+2 CONT birth shows 1880 and 1881
+2 CONT 
+2 CONT Buried next to Fannie was: JONES, Carrie Booker B: Feb 1874 D: Sep 1936Stallings, H. C. Okl
+2 CONC ahoma Cemetery Records, Oklahoma County. 1964.OHS Call No. F702/O55/S3/v.3/DAR
+1 CHAN
+2 DATE 5 Nov 2018
+3 TIME 00:00:00
+0 @I905@ INDI
+1 NAME William Andrew /Isabell/
+2 SURN Isabell
+2 GIVN William Andrew
+2 NICK Andy
+2 _AKA William Andrew /Isabella/
+1 SEX M
+1 BIRT
+2 DATE 5 Feb 1877
+2 PLAC New York
+1 DEAT
+2 DATE 3 Dec 1941
+2 PLAC Oklahoma
+1 BURI
+2 PLAC Mashak Cemetery, Oklahoma County, Oklahoma
+1 _UID 7D99EA3A70897B4EBF929D937B2358B62972
+1 FAMS @F558@
+1 NOTE https://www.findagrave.com/memorial/31576002/andy-isabell
+2 CONT 
+2 CONT 
+2 CONT 1880 Census Place: Lockport, Niagara, New York; Source: FHL Film 1254901 National Archives Fi
+2 CONC lm T9-0901; Page 439D*******************************Stallings, H. C. Oklahoma Cemetery Rec
+2 CONC ords, Oklahoma County. 1964.OHS Call No. F702/O55/S3/v.3/DAR
+2 CONT 
+2 CONT His full name was William Andrew "Andy" Isbell. He was the son of John Andrew Isbell & Marth
+2 CONC a Elizabeth Long. His headstone shows the spelling of his last name as "Isabell". This may b
+2 CONC e a mistake on the headstone or he may have changed the spelling during his life.
+1 CHAN
+2 DATE 5 Nov 2018
+3 TIME 00:00:00
+0 @I906@ INDI
+1 NAME Sarah Margaret /Jones/
+2 SURN Jones
+2 GIVN Sarah Margaret
+1 SEX F
+1 BIRT
+2 DATE 24 Sep 1884
+2 PLAC Texas
+1 DEAT
+2 DATE 1965
+2 PLAC Oklahoma
+1 _UID D53E8E968013B14CA8874B044518247A40A0
+1 FAMS @F559@
+1 FAMC @F51@
+1 CHAN
+2 DATE 24 Mar 2019
+3 TIME 01:00:00
+0 @I907@ INDI
+1 NAME Julia E /Cornelius/
+2 SURN Cornelius
+2 GIVN Julia E
+1 SEX F
+1 BIRT
+2 DATE 15 Nov 1883
+2 PLAC Oneida, Brown County, Wisconsin
+1 DEAT
+2 DATE 18 Aug 1963
+2 PLAC Albuquerque, Bernadillo County, New Mexico
+1 BURI
+2 PLAC Sunset Memorial Park, Albuquerque, Bernalillo Co., Nm
+1 _UID 2180E08C464AF0489DC7536D2A3F1456CC99
+1 FAMS @F210@
+1 NOTE https://www.findagrave.com/memorial/58190458/julia-edith-jones
+2 CONT 
+2 CONT divorced fromJames Edgar Jones between 1930-1944mother ofCornelia E. Jones Robinson (1914
+2 CONC - )Elinor E. Jones (1919-1993)
+2 CONT 
+2 CONT Full-blooded Oneida American Indian
+1 CHAN
+2 DATE 26 Oct 2018
+3 TIME 01:00:00
+0 @I1099@ INDI
+1 NAME Jesse C /Brookshire/
+2 SURN Brookshire
+2 GIVN Jesse C
+1 SEX M
+1 BIRT
+2 DATE 1867
+2 PLAC Texas
+1 DEAT
+2 DATE AFT 1893
+2 PLAC Texas
+1 _UID DF5F017D4B4015498FD4CE4222E9BFE6C898
+1 FAMS @F638@
+1 FAMC @F74@
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I1100@ INDI
+1 NAME Edna Jane /Brookshire/
+2 SURN Brookshire
+2 GIVN Edna Jane
+1 SEX F
+1 BIRT
+2 DATE 1881
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 24 Jul 1930
+2 PLAC Angelina County, Texas
+1 _UID 28B2744B021FC945B4F6A4E13D752EAA81B9
+1 FAMS @F639@
+1 FAMC @F74@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I1101@ INDI
+1 NAME Worley /Brookshire/
+2 SURN Brookshire
+2 GIVN Worley
+1 SEX M
+1 BIRT
+2 DATE Aug 1883
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 1961
+2 PLAC Nacogdoches, Texas
+1 _UID 7F1B039A55639D4A954CFECBE96DF39F6891
+1 FAMS @F640@
+1 FAMC @F74@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I1102@ INDI
+1 NAME Lula /Brookshire/
+2 SURN Brookshire
+2 GIVN Lula
+1 SEX F
+1 BIRT
+2 DATE 21 May 1892
+2 PLAC Texas
+1 DEAT
+2 DATE 19 Jan 1982
+2 PLAC Beaumont, Jefferson County, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 628472EA03277E479AA9466F1B160DA40BE0
+1 FAMS @F641@
+1 FAMC @F74@
+1 NOTE https://www.findagrave.com/memorial/121532957/lula-whisenant
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I1103@ INDI
+1 NAME Minnie Ola /Holland/
+2 SURN Holland
+2 GIVN Minnie Ola
+2 NICK Maggie
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1878
+2 PLAC Lovelady, Texas
+1 DEAT
+2 DATE 26 Dec 1963
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Rocky Hill cemtery, Lufkin, Angelina County, Texas
+1 _UID 711ED09666A48F43B1ECDF5A30C523935275
+1 FAMS @F212@
+1 NOTE https://www.findagrave.com/memorial/124760714/minnie-ola-brookshire
+2 CONT 
+2 CONT Minnie Ola "Maggie" Holland married 1)John Parrish on 27 Jan 1897 in Angelina County, Texas
+2 CONC . John was born Nov 1872 in Angelina County, Texas and died in 1900. Minnie married 2)Henders
+2 CONC on H. "Henry" Brookshire on 5 Oct 1904 in Lufkin, Angelina, Texas.Children of Minnie Hollan
+2 CONC d and John Parrish were:i. Roscoe Parrish b. 7 Oct 1897 in Angelina Co, Tx, d. 10 Dec 1977 i
+2 CONC n Nacogdoches Co., Tx.ii. Melissa Elizabeth Parrish b. on 9 Aug 1900-1901 in Angelina Co., T
+2 CONC x and d. 25 Nov 1996, Huntington, Angelina, Tx. Melissa married John William Wallace. Childr
+2 CONC en of Minnie Holland and Henderson Brookshire:i. Birtha Brookshire was b. 16 May 1904 in Ang
+2 CONC elina Co., Tx.ii. Bertie Mae Brookshire b. 9 Aug 1907 in Angelina Co., Tx, d. 27 Jul 1976 i
+2 CONC n Angelina Co., Tx. Bertie married Brantley Thomas Summers in 1925.iii. Cullen Brookshire b
+2 CONC . 8 Jan 1912 in Angelina Co., Tx., d. 12 Dec 1956 in Angelina Co., Tx.
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I1104@ INDI
+1 NAME Margaret L /Cheatham/
+2 SURN Cheatham
+2 GIVN Margaret L
+1 SEX F
+1 BIRT
+2 DATE 1874
+2 PLAC Texas
+1 DEAT
+2 DATE 26 Dec 1963
+2 PLAC Angelina County, Texas
+1 _UID DB89CE7DD81DE448B723BBB5F5778F172C29
+1 FAMS @F638@
+1 CHAN
+2 DATE 2 Jul 2018
+3 TIME 01:00:00
+0 @I1105@ INDI
+1 NAME George Edward /Carlisle/
+2 SURN Carlisle
+2 GIVN George Edward
+1 SEX M
+1 BIRT
+2 DATE 1877
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 11 Nov 1957
+2 PLAC Angelina County, Texas
+1 _UID F521D6780B1730468B6FEE87E8DE4AE86330
+1 FAMS @F639@
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I1106@ INDI
+1 NAME Gertrude /Tubbe/
+2 SURN Tubbe
+2 GIVN Gertrude
+1 SEX F
+1 BIRT
+2 DATE 1889
+2 PLAC Nacogdoches, Texas
+1 DEAT
+2 DATE 1961
+2 PLAC Nacogdoches, Texas
+1 _UID 6BA57704CD7C7249A217BD846E3A0A569189
+1 FAMS @F640@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I1107@ INDI
+1 NAME Quitman /Quisenant/
+2 SURN Quisenant
+2 GIVN Quitman
+2 _AKA Quitman Whisenant
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 PLAC Alabama
+1 DEAT
+2 DATE 1 May 1962
+2 PLAC Caldwell, Burleson, Texas
+1 BURI
+2 PLAC Berry cemetery, Moffitt, Angelina County, Texas
+1 _UID 1F527F1B2ED08E49AF169AD030D3FAF50124
+1 FAMS @F641@
+1 NOTE https://www.findagrave.com/memorial/82786949/quitman-whisenant
+1 CHAN
+2 DATE 11 Jan 2019
+3 TIME 00:00:00
+0 @I1119@ INDI
+1 NAME Margie Mae /Graham/
+2 SURN Graham
+2 GIVN Margie Mae
+1 SEX F
+1 BIRT
+2 DATE 16 May 1904
+2 PLAC Tyler County, Texas
+1 DEAT
+2 DATE 28 Jun 1996
+2 PLAC Tyler County, Texas
+1 BURI
+2 PLAC Magnolia cemetery, Woodville, Tyler County, Texas
+1 _UID 7FFF304A13C4864D8299B7E998945414F172
+1 FAMS @F50@
+1 NOTE https://www.findagrave.com/memorial/45455422/margie-mae-jones
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I1120@ INDI
+1 NAME Hayden Edward /Jones/ Jr
+2 SURN Jones
+2 GIVN Hayden Edward
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 19 Jan 1929
+2 PLAC Port Arthur, Jefferson County, Texas
+1 DEAT
+2 DATE 19 Feb 2017
+2 PLAC Tyler County, Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID B48AD98104B7B94B9B49FE0224756BD7161C
+1 FAMS @F649@
+1 FAMC @F50@
+1 NOTE https://www.findagrave.com/memorial/176626234/hayden-edward-jones
+2 CONT 
+2 CONT Hayden Ed Jones, 88, of Port Neches, Texas, passed away Sunday, February 19, 2017.
+2 CONT 
+2 CONT Ed was born January 19, 1929 in Port Arthur, Texas to the late Hayden E. Jones Sr. and Margi
+2 CONC e Graham Jones.
+2 CONT 
+2 CONT Ed retired as Superintendent, HDR with Texaco Chemical Company and retired from the Texas Nat
+2 CONC ional Guard and Reserves as a Full Bird Colonel. He was a member of St. Elizabeth Catholic Co
+2 CONC mmunity in Port Neches where he served as Mass Captain at the 8:00 a.m. Mass for several year
+2 CONC s. He was also a member of the Port Neches Knights of Columbus Counsel 2461, where he serve
+2 CONC d on several committees.
+2 CONT 
+2 CONT Ed is survived by his loving wife of 38 years, Jenny Jones; daughters, Pam Kyler (Jeff), Deni
+2 CONC se Woodard (Tommy) and Jeanine Huckaby (Carl); sons, Alan Abshire (Vicki) and Dwain Abshire (
+2 CONC Margie); eleven grandchildren; and eleven great-grandchildren.
+2 CONT 
+2 CONT Ed is preceded in death by his parents; daughters, Sharon Jones, Julie Hurley, Holley Jones
+2 CONC , and Linda Jones; sons, Hayden Jones, III and George Jones; sister, Sarah Holmes, and aunt
+2 CONC , Ruth French.
+2 CONT 
+2 CONT Interment: Greenlawn Memorial Park, Groves, Texas
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I1125@ INDI
+1 NAME Mary Ann /McCurdy/
+2 SURN McCurdy
+2 GIVN Mary Ann
+1 SEX F
+1 BIRT
+2 DATE 21 Oct 1858
+2 PLAC DeKalb County, Alabama
+1 DEAT
+2 DATE ABT 1944
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Gann cemetery Lower, Hamilton County, Texas
+1 _UID 642968AC14C1E14D960C1C1593EB92FD8410
+1 FAMS @F653@
+1 NOTE https://www.findagrave.com/memorial/55044230/marianna-ann-massingill
+1 CHAN
+2 DATE 19 Feb 2019
+3 TIME 00:00:00
+0 @I1128@ INDI
+1 NAME James Ashley /Chapman/ Jr
+2 SURN Chapman
+2 GIVN James Ashley
+2 NSFX Jr
+2 NICK Jim
+1 SEX M
+1 BIRT
+2 DATE 29 Sep 1919
+2 PLAC Trinity County, Texas
+1 DEAT
+2 DATE 14 Nov 1969
+2 PLAC Henderson, Rusk, Texas
+1 BURI
+2 PLAC Shiloh cemetery, Brachfield, Rusk County, Texas
+1 _UID EC4895ABAD2C004BA954B815D144D4529DC7
+1 FAMS @F403@
+1 NOTE https://www.findagrave.com/memorial/130635914/jim-chapman
+1 CHAN
+2 DATE 13 Jan 2019
+3 TIME 00:00:00
+0 @I1139@ INDI
+1 NAME Martha Cornelia /Gross/
+2 SURN Gross
+2 GIVN Martha Cornelia
+2 NICK Nealie
+2 _AKA Martha Cornelia Gross Marshall Toles Jones
+1 SEX F
+1 BIRT
+2 DATE 20 Oct 1884
+2 PLAC Sherman, Grayson, Texas
+1 DEAT
+2 DATE 25 Jan 1958
+2 PLAC OkC, Oklahoma, Oklahoma
+1 BURI
+2 PLAC Resthaven Gardens, Okc, Cleveland, Ok
+1 _UID 20D06E7E3D4C4145A807AFF43FE2D93A718E
+1 FAMS @F205@
+1 NOTE http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=63518301
+1 CHAN
+2 DATE 18 Jun 2016
+3 TIME 01:00:00
+0 @I1140@ INDI
+1 NAME Joshua George /Massingill/
+2 SURN Massingill
+2 GIVN Joshua George
+1 SEX M
+1 BIRT
+2 DATE 1845
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE Mar 1933
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Murphree cemetery, Evant, Hamilton County, Texas
+1 _UID 23BFC254ED922240A32E73511773CAA86AC9
+1 FAMS @F657@
+1 FAMS @F658@
+1 FAMC @F81@
+1 NOTE https://www.findagrave.com/memorial/18061012/joshua-george-massingill
+2 CONT Born in Angelina county, Joshua was the first of at least six children of Isaac Massingill a
+2 CONC nd Elizabeth Jones. He served in Robinson's county, Texas Militia. After the Civil War, Jos
+2 CONC hua married Harriett Moore. They had two sons, Samuel Houston Massingill and James Riley "Ron
+2 CONC k" Massingill She died during son, James', birth, February 11, 1877.Joshua married second
+2 CONC , Callie Davis, June 17, 1879, in Smith county, Texas. They were the parents of at least fiv
+2 CONC e children. Joshua died February 10, 1933, Hamilton county, Texas and was preceded in deat
+2 CONC h by his parents, and a son, James.Family information provided by Gladys Cloud-Knight
+1 CHAN
+2 DATE 6 Jul 2019
+3 TIME 01:00:00
+0 @I1141@ INDI
+1 NAME Page M /Massingill/
+2 SURN Massingill
+2 GIVN Page M
+2 _AKA Page E or Page Meredith
+1 SEX M
+1 BIRT
+2 DATE 1847
+2 PLAC Texas
+1 DEAT
+2 DATE 1934
+2 PLAC Hamilton County, Texas
+1 BURI
+2 PLAC Gann cemetery Lower, Hamilton County, Texas
+1 _UID 2F1CDE2AA03280458EACF8E11DCBE2B57C94
+1 FAMS @F653@
+1 FAMS @F400@
+1 FAMC @F81@
+1 NOTE http://findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=17972307
+2 CONT 
+2 CONT possibly married to Mary Jane McCurdy and Mary Ann McCurdy
+2 CONT possibly buried at the Gann cemetery (lower), aka Isaac Gann cemetery in Hamilton County
+1 CHAN
+2 DATE 19 Feb 2019
+3 TIME 00:00:00
+0 @I1142@ INDI
+1 NAME Callie /Davis/
+2 SURN Davis
+2 GIVN Callie
+1 SEX F
+1 BIRT
+2 DATE Sep 1859
+2 PLAC Henderson County, Texas
+1 DEAT
+2 DATE 24 Feb 1937
+2 PLAC Evant, Coryell County, Texas
+1 BURI
+2 PLAC Murphree cemetery, Evant, Hamilton County, Texas
+1 _UID 4A2ED2D07F8EF44C95DA099C90B0F368161E
+1 FAMS @F657@
+1 NOTE https://www.findagrave.com/memorial/18061015/callie-f-massingill
+2 CONT Note: Please note the birth year on the headstone is in error. Callie Davis was more than li
+2 CONC kely born about 1860
+1 CHAN
+2 DATE 27 Jan 2019
+3 TIME 00:00:00
+0 @I1143@ INDI
+1 NAME Harriett /Moore/
+2 SURN Moore
+2 GIVN Harriett
+1 SEX F
+1 BIRT
+2 DATE 1851
+2 PLAC Texas
+1 DEAT
+2 DATE 11 Feb 1877
+2 PLAC Angelina County, Texas
+1 _UID 4D2D87EC77A1AF468F57FFD5D3333C847A79
+1 FAMS @F658@
+1 CHAN
+2 DATE 27 Jan 2019
+3 TIME 00:00:00
+0 @I1148@ INDI
+1 NAME Willie Don /Jones/
+2 SURN Jones
+2 GIVN Willie Don
+1 SEX M
+1 BIRT
+2 DATE 12 Aug 1947
+2 PLAC Liberty County, Texas
+1 DEAT
+2 DATE 25 Apr 2001
+2 PLAC Liberty County, Texas
+1 BURI
+2 PLAC Greenville Cemetery, Kinifick, Liberty County, Texas
+1 _UID E9482DCC9BBE7E49BD669F4F2E02F370EE90
+1 FAMC @F19@
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I1149@ INDI
+1 NAME Larry Wayne /Jones/
+2 SURN Jones
+2 GIVN Larry Wayne
+1 SEX M
+1 BIRT
+2 DATE 9 Sep 1949
+2 PLAC Liberty County, Texas
+1 DEAT
+2 DATE 10 Sep 1995
+2 PLAC Liberty County, Texas
+1 BURI
+2 PLAC Greenville Cemetery, Kinifick, Liberty County, Texas
+1 _UID 939ABF8778AD204F947EB2BF7F1528F1370E
+1 FAMC @F19@
+1 NOTE https://www.findagrave.com/memorial/60912879/larry-wayne-jones
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I1188@ INDI
+1 NAME Isaac /Massingill/
+2 SURN Massingill
+2 GIVN Isaac
+1 SEX M
+1 BIRT
+2 DATE 1860
+2 PLAC Texas
+1 _UID 12AD69F008499F469B24066A9DE1AB1DC3F4
+1 FAMC @F81@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I1189@ INDI
+1 NAME Joshua T /Jones/
+2 SURN Jones
+2 GIVN Joshua T
+1 SEX M
+1 BIRT
+2 DATE Sep 1854
+2 PLAC Texas
+1 DEAT
+2 DATE AFT 1910
+2 PLAC Texas
+1 _UID 961478467AFAE043A57682B4DA44E0F84619
+1 FAMC @F79@
+1 NOTE 1900 angelina co texas jones Joshua G. sept 1854Sarah e s sister mar 1857Annia m sister m
+2 CONC ar 1861Manty j/L sister may 1874============================1910 Angelina co texasJonesJo
+2 CONC shua T 56Sarah e sister 54Annah M sister 44Mattie s. sister 26
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I1190@ INDI
+1 NAME Sarah Elizabeth /Jones/
+2 SURN Jones
+2 GIVN Sarah Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 20 May 1854
+2 PLAC Texas
+1 DEAT
+2 DATE 1940
+2 PLAC Texas
+1 BURI
+2 PLAC Ryan Chapel cemetery, Angelina County, Texas
+1 _UID A8F07D61DF2B3743AF26E326876194065A20
+1 FAMC @F79@
+1 CHAN
+2 DATE 22 Jun 2018
+3 TIME 01:00:00
+0 @I1191@ INDI
+1 NAME James Riley /Jones/
+2 SURN Jones
+2 GIVN James Riley
+1 SEX M
+1 BIRT
+2 DATE 10 Mar 1859
+2 PLAC Texas
+1 DEAT
+2 DATE 6 Jun 1939
+2 PLAC Diaboll Angelina County Texas
+1 BURI
+2 PLAC Ryan Chapel cemetery, Angelina County, Texas
+1 _UID 16948DDF497B3D4093C22A451C15FFB1FC05
+1 FAMS @F666@
+1 FAMC @F79@
+1 NOTE https://www.findagrave.com/memorial/197351797/james-riley-jones
+2 CONT 
+2 CONT 
+2 CONT 1910 Angelina co TexasEd 6 Sheet 1 BJonesJames R. 51 M2 8 YrsMinnie 26 M1 8 yrs 3 ch 2 li
+2 CONC vingJoshua c. 4Annah d 2
+1 CHAN
+2 DATE 16 Jul 2019
+3 TIME 01:00:00
+0 @I1192@ INDI
+1 NAME George /Jones/
+2 SURN Jones
+2 GIVN George
+1 SEX M
+1 BIRT
+2 DATE 1859
+2 PLAC Texas
+1 _UID A36BF3A7873A4A45AAED21B6045E2B352831
+1 FAMC @F79@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I1193@ INDI
+1 NAME Georgia Minnie /Sanders/
+2 SURN Sanders
+2 GIVN Georgia Minnie
+1 SEX F
+1 BIRT
+2 DATE 15 Mar 1883
+2 PLAC Texas
+1 DEAT
+2 DATE 16 Feb 1963
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Ryan Chapel cemetery, Angelina County, Texas
+1 _UID 7553BA4241589E43AEE83BD41906C67D45DB
+1 FAMS @F666@
+1 NOTE https://www.findagrave.com/memorial/197351812/georgia-minnie-jones
+1 CHAN
+2 DATE 28 May 2019
+3 TIME 01:00:00
+0 @I1194@ INDI
+1 NAME Anna Ruth /Jones/
+2 SURN Jones
+2 GIVN Anna Ruth
+2 NICK Boonie
+1 SEX F
+1 BIRT
+2 DATE 2 May 1918
+2 PLAC Liberty County, Texas
+1 DEAT
+2 DATE 1 Mar 1984
+2 PLAC Texas
+1 BURI
+2 PLAC Sweeney cemetery, Sweeney, Brazoria County, Texas
+1 _UID 360D6E257E041342BFBD8FEAEE9DDC4B54CD
+1 FAMS @F667@
+1 FAMC @F4@
+1 NOTE https://www.findagrave.com/memorial/45608878/anna-ruth-whitmire
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I1195@ INDI
+1 NAME J B /Whitmire/
+2 SURN Whitmire
+2 GIVN J B
+2 NICK Tiny
+1 SEX M
+1 BIRT
+2 DATE 16 Nov 1917
+2 PLAC Texas
+1 DEAT
+2 DATE 12 Jun 1990
+2 PLAC Texas
+1 BURI
+2 PLAC Sweeney cemetery, Sweeney, Brazoria County, Texas
+1 _UID D671C8FD2A0B8A4AB6B3877FB8881306DD15
+1 FAMS @F667@
+1 NOTE https://www.findagrave.com/memorial/45608863/j-b-whitmire
+1 CHAN
+2 DATE 19 Sep 2018
+3 TIME 01:00:00
+0 @I1196@ INDI
+1 NAME John Alvin /Jones/
+2 SURN Jones
+2 GIVN John Alvin
+1 SEX M
+1 BIRT
+2 DATE 2 Apr 1946
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE 12 Apr 1946
+2 PLAC Angelina County, Texas
+1 _UID AA4F8A62103B544DA5A991B4D222CA1D3F1D
+1 FAMC @F19@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I1204@ INDI
+1 NAME John Malcolm /Rudd/
+2 SURN Rudd
+2 GIVN John Malcolm
+1 SEX M
+1 BIRT
+2 DATE 16 Apr 1883
+2 PLAC Texas
+1 DEAT
+2 DATE 21 Mar 1919
+2 PLAC Port Arthur, Jefferson, Texas
+1 _UID A321B697DA3A624EAE529FA6C095CFB6F4BF
+1 FAMS @F47@
+1 CHAN
+2 DATE 19 Jun 2016
+3 TIME 01:00:00
+0 @I1205@ INDI
+1 NAME Eugene Berton /Coker/
+2 SURN Coker
+2 GIVN Eugene Berton
+2 _AKA Eugene Barton /Coker/
+1 SEX M
+1 BIRT
+2 DATE 16 Mar 1882
+2 PLAC Brenton, Escambia, Alabama
+1 DEAT
+2 DATE 9 Jul 1958
+2 PLAC Port Arthur, Jefferson, Texas
+1 BURI
+2 PLAC Forest Lawn Memorial Park, Jefferson County, Texas
+1 _UID F04354F8A03A8547AB2A06C5D5DAA52A439D
+1 FAMS @F48@
+1 NOTE https://www.findagrave.com/memorial/155540252/eugene-berton-coker
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1206@ INDI
+1 NAME Henry Harrison /York/ Sr
+2 SURN York
+2 GIVN Henry Harrison
+2 NSFX Sr
+1 SEX M
+1 BIRT
+2 DATE 18 Apr 1880
+2 PLAC North Carolina
+1 DEAT
+2 DATE 25 Nov 1920
+2 PLAC Groves, Jefferson, Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID 4A8D4375CD95A84B9E8DF5C5434413B417C8
+1 FAMS @F49@
+1 NOTE https://www.findagrave.com/memorial/28440640/henry-harrison-york
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1207@ INDI
+1 NAME Charles Marvin /McClanahan/
+2 SURN McClanahan
+2 GIVN Charles Marvin
+1 SEX M
+1 BIRT
+2 DATE 13 Feb 1878
+2 PLAC Decatur, Wise County, Texas
+1 DEAT
+2 DATE 29 Dec 1936
+2 PLAC Oklahoma
+1 BURI
+2 PLAC Old Graham cemetery, Carter, Beckham County, Oklahoma
+1 _UID 252777B89F267A4CA04E4E01C53DD4A2BB09
+1 FAMS @F559@
+1 NOTE https://www.findagrave.com/memorial/23156190/charles-marvin-mcclanahan
+1 CHAN
+2 DATE 24 Mar 2019
+3 TIME 01:00:00
+0 @I1208@ INDI
+1 NAME Genettie /Settles/
+2 SURN Settles
+2 GIVN Genettie
+1 SEX F
+1 BIRT
+2 DATE 1876
+2 PLAC Texas
+1 DEAT
+2 DATE 16 Nov 1899
+2 PLAC Norman, Cleveland County, Oklahoma
+1 _UID 292E305C487F5A49AA1BB05988D5859F9CAA
+1 FAMS @F206@
+1 CHAN
+2 DATE 27 Oct 2018
+3 TIME 01:00:00
+0 @I1209@ INDI
+1 NAME Mable Margaret /Boyer/
+2 SURN Boyer
+2 GIVN Mable Margaret
+1 SEX F
+1 BIRT
+2 DATE 21 Oct 1898
+2 PLAC Dover, Shawnee County, Kansas
+1 DEAT
+2 DATE 23 Aug 1996
+2 PLAC Littleton, Douglas County, Colorado
+1 BURI
+2 PLAC Sunset Memorial Park, Albuquerque, Bernalillo County, Nm
+1 _UID 756888F99461004E965B40413297D9883D0F
+1 FAMS @F211@
+1 NOTE https://www.findagrave.com/memorial/54742572/mable-margret-jones
+1 CHAN
+2 DATE 10 Apr 2019
+3 TIME 01:00:00
+0 @I1215@ INDI
+1 NAME John Blakely /Prothro/
+2 SURN Prothro
+2 GIVN John Blakely
+1 SEX M
+1 BIRT
+2 DATE 24 Mar 1872
+2 PLAC Hallsville, Texas
+1 DEAT
+2 DATE 29 Apr 1946
+2 PLAC Beaumont, Jefferson County, Texas
+1 BURI
+2 PLAC Beech Creek Baptist Cemetery, Spurger, Tyler, Texas
+1 _UID 4FCAF188A31BC54D9D78A070785B5408B6D1
+1 FAMS @F46@
+1 NOTE https://www.findagrave.com/memorial/34928143/john-blakely-prothro
+2 CONT 
+2 CONT 
+2 CONT Last info shows John and Callie living in Marshall, Harrison, TX in 1910.
+2 CONT 
+2 CONT John and Ira were in Jefferson County, Texas in 1940
+1 CHAN
+2 DATE 28 May 2019
+3 TIME 01:00:00
+0 @I1216@ INDI
+1 NAME Syble Jack /Stewart/
+2 SURN Stewart
+2 GIVN Syble Jack
+1 SEX F
+1 BIRT
+2 DATE 23 Feb 1926
+2 PLAC Farmersville, Collin County, Texas
+1 DEAT
+2 DATE 29 Oct 2013
+2 PLAC Texas
+1 BURI
+2 PLAC Restlawn  cemetery, Dallas, Dallas County, Texas
+1 _UID FBD7029AA321844193D448A1B5C67BA8E5B4
+1 FAMS @F404@
+1 NOTE https://www.findagrave.com/memorial/119571542/syble-jack-jones
+2 CONT 
+2 CONT 
+2 CONT Syble Jack Jones (February 23, 1926 - October 29, 2013) Funeral service for Syble Jack Jon
+2 CONC es is scheduled for 10:00 am, Friday, November 1, 2013 at Wilson-Orwosky Funeral Home Chapel
+2 CONC . Bro. Joe Perkins and Bro. Robert Wyman will officate. Burial will be 3:00 pm at Restland Ce
+2 CONC metery in Dallas.Syble Jack Jones, 83, of Emory passed away on October 29, 2013. She was bo
+2 CONC rn in Farmersville on February 23, 1926 to Jack and Lura Patterson Stewart. She married Loui
+2 CONC e Hudson Jones in Tyler on February 19, 1945. Syble retired from Texas Instruments in Richard
+2 CONC son where she had worked as an inspector. She was a member of Miracle Faith Baptist Church.S
+2 CONC urvivors:Son: Jack Jones and wife Becky of EmoryDaughter: Cheryl Shipp and husband Sonny o
+2 CONC f EmoryBrothers: Jerry Pat Stewart and Herald Henry Stewart of Emory, and Joe Don Stewart o
+2 CONC f Lone OakSister: Leta Rabe of Emory, and Judy Cecil of MesquiteGrandchildren: Wendy Thurma
+2 CONC n, Robin Herman, Chris Jones, and Chrissy Jones all from Emory, and Jay Shipp of Flower Mound
+2 CONC Great-Grandchildren: Hannah Shipp of Flower Mound, and Kyle Thurman, Katie Thurman, and Jac
+2 CONC e Herman all from EmoryNumberous other loving family and friendsPreceded in death by: Par
+2 CONC ents, and Husband
+1 CHAN
+2 DATE 8 Sep 2018
+3 TIME 01:00:00
+0 @I1314@ INDI
+1 NAME William Wayne /Bates/
+2 SURN Bates
+2 GIVN William Wayne
+2 NICK Billy
+1 SEX M
+1 BIRT
+2 DATE 17 Mar 1868
+2 PLAC Mississippi
+1 DEAT
+2 DATE 1958
+2 PLAC Ratcliff, Houston County, Texas
+1 BURI
+2 PLAC Thompson cemetery, Cherokee County, Texas
+1 _UID 25B83D27CFDFA6498DB0375B44AF911C4D63
+1 FAMS @F201@
+1 NOTE 
+2 CONT https://www.findagrave.com/memorial/6383818/billy-bates
+2 CONT 
+2 CONT 1900 cherokee co TexasWilliam Bates March 1864 36 m 2yrs tx tenn alaLouisa aug 1876 23 m2yr
+2 CONC s 1 ch tx ms txJennie dec 1898 1======================1910 ed 24 sheet 4a cherokee co Texa
+2 CONC sBates william m1 12yrslouisaleecant make out others
+1 CHAN
+2 DATE 24 Nov 2018
+3 TIME 00:00:00
+0 @I1319@ INDI
+1 NAME Francis Lenora /Harris/
+2 SURN Harris
+2 GIVN Francis Lenora
+1 SEX F
+1 BIRT
+2 DATE 1855
+2 PLAC Georgia
+1 DEAT
+2 DATE 11 Dec 1922
+2 PLAC Chicasha, Grady County, Oklahome
+1 _UID 1A207FE2FB592245816070575A5332947198
+1 FAMS @F76@
+1 NOTE 1880 Census Place Precinct 2, Erath, Texas; NA Film Number T9-1302; Page Number 32CGeorge HA
+2 CONC RRIS Self M Male W 57 GA Farmer TN GAMargret HARRIS Wife M Female W 60 GA Keeping House GA S
+2 CONC CJohn LUSK SonL M Male W 27 GA Farmer GA GAFrancis LUSK Dau M Female W 23 GA At Home GA TNJ
+2 CONC ames T. LUSK GSon S Male W 2 TX GA GABenj. SLOAN Other S Male W 10 TX**********************
+2 CONC *********************1900 OK Census: Liberty Township, Cleveland Co., OK., Francis Lusk, mot
+2 CONC her in law of John C. McDaniels, age 43, widowed, born GA.**********************************
+2 CONC *********1910 OK Census: Walden Township, Grady Co., OK. shows; Francis Lusk, mother in la
+2 CONC w of John C. McDaniels, age 52, widowed, born GA.******************************************1
+2 CONC 920 OK Census: Chickasha, Grady Co., OK. shows; Francis Jones, wife of W. P. Jones, age 62, b
+2 CONC orn GA.
+2 CONT 
+2 CONT 
+2 CONT William Perry Jones later married Frances L. Harris (Lusk), sister of his first wife. She wa
+2 CONC s born 1855 d. 11 Dec 1922.
+1 CHAN
+2 DATE 26 Feb 2019
+3 TIME 00:00:00
+0 @I1395@ INDI
+1 NAME Mary Catherine /Jones/
+2 SURN Jones
+2 GIVN Mary Catherine
+1 SEX F
+1 BIRT
+2 DATE 10 Jan 1861
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 1 Jan 1902
+2 PLAC Angelina County, Texas
+1 BURI
+2 PLAC Traweek Cemetery, Angelina County, Texas
+1 _UID 525D67AE49C651439CB06926E0667E7D838D
+1 FAMS @F726@
+1 FAMC @F37@
+1 NOTE https://www.findagrave.com/memorial/32151901/mary-catherine-traweek
+1 CHAN
+2 DATE 14 Mar 2019
+3 TIME 01:00:00
+0 @I1396@ INDI
+1 NAME Hosea Penn /Traweek/
+2 SURN Traweek
+2 GIVN Hosea Penn
+1 SEX M
+1 BIRT
+2 DATE 1 Feb 1850
+2 PLAC Texas
+1 DEAT
+2 DATE 20 Mar 1920
+2 PLAC Texas
+1 BURI
+2 PLAC Traweek Cemetery, Angelina County, Texas
+1 _UID 08ECA7C1B4B7A74F95FFD52E33015BA5888C
+1 FAMS @F726@
+1 NOTE https://www.findagrave.com/memorial/32151801/hosea-penn-traweek
+1 CHAN
+2 DATE 14 Mar 2019
+3 TIME 01:00:00
+0 @I1413@ INDI
+1 NAME Minnie Lee /Jones/
+2 SURN Jones
+2 GIVN Minnie Lee
+1 SEX F
+1 BIRT
+2 DATE 15 Aug 1936
+2 PLAC Angelina County, Texas
+1 _UID 2B1CA456314510438897AF33C1554E249325
+1 FAMC @F19@
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I1414@ INDI
+1 NAME Vallie D /Jones/
+2 SURN Jones
+2 GIVN Vallie D
+1 SEX F
+1 BIRT
+2 DATE 14 Feb 1942
+2 PLAC Angelina County, Texas
+1 _UID 1652F0F23CF9D346AC6E3D27F2BABADA56A6
+1 FAMC @F19@
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I1415@ INDI
+1 NAME Ray Eugene /Jones/
+2 SURN Jones
+2 GIVN Ray Eugene
+1 SEX M
+1 BIRT
+2 DATE 28 Jan 1944
+2 PLAC Angelina County, Texas
+1 _UID 6C47AB849A48574798E81E8A6ACC22482A42
+1 FAMC @F19@
+1 CHAN
+2 DATE 16 Jun 2019
+3 TIME 01:00:00
+0 @I1416@ INDI
+1 NAME Carey James /Tunnell/
+2 SURN Tunnell
+2 GIVN Carey James
+1 SEX M
+1 BIRT
+2 DATE 18 Aug 1908
+2 PLAC Texas
+1 DEAT
+2 DATE 12 Jan 1990
+2 PLAC Texas
+1 BURI
+2 PLAC Beech Creek Baptist cemetery, Spurger, Tyler County, Texas
+1 _UID 1E51DD85ABA4EB42A6C093E6FF33C2AECE2D
+1 FAMS @F733@
+1 FAMC @F42@
+1 NOTE https://www.findagrave.com/memorial/104265253/carey-james-tunnell
+1 CHAN
+2 DATE 28 May 2019
+3 TIME 01:00:00
+0 @I1417@ INDI
+1 NAME Ruby Elizabeth /Jones/
+2 SURN Jones
+2 GIVN Ruby Elizabeth
+1 SEX F
+1 BIRT
+2 DATE 2 Nov 1910
+2 PLAC Texas
+1 DEAT
+2 DATE 31 Jul 1995
+2 PLAC Texas
+1 BURI
+2 PLAC Beech Creek Baptist cemetery, Spurger, Tyler County, Texas
+1 _UID 2E9924E828EBB841AA07307713FC27CA3755
+1 FAMS @F733@
+1 NOTE https://www.findagrave.com/memorial/104265322/ruby-elizabeth-tunnell
+1 CHAN
+2 DATE 28 May 2019
+3 TIME 01:00:00
+0 @I1418@ INDI
+1 NAME Carol Lee /Tunnell/
+2 SURN Tunnell
+2 GIVN Carol Lee
+1 SEX M
+1 BIRT
+2 DATE 26 Jul 1910
+2 PLAC Lufkin, Angelina County, Texas
+1 DEAT
+2 DATE 5 Feb 1976
+2 PLAC Houston, Harris County, Texas
+1 BURI
+2 PLAC Beech Creek Baptist cemetery, Spurger, Tyler County, Texas
+1 _UID D3ED489E5F530A449A53D2607F3CE1A607CF
+1 FAMC @F42@
+1 NOTE https://www.findagrave.com/memorial/196423585/carol-tunnell
+2 CONT 
+2 CONT was a machinist
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1419@ INDI
+1 NAME Ruby Mae /York/
+2 SURN York
+2 GIVN Ruby Mae
+1 SEX F
+1 BIRT
+2 DATE 29 Oct 1914
+2 PLAC Port Arthur, Jefferson County, Texas
+1 DEAT
+2 DATE 6 May 2011
+2 PLAC Beaumont, Jefferson County, Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID 2253A7C375BEF246AC5A5430D01DF530E605
+1 FAMS @F734@
+1 FAMC @F49@
+1 NOTE https://www.findagrave.com/memorial/69432982/ruby-mae-utvik
+2 CONT 
+2 CONT Ruby Mae Utvik, 96, passed away Friday, May 6, 2011 at Harbor Hospice in Beaumont.
+2 CONT 
+2 CONT Ruby was born in Port Arthur, Texas on October 29, 1914 to Henry York and Clementine Jones Yo
+2 CONC rk. She was a lifelong area resident and retired from Discount Grocers as a clerk.
+2 CONT 
+2 CONT Survivors include her two daughters, Beverly Hooker of Conroe, TX and Mary Ellen Landry and h
+2 CONC usband, Jake of Lumberton, TX; five grandchildren, Mollie Holdren, Julie Webb and husband, Da
+2 CONC nny, Nancy Hooker, John Landry and wife, Susie, Ashley Landry-Breaux and husband, Danny; seve
+2 CONC n great-grandchildren and one great-great grandchild.
+2 CONT 
+2 CONT Funeral services will be at 10:00 a.m., Monday, May 9, 2011 at Levingston Funeral Home in Gro
+2 CONC ves. Burial will follow at Greenlawn Memorial Park.
+2 CONT 
+2 CONT 
+2 CONT Obituary from Levingston Funeral Home, Groves, Texas; May 6, 2011
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1420@ INDI
+1 NAME Gunnar /Utvik/
+2 SURN Utvik
+2 GIVN Gunnar
+2 _AKA Capt Utvik
+1 SEX M
+1 BIRT
+2 DATE 8 Feb 1905
+2 PLAC Texas
+1 DEAT
+2 DATE 18 Jan 1990
+2 PLAC Texas
+1 BURI
+2 PLAC Greenlawn Memorial Park, Groves, Jefferson County, Texas
+1 _UID 8244873DBB534D4D92AB2CA8C830DACEE362
+1 FAMS @F734@
+1 NOTE https://www.findagrave.com/memorial/90408813/gunnar-utvik#view-photo=94306563
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1421@ INDI
+1 NAME Henry Harrison /York/ Jr
+2 SURN York
+2 GIVN Henry Harrison
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 10 Jul 1917
+2 PLAC Port Arthur, Jefferson County, Texas
+1 DEAT
+2 DATE 24 Jan 1932
+2 PLAC Jefferson County, Texas
+1 _UID 8767BEEE89351D4C98D291A8AB8A5C1106B3
+1 FAMC @F49@
+1 CHAN
+2 DATE 29 May 2019
+3 TIME 01:00:00
+0 @I1427@ INDI
+1 NAME Madge Cochran /Jones/
+2 SURN Jones
+2 GIVN Madge Cochran
+1 SEX F
+1 BIRT
+2 DATE 11 Feb 1891
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 17 May 1957
+2 PLAC Nacogdoches County, Texas
+1 BURI
+2 PLAC Sunset Memorial Park, Nacogdoches County, Texas
+1 _UID 5D0E8DDA06C2DC47BE8C66AF9055066B7268
+1 FAMS @F737@
+1 FAMC @F75@
+1 NOTE https://www.findagrave.com/memorial/85825843/madge-cochran-gribble
+2 CONT 
+2 CONT Occupation: Switchboard Operator
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I1428@ INDI
+1 NAME Charles Goodrich /Gribble/
+2 SURN Gribble
+2 GIVN Charles Goodrich
+1 SEX M
+1 BIRT
+2 DATE 1 May 1873
+2 PLAC Jefferson, Marion County, Texas
+1 DEAT
+2 DATE 2 Feb 1954
+2 PLAC Nacogdoches County, Texas
+1 BURI
+2 PLAC Sunset Memorial Park, Nacogdoches County, Texas
+1 _UID 02A936AF5B4077408222E73F2E5B23A90123
+1 FAMS @F737@
+1 NOTE https://www.findagrave.com/memorial/32593385/charles-goodrich-gribble
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I1429@ INDI
+1 NAME Julia B /Jones/
+2 SURN Jones
+2 GIVN Julia B
+1 SEX F
+1 BIRT
+2 DATE 12 Mar 1896
+2 PLAC Angelina County, Texas
+1 DEAT
+2 DATE 3 Feb 1975
+2 PLAC Nacogdoches County, Texas
+1 BURI
+2 PLAC Sunset Memorial Park, Nacogdoches County, Texas
+1 _UID 935B386B53FD85498A838ACA5FFFFC1F892D
+1 FAMS @F738@
+1 FAMC @F75@
+1 NOTE https://www.findagrave.com/memorial/101768954/julia-taylor
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @I1430@ INDI
+1 NAME Martin Junius /Taylor/ Jr
+2 SURN Taylor
+2 GIVN Martin Junius
+2 NSFX Jr
+1 SEX M
+1 BIRT
+2 DATE 14 Mar 1897
+2 PLAC Moscow, Polk County, Texas
+1 DEAT
+2 DATE 12 Apr 1972
+2 PLAC Nacogdoches County, Texas
+1 BURI
+2 PLAC Sunset Memorial Park, Nacogdoches County, Texas
+1 _UID 27E98CBDE01DA54E92EAC3BBFDB8775FCEDF
+1 FAMS @F738@
+1 NOTE https://www.findagrave.com/memorial/69676731/martin-junius-taylor
+1 CHAN
+2 DATE 8 Jul 2019
+3 TIME 01:00:00
+0 @F2@ FAM
+1 _UID 12AD8F28747CE54BBB2786E5C095BCB0A4E3
+1 HUSB @I3@
+1 WIFE @I4@
+1 MARR
+2 DATE 3 Aug 1931
+0 @F3@ FAM
+1 _UID 3FBB37F01124A143B5F3E21C0B2900DBEFBB
+1 HUSB @I3@
+1 WIFE @I612@
+1 MARR
+2 DATE 10 Aug 1878
+2 PLAC Liberty County, Tx
+0 @F4@ FAM
+1 _UID 975D311B73DE7A49856FBE2FD0F6E7C7A97A
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I3@
+1 CHIL @I21@
+1 CHIL @I613@
+1 CHIL @I1194@
+1 CHIL @I615@
+1 MARR
+2 DATE 30 Jun 1907
+2 PLAC Angelina County, Texas
+0 @F8@ FAM
+1 _UID FC843262C95715419D7453A871B5EC953D14
+1 HUSB @I9@
+1 WIFE @I255@
+1 CHIL @I253@
+1 CHIL @I256@
+1 CHIL @I257@
+1 CHIL @I258@
+1 CHIL @I259@
+1 MARR
+2 DATE 25 Jan 1860
+2 PLAC Angelina County, Texas
+0 @F9@ FAM
+1 _UID B7801A76C761BF46A467A785FC06F61A3D41
+1 HUSB @I11@
+1 WIFE @I15@
+1 CHIL @I62@
+1 CHIL @I9@
+1 CHIL @I238@
+1 CHIL @I65@
+1 CHIL @I243@
+1 CHIL @I38@
+1 MARR
+2 DATE BEF 1830
+0 @F10@ FAM
+1 _UID 7DE4E1BF55F7DC4AA009C2AE25878514D170
+1 HUSB @I10@
+1 WIFE @I275@
+1 MARR
+2 DATE 28 May 1900
+0 @F11@ FAM
+1 _UID 12028E954E4BA8448CF52FBE4D9CEAA09DC7
+1 HUSB @I51@
+1 WIFE @I65@
+1 CHIL @I10@
+1 CHIL @I66@
+1 MARR
+2 DATE ABT 1878
+0 @F12@ FAM
+1 _UID 049B7C7E5587BA46B45C9AC7CEE89D568F29
+1 HUSB @I11@
+1 WIFE @I607@
+1 CHIL @I608@
+1 MARR
+2 DATE ABT 1822
+0 @F13@ FAM
+1 _UID 5620790A2A41864F8DA770A24546F71213CF
+1 HUSB @I621@
+1 WIFE @I622@
+1 CHIL @I11@
+0 @F14@ FAM
+1 _UID B67FAB57AD711245B6B3107670D13F0520A7
+1 HUSB @I12@
+1 WIFE @I62@
+1 CHIL @I13@
+1 CHIL @I14@
+1 MARR
+2 DATE 1 Sep 1856
+2 PLAC Texas
+0 @F15@ FAM
+1 _UID 1CD37ECF57D04F44AB85A4021323608AECDE
+1 CHIL @I12@
+1 CHIL @I270@
+1 MARR
+2 DATE 26 Dec 1815
+2 PLAC Amite County, Mississippi
+0 @F16@ FAM
+1 _UID 9C86EDB6557DF8469208350B8F9475266D94
+1 HUSB @I13@
+1 WIFE @I47@
+1 MARR
+2 DATE 8 Jul 1883
+2 PLAC Angelina County, Texas
+0 @F17@ FAM
+1 _UID 776E243E081E9943B5EF540B7172542DB04E
+1 HUSB @I272@
+1 WIFE @I14@
+1 MARR
+2 DATE 21 Jul 1875
+2 PLAC Angelina County, Texas
+0 @F19@ FAM
+1 _UID 1BC362F1BD9B7347A39077934FEA2BF2D62B
+1 HUSB @I17@
+1 WIFE @I309@
+1 CHIL @I575@
+1 CHIL @I618@
+1 CHIL @I619@
+1 CHIL @I1196@
+1 CHIL @I1148@
+1 CHIL @I1149@
+1 CHIL @I1413@
+1 CHIL @I1414@
+1 CHIL @I1415@
+0 @F20@ FAM
+1 _UID 525449F2B7E5D446A9F437E5CDDDA1EA852B
+1 HUSB @I30@
+1 WIFE @I31@
+1 CHIL @I17@
+1 CHIL @I41@
+1 MARR
+2 DATE 8 Aug 1882
+2 PLAC Angelina County, Texas
+0 @F25@ FAM
+1 _UID 00AAE8B47149D6489104207A3479C004BEA2
+1 HUSB @I21@
+1 WIFE @I591@
+0 @F36@ FAM
+1 _UID 9A06FAF1AE9DEE46B927211E09000DF736F6
+1 HUSB @I30@
+1 WIFE @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+1 MARR
+2 DATE 14 Apr 1890
+2 PLAC Angelina County, Texas
+0 @F37@ FAM
+1 _UID 3800FFA90BBEE54D89F63CE0297A8D9238E4
+1 HUSB @I37@
+1 WIFE @I38@
+1 CHIL @I30@
+1 CHIL @I75@
+1 CHIL @I76@
+1 CHIL @I1395@
+1 MARR
+2 DATE 28 May 1846
+2 PLAC Nacogdoches, Angelina County, Texas
+0 @F38@ FAM
+1 _UID D9C4AC9A85BA744E93C1E60E75D2C989C5B4
+1 HUSB @I51@
+1 CHIL @I31@
+1 MARR
+2 DATE 27 Sep 1836
+2 PLAC Alabama
+0 @F41@ FAM
+1 _UID E9B518548814BD41A1755066804D21CD2BB5
+1 HUSB @I35@
+1 WIFE @I34@
+0 @F42@ FAM
+1 _UID 8BF1116C417095429DDEAB3B9A0837D38E1D
+1 HUSB @I48@
+1 WIFE @I41@
+1 CHIL @I49@
+1 CHIL @I1416@
+1 CHIL @I1418@
+1 CHIL @I34@
+1 CHIL @I616@
+1 MARR
+2 DATE 15 Feb 1905
+2 PLAC Angelina County, Texas
+0 @F44@ FAM
+1 _UID 33CFD59E9A41414E92ECBD2F66A4F9024E1D
+1 HUSB @I37@
+1 WIFE @I77@
+1 CHIL @I80@
+1 CHIL @I78@
+1 CHIL @I79@
+1 MARR
+2 DATE 1841
+2 PLAC Texas
+0 @F45@ FAM
+1 _UID ED204C9747E1F548938DBCB0361914FB3F2D
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I37@
+1 CHIL @I81@
+1 CHIL @I82@
+1 CHIL @I83@
+1 MARR
+2 DATE BEF 1815
+2 PLAC Possibly Tn
+0 @F46@ FAM
+1 _UID 27804D29974079458770367B3B936342CDD6
+1 HUSB @I1215@
+1 WIFE @I41@
+0 @F47@ FAM
+1 _UID E80C5D22BC36E841A9C461FBBF412F3AC0A7
+1 HUSB @I1204@
+1 WIFE @I43@
+1 MARR
+2 DATE 20 Nov 1912
+2 PLAC Jefferson County, Texas
+0 @F48@ FAM
+1 _UID 5D561DBE80908B40AFECB6C341E1C11B7B37
+1 HUSB @I1205@
+1 WIFE @I45@
+1 MARR
+2 DATE 12 Sep 1923
+2 PLAC Jefferson County, Texas
+0 @F49@ FAM
+1 _UID 4062FA506E921E4D9B230A9B0A49001623F2
+1 HUSB @I1206@
+1 WIFE @I45@
+1 CHIL @I1419@
+1 CHIL @I1421@
+0 @F50@ FAM
+1 _UID 4BD1E17CE5B5974DAF995FE4A753562F016C
+1 HUSB @I46@
+1 WIFE @I1119@
+1 CHIL @I1120@
+0 @F51@ FAM
+1 _UID 346BDBD606C660418449640E133305579E33
+1 HUSB @I78@
+1 WIFE @I85@
+1 CHIL @I47@
+1 CHIL @I264@
+1 CHIL @I265@
+1 CHIL @I266@
+1 CHIL @I267@
+1 CHIL @I268@
+1 CHIL @I269@
+1 CHIL @I904@
+1 CHIL @I906@
+1 MARR
+2 DATE 27 Feb 1870
+2 PLAC Waco, Mclennan County. Texas
+0 @F52@ FAM
+1 _UID E583D989EBCE03448B34B564979ADB5B0961
+1 HUSB @I50@
+1 WIFE @I49@
+1 MARR
+2 DATE 14 Jul 1935
+2 PLAC Woodville, Tyler County, Texas
+0 @F53@ FAM
+1 _UID 726314DBC3771240BCF716A91B64FD4E8CAB
+1 HUSB @I51@
+1 WIFE @I62@
+1 CHIL @I63@
+1 MARR
+2 DATE 31 Dec 1871
+0 @F64@ FAM
+1 _UID 49B994546B939E4E99228E95174CB3622AFD
+1 HUSB @I274@
+1 WIFE @I63@
+1 MARR
+2 DATE 24 Dec 1891
+2 PLAC Texas
+0 @F65@ FAM
+1 _UID 0098609ABAA7934E91057D55D1FAD5B79330
+1 HUSB @I66@
+1 WIFE @I277@
+1 MARR
+2 DATE 22 Dec 1901
+2 PLAC Angelina County, Texas
+0 @F74@ FAM
+1 _UID 7D6A14739A21CC46842CD023050FAF8E2F16
+1 HUSB @I87@
+1 WIFE @I75@
+1 CHIL @I271@
+1 CHIL @I1099@
+1 CHIL @I1100@
+1 CHIL @I1101@
+1 CHIL @I1102@
+1 MARR
+2 DATE 28 May 1868
+2 PLAC Angelina County, Texas
+0 @F75@ FAM
+1 _UID D596D8B3C918374E92CF7A8954C29AC434A9
+1 HUSB @I76@
+1 WIFE @I273@
+1 CHIL @I305@
+1 CHIL @I610@
+1 CHIL @I1427@
+1 CHIL @I1429@
+0 @F76@ FAM
+1 _UID 7B7F5F3E811DC24F947C310A997BC5EE58C8
+1 HUSB @I78@
+1 WIFE @I1319@
+1 MARR
+2 DATE ABT 1915
+2 PLAC Oklahoma
+0 @F77@ FAM
+1 _UID 39CCFC8EE7A2374292CB78E52E49AC7BE990
+1 HUSB @I79@
+1 WIFE @I86@
+1 MARR
+2 DATE 26 Oct 1876
+2 PLAC Angelina County, Texas
+0 @F78@ FAM
+1 _UID 7D39955461C809428A63874B671A374ED8AD
+1 HUSB @I80@
+1 WIFE @I84@
+1 MARR
+2 DATE 1860
+2 PLAC Angelina County, Texas
+0 @F79@ FAM
+1 _UID 3E4EC28F2D200A4880242980458DEB098FC5
+1 HUSB @I81@
+1 WIFE @I288@
+1 CHIL @I1189@
+1 CHIL @I1190@
+1 CHIL @I1191@
+1 CHIL @I1192@
+1 MARR
+2 DATE 15 Feb 1849
+2 PLAC Angelina County, Texas
+0 @F80@ FAM
+1 _UID E97B5C35E40D42418DBCA6AEC89BA20611AB
+1 HUSB @I286@
+1 WIFE @I82@
+1 MARR
+2 DATE 5 May 1844
+2 PLAC Nacogdoches, Texas
+0 @F81@ FAM
+1 _UID 7F631DD8DE3A854CA1B6C37E1C43027D36D3
+1 HUSB @I287@
+1 WIFE @I83@
+1 CHIL @I1140@
+1 CHIL @I1141@
+1 CHIL @I1188@
+1 MARR
+2 DATE 4 May 1844
+2 PLAC Nacogdoches, Texas
+0 @F82@ FAM
+1 _UID 6447A8A7F2134847948BADF751D5B38AB48D
+1 CHIL @I84@
+1 CHIL @I87@
+1 MARR
+2 DATE 28 Nov 1816
+2 PLAC Rutherford County, Tennessee
+0 @F83@ FAM
+1 _UID 22BE42D97712CC47B8F83267D760B6B48107
+1 HUSB @I87@
+1 CHIL @I272@
+1 MARR
+2 DATE AFT Jul 1860
+0 @F189@ FAM
+1 _UID 9DA5FB79ACFF3C45BDD155BC1157F6D0AF72
+1 HUSB @I238@
+1 WIFE @I270@
+1 MARR
+2 DATE 8 Aug 1849
+2 PLAC Angelina County, Texas
+0 @F197@ FAM
+1 _UID 2C94FF462504B449AC9DE9515F023D77C396
+1 HUSB @I253@
+1 WIFE @I254@
+1 MARR
+2 DATE 19 Nov 1891
+2 PLAC Angelina County, Texas
+0 @F198@ FAM
+1 _UID 8A6B13391241744F9E46BCC6D89234CE2932
+1 CHIL @I255@
+1 MARR
+2 DATE 17 Oct 1837
+2 PLAC San Augustine County, Texas
+0 @F199@ FAM
+1 _UID 7004206F4921AE449D519456BD426E2BCFAC
+1 HUSB @I261@
+1 WIFE @I256@
+1 MARR
+2 DATE 16 Feb 1890
+0 @F200@ FAM
+1 _UID D27E0DC6D6B20A42841D816015D6BA304EF5
+1 HUSB @I262@
+1 WIFE @I257@
+1 MARR
+2 DATE 14 Feb 1897
+2 PLAC Forest, Cherokee County, Texas
+0 @F201@ FAM
+1 _UID 4DBA9398BDAA8D4CA3776C485D75F70009DA
+1 HUSB @I1314@
+1 WIFE @I258@
+1 MARR
+2 DATE ABT 1897
+2 PLAC Texas
+0 @F202@ FAM
+1 _UID 53ACC79AC44B4C4C8A752F45E12C34A76212
+1 HUSB @I263@
+1 WIFE @I259@
+0 @F204@ FAM
+1 _UID 95B0412EC5DA4B4DB2324265DC79A462D1B9
+1 HUSB @I265@
+1 WIFE @I900@
+1 MARR
+2 DATE 27 Nov 1899
+2 PLAC Oklahoma
+0 @F205@ FAM
+1 _UID 78E569CF2B1FB14BA9AFDF554E7778D97D6C
+1 HUSB @I265@
+1 WIFE @I1139@
+0 @F206@ FAM
+1 _UID F9EC5A12FCE4954B9B6BE72FD4C712C7A1F5
+1 HUSB @I265@
+1 WIFE @I1208@
+1 MARR
+2 DATE BEF 1894
+0 @F207@ FAM
+1 _UID B725F9CCF1388B42BACAEB7A5696D0225E1F
+1 HUSB @I901@
+1 WIFE @I266@
+1 MARR
+2 DATE 4 Feb 1890
+0 @F208@ FAM
+1 _UID E06B7762BF388F468481C898983537E43DC9
+1 HUSB @I267@
+1 WIFE @I902@
+0 @F209@ FAM
+1 _UID 88DBCEA16080144B90D91F4CD008E1983688
+1 HUSB @I268@
+1 WIFE @I903@
+0 @F210@ FAM
+1 _UID 777DE507EBEFC34D90166169343CE8962897
+1 HUSB @I269@
+1 WIFE @I907@
+0 @F211@ FAM
+1 _UID 8A1CF33F7351384EBCFE51894B5A288A0D07
+1 HUSB @I269@
+1 WIFE @I1209@
+0 @F212@ FAM
+1 _UID A984828C4158E54E81FD347F8A5E3F086776
+1 HUSB @I271@
+1 WIFE @I1103@
+0 @F400@ FAM
+1 _UID C40BC9CFF4EE2046B9445D24AB684B048FCA
+1 HUSB @I1141@
+1 WIFE @I605@
+1 MARR
+2 DATE 1872
+2 PLAC Angelina County, Texas
+0 @F401@ FAM
+1 _UID AE52437754A25546BB095073A1F61E82096B
+1 HUSB @I611@
+1 WIFE @I610@
+0 @F402@ FAM
+1 _UID DB74B599FCD27C4C8FC1142518D6930A4783
+1 HUSB @I614@
+1 WIFE @I613@
+1 MARR
+2 DATE 14 Nov 1957
+0 @F403@ FAM
+1 _UID E4C08F85F4B0CD49B5FE850F04A1AB707962
+1 HUSB @I1128@
+1 WIFE @I613@
+0 @F404@ FAM
+1 _UID 251785EE5F04F846B89A9CD8BE2E382E68C1
+1 HUSB @I615@
+1 WIFE @I1216@
+0 @F405@ FAM
+1 _UID B7153C991F3A7042B9013936048D3CB0526E
+1 HUSB @I817@
+1 WIFE @I616@
+1 MARR
+2 DATE 25 Feb 1937
+2 PLAC Tyler County, Texas
+0 @F407@ FAM
+1 _UID D42EA72FB231374CBA6522DFE058575A4706
+1 DIV Y
+1 HUSB @I620@
+1 WIFE @I618@
+1 MARR
+2 DATE 7 Apr 1962
+0 @F408@ FAM
+1 _UID 1CDF3D2D600C434D9C3F4E5B66138042200E
+1 HUSB @I623@
+1 WIFE @I624@
+1 CHIL @I621@
+0 @F409@ FAM
+1 _UID 716A037EB20457458CA6840C7F858B302F3C
+1 HUSB @I635@
+1 WIFE @I636@
+1 CHIL @I622@
+0 @F410@ FAM
+1 _UID F02BD4A5D9D98A4790155CCAAD47B18C1384
+1 HUSB @I625@
+1 CHIL @I624@
+0 @F411@ FAM
+1 _UID 15169BB9994FF148899BB3206DC3F6621F9E
+1 HUSB @I626@
+1 CHIL @I625@
+0 @F412@ FAM
+1 _UID 20F3008AE0CF56409A6AA8CAE495A6279E9A
+1 HUSB @I626@
+1 WIFE @I627@
+0 @F413@ FAM
+1 _UID 146A81185EB4D04384DD4F03DF8113D83A6C
+1 HUSB @I628@
+1 WIFE @I629@
+1 CHIL @I626@
+0 @F414@ FAM
+1 _UID 9CF178796CB40F43AEE8D4A2FF6248F59AE2
+1 HUSB @I630@
+1 WIFE @I631@
+1 CHIL @I628@
+0 @F415@ FAM
+1 _UID F142BDD4E167E047B027D36E8C0F8F75EAD9
+1 HUSB @I632@
+1 WIFE @I633@
+1 CHIL @I629@
+0 @F416@ FAM
+1 _UID 5574FBC2FCB0494BB22034B7D50C3266FC0A
+1 HUSB @I634@
+1 CHIL @I633@
+0 @F417@ FAM
+1 _UID E886C6FC5F0D1946A820888431283DA50AAC
+1 HUSB @I638@
+1 WIFE @I639@
+1 CHIL @I637@
+1 CHIL @I635@
+0 @F418@ FAM
+1 _UID B8B8A3B27841DC49841EA99938C1019A1B74
+1 HUSB @I637@
+1 WIFE @I636@
+0 @F419@ FAM
+1 _UID 8C290A753C691A43A1E97446BE174C942F3C
+1 HUSB @I642@
+1 WIFE @I639@
+0 @F420@ FAM
+1 _UID 95D7BFA9E82DD946AC9B986E34E36816EA61
+1 HUSB @I640@
+1 WIFE @I641@
+1 CHIL @I639@
+0 @F421@ FAM
+1 _UID 0BEAA5849BBB434FB6A16C8063218D066000
+1 CHIL @I642@
+0 @F558@ FAM
+1 _UID 7D4F8BA4B42A5F48BFB3CDAD545CE0C7C3D2
+1 HUSB @I905@
+1 WIFE @I904@
+0 @F559@ FAM
+1 _UID 1EC5AA33DC236A4EA4D4D6E80B0B0B6C3A48
+1 HUSB @I1207@
+1 WIFE @I906@
+1 MARR
+2 DATE ABT 1898
+0 @F638@ FAM
+1 _UID 0B276830C770424999818DA4EE30A363FB24
+1 HUSB @I1099@
+1 WIFE @I1104@
+1 MARR
+2 DATE 7 Sep 1892
+0 @F639@ FAM
+1 _UID FA57B14A3C2D0B48898D3DA70F8DE1B8370F
+1 HUSB @I1105@
+1 WIFE @I1100@
+0 @F640@ FAM
+1 _UID 0C53DA545A1AFD499DECF2834B24B98BF8C2
+1 HUSB @I1101@
+1 WIFE @I1106@
+0 @F641@ FAM
+1 _UID B482FD2189170B4087886B77B4695A761D72
+1 HUSB @I1107@
+1 WIFE @I1102@
+0 @F649@ FAM
+1 _UID 1CE3F6DE07263D4FB4B07EF4ACA4E9852001
+1 HUSB @I1120@
+0 @F653@ FAM
+1 _UID 9EB13098C53481428AB1330A21DF7747094C
+1 HUSB @I1141@
+1 WIFE @I1125@
+0 @F657@ FAM
+1 _UID 19CDA9436D5F224D9C39711FC96284B4D528
+1 HUSB @I1140@
+1 WIFE @I1142@
+1 MARR
+2 DATE 17 Jun 1879
+2 PLAC Smith County, Texas
+0 @F658@ FAM
+1 _UID 64E47DD6E28CA3439E2FFE984F9AAD341C62
+1 HUSB @I1140@
+1 WIFE @I1143@
+0 @F666@ FAM
+1 _UID D6673BDE0A921949B89A020DF8DE1341DF56
+1 HUSB @I1191@
+1 WIFE @I1193@
+1 MARR
+2 DATE 1902
+0 @F667@ FAM
+1 _UID 098547DD64873D4BBD6A9B746D630507379A
+1 HUSB @I1195@
+1 WIFE @I1194@
+0 @F726@ FAM
+1 _UID 4E07179B388188478CB7E4958F05ACAD3856
+1 HUSB @I1396@
+1 WIFE @I1395@
+1 MARR
+2 DATE 1880
+2 PLAC Angelina County, Texas
+0 @F733@ FAM
+1 _UID 956618E768B7C54BB1A7DF2DCF345D9D8ACA
+1 HUSB @I1416@
+1 WIFE @I1417@
+0 @F734@ FAM
+1 _UID EAEBB20F0BED054B824BF674A70F464A5B30
+1 HUSB @I1420@
+1 WIFE @I1419@
+0 @F737@ FAM
+1 _UID A692C1B851D7CE4E86DE742E45962C989A4D
+1 HUSB @I1428@
+1 WIFE @I1427@
+1 MARR
+2 DATE 15 Feb 1911
+2 PLAC Angelina County, Texas
+0 @F738@ FAM
+1 _UID EF9DC1A29C91674B89D63872C47C94F29D69
+1 HUSB @I1430@
+1 WIFE @I1429@
+1 MARR
+2 DATE 7 Feb 1916
+2 PLAC Angelina County, Texas
+0 TRLR
