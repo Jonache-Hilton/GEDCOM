@@ -60,6 +60,10 @@ def Get_Element_HTML(directoryPath, element):
     filePath = directoryPath + "\\" + str(Get_Element_UID(element)) + ".htm"
     return filePath
 
+def Get_Element_CSS(directoryPath):
+    filePath = directoryPath + "\\" + "app.css"
+    return filePath
+
 def Get_Element_Href(element):
     return str(Get_Element_UID(element)) + ".htm"
 
@@ -104,6 +108,8 @@ def Publish_Html5(parser, element, id, directoryPath, bShowGoogleCode, sCSScode)
 
     filePath = Get_Element_HTML(directoryPath, element)
     logging.info("PublishHtml: %s", filePath)
+
+    cssPath = Get_Element_CSS(directoryPath)
 
     fullname = Get_Element_FullName(element)
     lastname = Get_Element_LastName(element)
@@ -165,7 +171,9 @@ def Publish_Html5(parser, element, id, directoryPath, bShowGoogleCode, sCSScode)
     """)
     fp.write(metaDescription)
 
-    fp.write(sCSScode)
+    fp.write(u"""
+        <link rel="stylesheet" type="text/css" href="app.css">
+    """)
 
     if bShowGoogleCode == True:
         fp.write(u"""
@@ -446,7 +454,9 @@ def Publish_IndexHtml(directoryPath, sCSScode, individualCount, nameList, UrlLis
     """)
     fp.write(metaDescription)
 
-    fp.write(sCSScode)
+    fp.write("""
+    <link rel="stylesheet" type="text/css" href="app.css">
+    """)
 
     fp.write(u"""
         </head>
@@ -487,7 +497,13 @@ def Publish_IndexHtml(directoryPath, sCSScode, individualCount, nameList, UrlLis
     )
     fp.close()
     return filePath
-    
+def Publish_CSS(directoryPath, sCSScode):
+
+    cssPath = Get_Element_CSS(directoryPath)
+    fp = open(cssPath, "w", encoding="utf-8")
+    fp.write(sCSScode)
+    fp.close()
+
 def thread_function(self):
 
     logging.info("Thread %s: starting flag = %d", self.m_filePath, self.thread_flag)
@@ -508,6 +524,8 @@ def thread_function(self):
     UIDList = []
 
     # Iterate through all root child elements
+    Publish_CSS(self.m_dirPath, self.m_CSSCode)
+
     for element in elements_list:
 
         if self.thread_flag == 0:
@@ -550,7 +568,6 @@ class MyBoard(QDialog):
     thread_flag = 0
     m_bShowGoogleCode = False
     m_CSSCode = str("""
-            <style id = "compiled css" type = "text/css">
         body {
         color: #222;
         background: #fafafa;
@@ -646,8 +663,7 @@ class MyBoard(QDialog):
         }
         #individual_List_Table tr:nth-child(even) {
         background-color: #dddddd;
-        }        
-    </style>
+        }
     """)
 
     def __init__(self):

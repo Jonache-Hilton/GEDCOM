@@ -1,0 +1,363 @@
+02:37:42: MainBoard : filePath C:/Users/user/Documents/PythonProjects/GEDCOM/hayden.ged
+02:37:49: MainBoard : Start Parsing C:/Users/user/Documents/PythonProjects/GEDCOM/hayden.ged
+02:37:49: MainBoard : Thread Running
+02:37:49: Thread C:/Users/user/Documents/PythonProjects/GEDCOM/hayden.ged: starting flag = 1
+02:37:49: Thread 1 Joseph Weldon Jones: M https://www.findagrave.com/memorial/25393981/joseph-weldon-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D29E7491619F3943916C9E08ED241713CFC6.htm
+02:37:49: Thread 2 Gladys Estelle Alexander: F https://www.findagrave.com/memorial/25393976/gladys-estelle-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\86381D525D48594283BBD341A7718856B569.htm
+02:37:49: Thread 3 William D Y Davis: M https://www.findagrave.com/memorial/63028750/william-d._y.-davis
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2D4511B36AE82841A333AD2504FEA8579A9E.htm
+02:37:49: Thread 4 John Franklin Berry: M https://www.findagrave.com/memorial/13724756/john-franklin-berry
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\E819A0538B2A3947850D40C4FA543198D6AE.htm
+02:37:49: Thread 5 Ashburn Davis: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\699AC15B3D699342ADE2E69CA4B402C3C8AB.htm
+02:37:49: Thread 6 Ephriam P Anderson: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\FACD274555A61348A9A357185A128EEC2A8F.htm
+02:37:49: Thread 7 William L Anderson: M https://www.findagrave.com/memorial/50199966/william-l.-anderson
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\432096A47DD8C74DB15F1AD38732FD682127.htm
+02:37:49: Thread 8 Eliza Jane Anderson: F https://www.findagrave.com/memorial/120336421/lisa-jane-brookshire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\E36197CF70821447A8C754F1BF3268C9CD4A.htm
+02:37:49: Thread 9 Hester Hetta: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7A1324C7B8FBE74396669F54F66EE1CB5421.htm
+02:37:49: Thread 10 Albert Alvin Jones: M https://www.findagrave.com/memorial/60912766/albert-alvin-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B254E7AEA916324C8CAC9BAE9DA58D537BEE.htm
+02:37:49: Thread 11 Lillian Margarette Selman: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\FA8FED09D9DDC54FB6B9501A3F599F49A23F.htm
+02:37:49: Thread 12 Hade Leland Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\24884BD4E0AF4D40A087AF6BBF445A058AC0.htm
+02:37:49: Thread 13 Hayden Lane Jones: M https://www.findagrave.com/memorial/63589103/hayden-lane-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D1B213C53AEA2D49BF3D93ED77FDE0E1A6CC.htm
+02:37:49: Thread 14 Clementine Cleshia Berry: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\AE478A6C4895AC4394B27CA966DFCBE3154C.htm
+02:37:49: Thread 15 Frankie Emily Tunnell: F https://www.findagrave.com/memorial/104319224/frankie-e_-english
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\603540A24105944A9324BE540740307550D7.htm
+02:37:49: Thread 16 Jonas S English: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\68964434DDD5064189B6B037AC7071A9CBAE.htm
+02:37:49: Thread 17 John Franklin Jones: M https://www.findagrave.com/memorial/49950566/john-franklin-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\35C3FD27DA78DD4A8286D5FD3E14B3980C05.htm
+02:37:49: Thread 18 Sarah Ann Davis: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\3B7801E82C93A148A4119E2466CD20778576.htm
+02:37:49: Thread 19 Joshua D Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\0D6BBD595F527D45B2AC8A3D67D35410C4B7.htm
+02:37:49: Thread 20 Sarah P Stiles: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2B159CCE47BE5B43B0E7B5E7F63D64FF1638.htm
+02:37:49: Thread 21 Ira Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\52C8E87C59D90B43938AF40AB4F1A2EA4A35.htm
+02:37:49: Thread 22 Mary Catherine Missouri Strahan: F https://www.findagrave.com/memorial/63583384/mary-missouri-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B36A8EAFBCAAB74E8DA5DBFE8E2F49E9BF52.htm
+02:37:49: Thread 23 Della Lea Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\296675F64BC2F840AB0C2B8FD01321883CF4.htm
+02:37:49: Thread 24 John Allen Jones: M https://www.findagrave.com/memorial/78278059/john-allen-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\99D6817C093EBF4D98E335C32C9675268F39.htm
+02:37:49: Thread 25 Clementine Missouri Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D32A5442541AE746A4C6EFF8D4F77E380087.htm
+02:37:49: Thread 26 Hayden Edward Jones: M https://www.findagrave.com/memorial/45455421/hayden-edward-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\9D729F37A2C2014DB883FA227897DA673E43.htm
+02:37:49: Thread 27 Ellen Nevada Jones: F https://www.findagrave.com/memorial/50200126/ellen-leveda-anderson
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B6235A268C5F064AB440A43EA3C29F55C395.htm
+02:37:49: Thread 28 Blueford Allen Tunnell: M https://www.findagrave.com/memorial/93418962/b_-a_-tunnell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\16FD5AE688213246B495C4A2A3F2F9D2839D.htm
+02:37:49: Thread 29 Hazel Lorene Tunnell: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2E42A2AB06E6D34B97D508F437F996463B0C.htm
+02:37:49: Thread 30 Jim Bob Perkins: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\BB167C8C526E364A937A0C9477A1C84FF5DE.htm
+02:37:49: Thread 31 William Pinkney Berry: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\8A3CB18B7F0CA14A8FCB5028FF1B9F16198B.htm
+02:37:49: Thread 32 Nancy Elmirah Davis: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\517F74F3C579D2449621FF9DCC247188C7DF.htm
+02:37:49: Thread 33 Nancy Susanna Berry: F https://www.findagrave.com/memorial/13819533/nancy-susanna-parish
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\5523941FB40DAA419302078FB77DD23840BE.htm
+02:37:49: Thread 34 Susannah Davis: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\942BBCF8350E624CB5CD54AC4ADFA6893E6C.htm
+02:37:49: Thread 35 Andrew Jackson Berry: M https://www.findagrave.com/memorial/13819551/andrew-jackson-berry
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\3E3BE7F235A5DD49829F81A77FC6FF846389.htm
+02:37:49: Thread 36 Margaret Ann Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1EE8F9B5C6869441B67C838B54DCCEDCEF9B.htm
+02:37:49: Thread 37 Oliver L Jones: M https://www.findagrave.com/memorial/92363656/oliver-l.-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B28C2CC4A9833E4E99B5B8F818BB1F805699.htm
+02:37:49: Thread 38 Sara A Brookshire: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\9EDC204F12D3BC409B3187ABA3F95D25E60E.htm
+02:37:49: Thread 39 William Perry Jones: M https://www.findagrave.com/memorial/59005354/william-perry-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\270252B0D543ED4BB8835C4A7696E798E7AB.htm
+02:37:49: Thread 40 John Henry Jones: M https://www.findagrave.com/memorial/176835682/john-henry-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2D6AFFAA7E2C83488EE87974429B7783EF38.htm
+02:37:49: Thread 41 James P Jones: M https://www.findagrave.com/memorial/120470752/james-p-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\25B80CA83F6DA84FAE81DB8F9850F88734ED.htm
+02:37:49: Thread 42 James Middleton Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\127BB492400D3243A292CFD85731A9B8598E.htm
+02:37:49: Thread 43 Martha Malinda Jones: F https://www.findagrave.com/memorial/62822002/martha-malinda-kuykendall
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4C9DF5FF9E4AB94CB5DE4AAD6F41E23A201C.htm
+02:37:49: Thread 44 Elizabeth Jones: F https://www.findagrave.com/memorial/17972228/elizabeth-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A39A4584905B77438AA5063775CC3ABE50CE.htm
+02:37:49: Thread 45 Ellender Rebecca Brookshire: F https://www.findagrave.com/memorial/13820408/rebecca-elenor-berry
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\FD853CDDC9A03C40AB232C19B4F3C8555760.htm
+02:37:49: Thread 46 Mahaly Martha Harris: F https://www.findagrave.com/memorial/59037463/mahaly-martha-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2C3E06ED8AD57242ACD7FD1EE1B4A278BD45.htm
+02:37:49: Thread 47 Margaret C Reynolds: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\0B2100EE6A31D3449ED0F472EB4B6F7FC4E6.htm
+02:37:49: Thread 48 Jesse Wright Brookshire: M https://www.findagrave.com/memorial/8154251/jesse-wright-brookshire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B8E4F36C7152C745937EA96C45F0CFD6CA1B.htm
+02:37:49: Thread 49 George A Davis: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6E84CCD9DA88474A9508265281AD21F0DED4.htm
+02:37:49: Thread 50 Francis B Davis: U 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\25851088D739B44DA614482EC27DCC750305.htm
+02:37:49: Thread 51 Jesse William Davis: M https://www.findagrave.com/memorial/117267998/jesse-william-davis
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\25817B2802F0B745A1B08FC2CE20599CBC7E.htm
+02:37:49: Thread 52 Felonia Katherine Goodwin: F https://www.findagrave.com/memorial/117268371/felonia-catherine-davis
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2A696F0FC02F714F869254E974D3BBE3FA27.htm
+02:37:49: Thread 53 Sarah Jane Cole: F https://www.findagrave.com/memorial/63028823/sarah-jane-davis
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\5B21810CEEDD3743A69AF564EC2C2812391F.htm
+02:37:49: Thread 54 Jemima Ann Victory Davis: F https://www.findagrave.com/memorial/180060254/jemima-freeman
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D27A4AB9FE97AA449677E572656ED6F5D42C.htm
+02:37:49: Thread 55 Elmina Davis: F https://www.findagrave.com/memorial/6383855/elmina-cartwright
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\249D482F5CDD394BA3EF8C3DD3FB55BE3131.htm
+02:37:49: Thread 56 Louisa Paralee Davis: F https://www.findagrave.com/memorial/6383819/lou-bates
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\211BF2CF99CA59499162BF6931D6E121262F.htm
+02:37:49: Thread 57 Julia Ann Davis: F https://www.findagrave.com/memorial/6527182/julia-ann-latham
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6518B9EE07D6CD4FAC2D1C82D8B8BACEACD2.htm
+02:37:49: Thread 58 John A Freeman: M https://www.findagrave.com/memorial/49434149/john-freeman
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\EB1CF5A2A804E3479203CA376487128990A3.htm
+02:37:49: Thread 59 Armond Cartwright: M https://www.findagrave.com/memorial/6383852/armond-cartwright
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7C75AE47B1136049AFF3B624FD5BC2503916.htm
+02:37:49: Thread 60 Enoch Henry Latham: M https://www.findagrave.com/memorial/87099170/enoch-h-latham
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B017FA8511DA90429595C6E4E2AF2421ADB3.htm
+02:37:49: Thread 61 George Hayden Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\72F9275877AEA544ACE81756101EA5D09CD9.htm
+02:37:49: Thread 62 John Henry Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\766070468AA3BB45B815CA830FBA15EC9D00.htm
+02:37:49: Thread 63 Penelopy Jones: F https://www.findagrave.com/memorial/64567669/penelopy-j-lusk
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DBCAE2C6D322D14297A72F0C2034B3F4C9DB.htm
+02:37:49: Thread 64 Robert Melvin Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\861D2C3D6C82CB4A88F1F41E70E88AFC786F.htm
+02:37:49: Thread 65 William Oscar Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\168496ABB841464FB94AB7C766A9A40BA8CE.htm
+02:37:49: Thread 66 James Edgar Jones: M https://www.findagrave.com/memorial/54742681/james-edgar-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7F49D7F9BFD00A40BDCC47288F20BC9B6FC3.htm
+02:37:49: Thread 67 Martha Anderson: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DABFCEC136EE5B43A1C9017B1C5F62833055.htm
+02:37:49: Thread 68 Henderson H Brookshire: M https://www.findagrave.com/memorial/52463009/henderson-h-brookshire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\E131FDAC6FD53D458231E935668BEC507FF2.htm
+02:37:49: Thread 69 John Wright Mannering Brookshire: M https://www.findagrave.com/memorial/61938062/john-wright_mannering-brookshire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\903D913AF9778049BC799476A2284337547F.htm
+02:37:49: Thread 70 Mary Jane Cochran: F https://www.findagrave.com/memorial/92365009/mary-jane-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6CDD8C94A334A643A03637564B34A935E957.htm
+02:37:49: Thread 71 Richard E Parish: M https://www.findagrave.com/memorial/62276454/richard-e.-parish
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B4EA98138C44DA47BEAA42E312E42413F49C.htm
+02:37:49: Thread 72 Eva Berry: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\62ECB5995FB66F45BBB90BA589D794DF5CBA.htm
+02:37:49: Thread 73 Martha Charlotte Wilkerson: F https://www.findagrave.com/memorial/14320698/martha-charlotte-berry
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4EFD4470149DD043ABFD6A11ACED295F0781.htm
+02:37:49: Thread 74 James Henry Kuykendall: M https://www.findagrave.com/memorial/62821653/james-henry-kuykendall
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B8F4673066A3E74D8FC2B612033CBFD76EDB.htm
+02:37:49: Thread 75 Isaac Massingill: M https://www.findagrave.com/memorial/17972219/isaac-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\5626A940C8FC3F459AF8021B5AC2B6A2D016.htm
+02:37:49: Thread 76 Mary Ann Sparks: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A760244805CE1C4FA6B49F0E8ACD9E5805E4.htm
+02:37:49: Thread 77 Viola Jones: F https://www.findagrave.com/memorial/52424496/viola-goodson
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7DE1E0AE6A24234A9731414BC7CD137F61C5.htm
+02:37:49: Thread 78 Leonia Pearl O'Quinn: F https://www.findagrave.com/memorial/60912937/leonia-pearl-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\85741FB4FD408B4686B0B143F61B9258FF8C.htm
+02:37:49: Thread 79 Jessie B Jones: M https://www.findagrave.com/memorial/60912819/jessie-b-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6F347BE72213BB43B9032B7FBD410AB3595B.htm
+02:37:49: Thread 80 Lula Eugene Majors: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\EEC1973F4143104BB3FA18B12C0C91690CA6.htm
+02:37:49: Thread 81 Caldonia Sarah Underwood: F https://www.findagrave.com/memorial/120633861/caldonia-sarah-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\8C33065A9DF2FB45B8C26469D472151CACFF.htm
+02:37:49: Thread 82 Rachel Matlock: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A485035F464C394599EED56BE37C9D4FAD23.htm
+02:37:49: Thread 83 Ashburn Davis: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\84C6119E2A5EAB48A77B9E89B013E8A00865.htm
+02:37:49: Thread 84 Cassie Orell Jones: F https://www.findagrave.com/memorial/32306835/cassie-orell-miles
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\81213031C69FB54D952CDDE362F1BCF8F244.htm
+02:37:49: Thread 85 Erna Rothchild Miles: M https://www.findagrave.com/memorial/32306804/erna-rothchild-miles
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\72F8AD8D6BA74D4CBAFDE890C903F2C905FB.htm
+02:37:49: Thread 86 Clara Nell Herring: F https://www.findagrave.com/memorial/25394155/clara-nell-mcwhirter
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\15688D0913B01F4A968B16035548EFDADFCB.htm
+02:37:49: Thread 87 Johnnie Louise Jones: F https://www.findagrave.com/memorial/25404727/johnnie-louise-weaver
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\035DC57BB20B7740A79803110BF2B10D2297.htm
+02:37:49: Thread 88 William Anthony Weaver: M https://www.findagrave.com/memorial/25404728/william-anthony-weaver
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\22B067C6931ADB4C8E609C9627F6E7BAB108.htm
+02:37:49: Thread 89 Louie Hudson Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2FC43DF6416BFB438820C1A1B4C20B5BF660.htm
+02:37:49: Thread 90 Radie Inez Tunnell: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\F38BEAF487363941923C13DFD70AD56B743E.htm
+02:37:49: Thread 91 Mary Sue Jones: F https://www.findagrave.com/memorial/147172884/mary-sue-knight
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6FA5FB34855F9A41A82026F062D053FC61E5.htm
+02:37:49: Thread 92 George Lane Jones: M https://www.findagrave.com/memorial/69000626/george-lane-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\160837A09776384985ABDCBFAE663A7A1671.htm
+02:37:49: Thread 93 Joseph O'Farrell Knight: M https://www.findagrave.com/memorial/7295816/joseph-o'farrell-knight
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\5440B2D8BFEC084BB71FE42C560BE5EB33B2.htm
+02:37:49: Thread 94 John Davey: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\8BC4BE3AE77A8C4B8A028A838658256782A9.htm
+02:37:49: Thread 95 Elizabeth Winstead: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\38A06DA6D4702D438F7B1E4CEF16051C394A.htm
+02:37:49: Thread 96 Gabriel Davey: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\C1A3D9913DBFE240B201EF45A176ADCD6494.htm
+02:37:49: Thread 97 Elizabeth Bumpass: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\9BF258DEB1A463449C03D396B2DE932C1617.htm
+02:37:49: Thread 98 Robert Bumpass: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\9A6F0ACE0F68CB4399BF1A8411B0E9151B04.htm
+02:37:49: Thread 99 Samuel Bumpas: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\49FA66EEDF564A4C89E00360584DDF9C4E91.htm
+02:37:49: Thread 100 Mary Gabriel: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\E9FE6E48FD44BD428B9B19ABF925B8882567.htm
+02:37:49: Thread 101 John Bumpas: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6D9DF83B485F20499670D8B140BDFEAA81FA.htm
+02:37:49: Thread 102 Sarah Hunter: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\86A1148BC1838E4784536EB4DCCD2205A84B.htm
+02:37:49: Thread 103 Edward Bompasse: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6B7A0349EBCD4742A8D4A48BA912274A49AD.htm
+02:37:49: Thread 104 Hannah Annable: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\0568B1D5A83BF245A0763897F3478E1DD788.htm
+02:37:49: Thread 105 William Hunter: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\82A8F1BA5589F142B461BF7614AEC2F2A612.htm
+02:37:49: Thread 106 Rebecca Besse: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\403A37DF266DD743934E5AB0A9A60ABB3C9E.htm
+02:37:49: Thread 107 Anthony Besse: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\14E12C9DA6705D40BF5CB4BF37A781F65482.htm
+02:37:49: Thread 108 Cottance Winstead: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\0804D5973FEA2749BD7DF4EC79ED9A9AC546.htm
+02:37:49: Thread 109 Katherine Hall: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DAF9E716E3E24A47B8265D91060F381F5E55.htm
+02:37:49: Thread 110 Charles Brown Winstead: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\9768FBD1F23B054580832FC0319125082397.htm
+02:37:49: Thread 111 Samuel Winstead: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1691BD9B5E3FEF4FA600AD68E4CBFD5293D1.htm
+02:37:49: Thread 112 Elizabeth Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DA1D387D1E42B4498605E51A298A35920D04.htm
+02:37:49: Thread 113 Johnson Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6B843ED675E8A5419A018A5ED7624F44952A.htm
+02:37:49: Thread 114 Elizabeth Brown: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\05A8C366B9F0894DABDA88AF6768D7C9803F.htm
+02:37:49: Thread 115 John Winstead: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B5C62D04A18F9F4AB573A714CD6ED42CE382.htm
+02:37:49: Thread 116 William Benton Jordan: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\27659F90BDC5D44CAA2AF370E1E0D199BF5B.htm
+02:37:49: Thread 117 Carrie Booker: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\052667E3D6FCA14E83E1139477BD56693454.htm
+02:37:49: Thread 118 Alpheus Morgan Lusk: M https://www.findagrave.com/memorial/142740704/alpheus-m-lusk
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\75F2E316A786EE4F8A167B5D532A9D167266.htm
+02:37:49: Thread 119 Fannie Mae Montague: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\F3F8A92031F93242A439DF3B863918EC0CCA.htm
+02:37:49: Thread 120 Bertha Mae Brant: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6C901CF3E38363408656A0E8C0E2812BC617.htm
+02:37:49: Thread 121 Francis Ann Jones: F https://www.findagrave.com/memorial/31576009/fannie-isabell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\179D703C09B1B847BB35752151F60F23189A.htm
+02:37:49: Thread 122 William Andrew Isabell: M https://www.findagrave.com/memorial/31576002/andy-isabell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7D99EA3A70897B4EBF929D937B2358B62972.htm
+02:37:49: Thread 123 Sarah Margaret Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D53E8E968013B14CA8874B044518247A40A0.htm
+02:37:49: Thread 124 Julia E Cornelius: F https://www.findagrave.com/memorial/58190458/julia-edith-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2180E08C464AF0489DC7536D2A3F1456CC99.htm
+02:37:49: Thread 125 Jesse C Brookshire: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DF5F017D4B4015498FD4CE4222E9BFE6C898.htm
+02:37:49: Thread 126 Edna Jane Brookshire: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\28B2744B021FC945B4F6A4E13D752EAA81B9.htm
+02:37:49: Thread 127 Worley Brookshire: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7F1B039A55639D4A954CFECBE96DF39F6891.htm
+02:37:49: Thread 128 Lula Brookshire: F https://www.findagrave.com/memorial/121532957/lula-whisenant
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\628472EA03277E479AA9466F1B160DA40BE0.htm
+02:37:49: Thread 129 Minnie Ola Holland: F https://www.findagrave.com/memorial/124760714/minnie-ola-brookshire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\711ED09666A48F43B1ECDF5A30C523935275.htm
+02:37:49: Thread 130 Margaret L Cheatham: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\DB89CE7DD81DE448B723BBB5F5778F172C29.htm
+02:37:49: Thread 131 George Edward Carlisle: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\F521D6780B1730468B6FEE87E8DE4AE86330.htm
+02:37:49: Thread 132 Gertrude Tubbe: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6BA57704CD7C7249A217BD846E3A0A569189.htm
+02:37:49: Thread 133 Quitman Quisenant: M https://www.findagrave.com/memorial/82786949/quitman-whisenant
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1F527F1B2ED08E49AF169AD030D3FAF50124.htm
+02:37:49: Thread 134 Margie Mae Graham: F https://www.findagrave.com/memorial/45455422/margie-mae-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7FFF304A13C4864D8299B7E998945414F172.htm
+02:37:49: Thread 135 Hayden Edward Jones: M https://www.findagrave.com/memorial/176626234/hayden-edward-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\B48AD98104B7B94B9B49FE0224756BD7161C.htm
+02:37:49: Thread 136 Mary Ann McCurdy: F https://www.findagrave.com/memorial/55044230/marianna-ann-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\642968AC14C1E14D960C1C1593EB92FD8410.htm
+02:37:49: Thread 137 James Ashley Chapman: M https://www.findagrave.com/memorial/130635914/jim-chapman
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\EC4895ABAD2C004BA954B815D144D4529DC7.htm
+02:37:49: Thread 138 Martha Cornelia Gross: F http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=63518301
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\20D06E7E3D4C4145A807AFF43FE2D93A718E.htm
+02:37:49: Thread 139 Joshua George Massingill: M https://www.findagrave.com/memorial/18061012/joshua-george-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\23BFC254ED922240A32E73511773CAA86AC9.htm
+02:37:49: Thread 140 Page M Massingill: M http://findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=17972307
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2F1CDE2AA03280458EACF8E11DCBE2B57C94.htm
+02:37:49: Thread 141 Callie Davis: F https://www.findagrave.com/memorial/18061015/callie-f-massingill
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4A2ED2D07F8EF44C95DA099C90B0F368161E.htm
+02:37:49: Thread 142 Harriett Moore: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4D2D87EC77A1AF468F57FFD5D3333C847A79.htm
+02:37:49: Thread 143 Willie Don Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\E9482DCC9BBE7E49BD669F4F2E02F370EE90.htm
+02:37:49: Thread 144 Larry Wayne Jones: M https://www.findagrave.com/memorial/60912879/larry-wayne-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\939ABF8778AD204F947EB2BF7F1528F1370E.htm
+02:37:49: Thread 145 Isaac Massingill: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\12AD69F008499F469B24066A9DE1AB1DC3F4.htm
+02:37:49: Thread 146 Joshua T Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\961478467AFAE043A57682B4DA44E0F84619.htm
+02:37:49: Thread 147 Sarah Elizabeth Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A8F07D61DF2B3743AF26E326876194065A20.htm
+02:37:49: Thread 148 James Riley Jones: M https://www.findagrave.com/memorial/197351797/james-riley-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\16948DDF497B3D4093C22A451C15FFB1FC05.htm
+02:37:49: Thread 149 George Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A36BF3A7873A4A45AAED21B6045E2B352831.htm
+02:37:49: Thread 150 Georgia Minnie Sanders: F https://www.findagrave.com/memorial/197351812/georgia-minnie-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\7553BA4241589E43AEE83BD41906C67D45DB.htm
+02:37:49: Thread 151 Anna Ruth Jones: F https://www.findagrave.com/memorial/45608878/anna-ruth-whitmire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\360D6E257E041342BFBD8FEAEE9DDC4B54CD.htm
+02:37:49: Thread 152 J B Whitmire: M https://www.findagrave.com/memorial/45608863/j-b-whitmire
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D671C8FD2A0B8A4AB6B3877FB8881306DD15.htm
+02:37:49: Thread 153 John Alvin Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\AA4F8A62103B544DA5A991B4D222CA1D3F1D.htm
+02:37:49: Thread 154 John Malcolm Rudd: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\A321B697DA3A624EAE529FA6C095CFB6F4BF.htm
+02:37:49: Thread 155 Eugene Berton Coker: M https://www.findagrave.com/memorial/155540252/eugene-berton-coker
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\F04354F8A03A8547AB2A06C5D5DAA52A439D.htm
+02:37:49: Thread 156 Henry Harrison York: M https://www.findagrave.com/memorial/28440640/henry-harrison-york
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4A8D4375CD95A84B9E8DF5C5434413B417C8.htm
+02:37:49: Thread 157 Charles Marvin McClanahan: M https://www.findagrave.com/memorial/23156190/charles-marvin-mcclanahan
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\252777B89F267A4CA04E4E01C53DD4A2BB09.htm
+02:37:49: Thread 158 Genettie Settles: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\292E305C487F5A49AA1BB05988D5859F9CAA.htm
+02:37:49: Thread 159 Mable Margaret Boyer: F https://www.findagrave.com/memorial/54742572/mable-margret-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\756888F99461004E965B40413297D9883D0F.htm
+02:37:49: Thread 160 John Blakely Prothro: M https://www.findagrave.com/memorial/34928143/john-blakely-prothro
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\4FCAF188A31BC54D9D78A070785B5408B6D1.htm
+02:37:49: Thread 161 Syble Jack Stewart: F https://www.findagrave.com/memorial/119571542/syble-jack-jones
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\FBD7029AA321844193D448A1B5C67BA8E5B4.htm
+02:37:49: Thread 162 William Wayne Bates: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\25B83D27CFDFA6498DB0375B44AF911C4D63.htm
+02:37:49: Thread 163 Francis Lenora Harris: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1A207FE2FB592245816070575A5332947198.htm
+02:37:49: Thread 164 Mary Catherine Jones: F https://www.findagrave.com/memorial/32151901/mary-catherine-traweek
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\525D67AE49C651439CB06926E0667E7D838D.htm
+02:37:49: Thread 165 Hosea Penn Traweek: M https://www.findagrave.com/memorial/32151801/hosea-penn-traweek
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\08ECA7C1B4B7A74F95FFD52E33015BA5888C.htm
+02:37:49: Thread 166 Minnie Lee Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2B1CA456314510438897AF33C1554E249325.htm
+02:37:49: Thread 167 Vallie D Jones: F 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1652F0F23CF9D346AC6E3D27F2BABADA56A6.htm
+02:37:49: Thread 168 Ray Eugene Jones: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\6C47AB849A48574798E81E8A6ACC22482A42.htm
+02:37:49: Thread 169 Carey James Tunnell: M https://www.findagrave.com/memorial/104265253/carey-james-tunnell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\1E51DD85ABA4EB42A6C093E6FF33C2AECE2D.htm
+02:37:49: Thread 170 Ruby Elizabeth Jones: F https://www.findagrave.com/memorial/104265322/ruby-elizabeth-tunnell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2E9924E828EBB841AA07307713FC27CA3755.htm
+02:37:49: Thread 171 Carol Lee Tunnell: M https://www.findagrave.com/memorial/196423585/carol-tunnell
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\D3ED489E5F530A449A53D2607F3CE1A607CF.htm
+02:37:49: Thread 172 Ruby Mae York: F https://www.findagrave.com/memorial/69432982/ruby-mae-utvik
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\2253A7C375BEF246AC5A5430D01DF530E605.htm
+02:37:49: Thread 173 Gunnar Utvik: M https://www.findagrave.com/memorial/90408813/gunnar-utvik#view-photo=94306563
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\8244873DBB534D4D92AB2CA8C830DACEE362.htm
+02:37:49: Thread 174 Henry Harrison York: M 
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\8767BEEE89351D4C98D291A8AB8A5C1106B3.htm
+02:37:49: Thread 175 Madge Cochran Jones: F https://www.findagrave.com/memorial/85825843/madge-cochran-gribble
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\5D0E8DDA06C2DC47BE8C66AF9055066B7268.htm
+02:37:49: Thread 176 Charles Goodrich Gribble: M https://www.findagrave.com/memorial/32593385/charles-goodrich-gribble
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\02A936AF5B4077408222E73F2E5B23A90123.htm
+02:37:49: Thread 177 Julia B Jones: F https://www.findagrave.com/memorial/101768954/julia-taylor
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\935B386B53FD85498A838ACA5FFFFC1F892D.htm
+02:37:49: Thread 178 Martin Junius Taylor: M https://www.findagrave.com/memorial/69676731/martin-junius-taylor
+02:37:49: PublishHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\27E98CBDE01DA54E92EAC3BBFDB8775FCEDF.htm
+02:37:49: Publish_IndexHtml: C:/Users/user/Documents/PythonProjects/GEDCOM/Pages\list.htm
+02:37:49: Thread Element Count: 178
+02:37:49: Thread C:/Users/user/Documents/PythonProjects/GEDCOM/hayden.ged: finished
