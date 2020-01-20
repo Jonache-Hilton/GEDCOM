@@ -209,31 +209,31 @@ def Publish_Html5(parser, element, id, directoryPath, bShowGoogleCode, sCSScode)
         <br>
     """)
 
-    fp.write(u"""
-    <div id = 'advertiser_intro_part'>
-    <center>
-    <center>Our advertisers help pay the expenses of this site.  Please patronize them.</center>
-    </div>
-    """)
+    # fp.write(u"""
+    # <div id = 'advertiser_intro_part'>
+    # <center>
+    # <center>Our advertisers help pay the expenses of this site.  Please patronize them.</center>
+    # </div>
+    # """)
     fp.write(u"<br>")
 
-    if bShowGoogleCode == True:
-        fp.write(u"""
-        <div id = 'GoogleCode_part'>
-        <center><script type="text/javascript"><!--
-        google_ad_client = "ca-pub-6129979233663841";
-        /* genealogy leader */
-        google_ad_slot = "5342539673";
-        google_ad_width = 728;	
-        google_ad_height = 90;
-        //-->
-        </script>
-        <script type="text/javascript"
-        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-        </script>
-        </center><p>
-        </div>
-        """)
+    # if bShowGoogleCode == True:
+    #     fp.write(u"""
+    #     <div id = 'GoogleCode_part'>
+    #     <center><script type="text/javascript"><!--
+    #     google_ad_client = "ca-pub-6129979233663841";
+    #     /* genealogy leader */
+    #     google_ad_slot = "5342539673";
+    #     google_ad_width = 728;	
+    #     google_ad_height = 90;
+    #     //-->
+    #     </script>
+    #     <script type="text/javascript"
+    #     src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    #     </script>
+    #     </center><p>
+    #     </div>
+    #     """)
     
     fp.write(u"<div id = 'Info_Part'><center><font size = 4>" + fullname + " was born " + birthdayValue + " in " + birthplaceValue + ".<br></div>")
     fp.write(u"<br>")
@@ -419,7 +419,7 @@ def Publish_Html5(parser, element, id, directoryPath, bShowGoogleCode, sCSScode)
         """
         </section>
         """)
-    fp.write(u"<footer> <center>&copy;Copyright 2012-2019 ellisgenealogy.com</center> </footer>")
+    fp.write(u"<footer> <center>&copy;Copyright 2012-2020 ellisgenealogy.com</center> </footer>")
     fp.write(u"""
         </div>
         </body>
